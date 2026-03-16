@@ -29,7 +29,7 @@
 
 1. Κλωνοποιήστε το αποθετήριο:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/iosifidis/mathe-ellak.git
    cd mathe-ellak
    ```
 
