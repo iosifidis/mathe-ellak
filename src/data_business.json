@@ -1,0 +1,128 @@
+[
+    {
+        "id": "biz-productivity",
+        "title": "Παραγωγικότητα & Συνεργασία",
+        "description": "Βασικά εργαλεία γραφείου και επικοινωνίας για την καθημερινή λειτουργία της ομάδας.",
+        "subcategories": [
+            {
+                "id": "libreoffice-biz",
+                "title": "LibreOffice",
+                "description": "Πλήρης σουίτα γραφείου για κείμενα, λογιστικά φύλλα και παρουσιάσεις.",
+                "commercial_equivalent": "Microsoft Office",
+                "url": "https://www.libreoffice.org"
+            },
+            {
+                "id": "nextcloud-biz",
+                "title": "Nextcloud",
+                "description": "Πλατφόρμα συνεργασίας, διαχείρισης αρχείων (cloud) και ομαδικής εργασίας.",
+                "commercial_equivalent": "Google Workspace, Dropbox Business",
+                "url": "https://nextcloud.com"
+            },
+            {
+                "id": "thunderbird-biz",
+                "title": "Thunderbird",
+                "description": "Επαγγελματικός επεξεργαστής email και διαχείριση ημερολογίου.",
+                "commercial_equivalent": "Microsoft Outlook",
+                "url": "https://www.thunderbird.net"
+            },
+            {
+                "id": "mattermost-biz",
+                "title": "Mattermost",
+                "description": "Τηλεδιάσκεψη και άμεση επικοινωνία ομάδας με chat και βιντεοκλήσεις.",
+                "commercial_equivalent": "Slack, Microsoft Teams",
+                "url": "https://mattermost.com"
+            }
+        ]
+    },
+    {
+        "id": "erp-crm-finance",
+        "title": "Διαχείριση Πόρων & Οικονομικά",
+        "description": "Συστήματα για τον έλεγχο αποθεμάτων, τιμολόγηση και διαχείριση πελατολογίου.",
+        "subcategories": [
+            {
+                "id": "odoo-biz",
+                "title": "Odoo",
+                "description": "Ολοκληρωμένο λογιστικό και ERP σύστημα για μικρές και μεσαίες επιχειρήσεις.",
+                "commercial_equivalent": "SAP, QuickBooks",
+                "url": "https://www.odoo.com"
+            },
+            {
+                "id": "erpnext-biz",
+                "title": "ERPNext",
+                "description": "Διαχείριση αποθήκης, παραγωγής και εφοδιαστικής αλυσίδας.",
+                "commercial_equivalent": "SAP ERP",
+                "url": "https://erpnext.com"
+            },
+            {
+                "id": "invoiceninja-biz",
+                "title": "InvoiceNinja",
+                "description": "Εξειδικευμένη διαχείριση τιμολογίων και επικοινωνίας με πελάτες.",
+                "commercial_equivalent": "Zoho Invoice",
+                "url": "https://www.invoiceninja.com"
+            },
+            {
+                "id": "suitecrm-biz",
+                "title": "SuiteCRM",
+                "description": "Πλατφόρμα διαχείρισης σχέσεων πελατών (CRM) για πωλήσεις και marketing.",
+                "commercial_equivalent": "Salesforce, HubSpot",
+                "url": "https://suitecrm.com"
+            }
+        ]
+    },
+    {
+        "id": "it-security-dev",
+        "title": "IT, Ασφάλεια & Web",
+        "description": "Εργαλεία για τη διαχείριση υποδομών, ηλεκτρονικό εμπόριο και ανάπτυξη.",
+        "subcategories": [
+            {
+                "id": "woocommerce-biz",
+                "title": "WooCommerce",
+                "description": "Πλατφόρμα ηλεκτρονικού εμπορίου βασισμένη στο WordPress.",
+                "commercial_equivalent": "Shopify, Magento",
+                "url": "https://woocommerce.com"
+            },
+            {
+                "id": "glpi-biz",
+                "title": "GLPI",
+                "description": "Διαχείριση IT υποδομής, servers και helpdesk.",
+                "commercial_equivalent": "ServiceNow",
+                "url": "https://glpi-project.org"
+            },
+            {
+                "id": "openvas-biz",
+                "title": "OpenVAS",
+                "description": "Εργαλείο ανίχνευσης ευπαθειών και ασφάλειας δικτύων.",
+                "commercial_equivalent": "Nessus",
+                "url": "https://www.openvas.org"
+            },
+            {
+                "id": "wireshark-biz",
+                "title": "Wireshark",
+                "description": "Ανάλυση κίνησης δικτύου σε βάθος για τεχνικούς IT.",
+                "commercial_equivalent": "Microsoft Network Monitor",
+                "url": "https://www.wireshark.org"
+            }
+        ]
+    },
+    {
+        "id": "data-analytics-biz",
+        "title": "Ανάλυση Δεδομένων",
+        "description": "Εργαλεία Business Intelligence (BI) και ανάλυσης για τη λήψη αποφάσεων.",
+        "subcategories": [
+            {
+                "id": "metabase-biz",
+                "title": "Metabase",
+                "description": "BI και οπτικοποίηση δεδομένων με εύχρηστα dashboards.",
+                "commercial_equivalent": "Tableau, Power BI",
+                "url": "https://www.metabase.com"
+            },
+            {
+                "id": "jupyter-biz",
+                "title": "Jupyter Notebook",
+                "description": "Ανάλυση δεδομένων με Python/R για επιστημονική προσέγγιση.",
+                "commercial_equivalent": "MATLAB, SPSS",
+                "url": "https://jupyter.org"
+            }
+        ]
+    }
+]

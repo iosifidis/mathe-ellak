@@ -1,0 +1,26 @@
+[
+  {
+    "id": "daily",
+    "title": "Καθημερινή Χρήση",
+    "description": "Για το σπίτι και τις προσωπικές σου ανάγκες.",
+    "file": "data_daily.json"
+  },
+  {
+    "id": "business",
+    "title": "Επιχείρηση",
+    "description": "Εργαλεία για επαγγελματίες και εταιρείες.",
+    "file": "data_business.json"
+  },
+  {
+    "id": "edu",
+    "title": "Εκπαίδευση",
+    "description": "Λύσεις για μαθητές, φοιτητές και εκπαιδευτικούς.",
+    "file": "data_edu.json"
+  },
+  {
+    "id": "gov",
+    "title": "Δημόσιος Οργανισμός",
+    "description": "Υποδομές για δημόσια διοίκηση και φορείς.",
+    "file": "data_gov.json"
+  }
+]

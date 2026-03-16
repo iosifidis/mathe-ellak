@@ -1,0 +1,135 @@
+[
+    {
+        "id": "office-productivity",
+        "title": "Εργαλεία Γραφείου",
+        "description": "Εφαρμογές για έγγραφα, σημειώσεις και οργάνωση της καθημερινότητάς σου.",
+        "subcategories": [
+            {
+                "id": "libreoffice-daily",
+                "title": "LibreOffice",
+                "description": "Η πιο ισχυρή εναλλακτική σουίτα γραφείου, πλήρως συμβατή με αρχεία Word, Excel και PowerPoint.",
+                "commercial_equivalent": "Microsoft Office",
+                "url": "https://el.libreoffice.org/"
+            },
+            {
+                "id": "thunderbird-daily",
+                "title": "Thunderbird",
+                "description": "Διαχείριση email, ημερολογίου και επαφών σε ένα ασφαλές περιβάλλον.",
+                "commercial_equivalent": "Microsoft Outlook",
+                "url": "https://www.thunderbird.net/el/"
+            },
+            {
+                "id": "joplin-daily",
+                "title": "Joplin",
+                "description": "Εφαρμογή για κρατάς σημειώσεις και να τις συγχρονίζεις με ασφάλεια σε όλες τις συσκευές σου.",
+                "commercial_equivalent": "Evernote, Microsoft OneNote",
+                "url": "https://joplinapp.org/"
+            },
+            {
+                "id": "scribus-daily",
+                "title": "Scribus",
+                "description": "Επαγγελματική επιτραπέζια δημοσίευση (Desktop Publishing) για αφίσες και περιοδικά.",
+                "commercial_equivalent": "Microsoft Publisher, Adobe InDesign",
+                "url": "https://www.scribus.net/"
+            }
+        ]
+    },
+    {
+        "id": "internet-privacy",
+        "title": "Internet & Ιδιωτικότητα",
+        "description": "Περιηγητές και εργαλεία επικοινωνίας που δεν σε κατασκοπεύουν.",
+        "subcategories": [
+            {
+                "id": "firefox-daily",
+                "title": "Firefox",
+                "description": "Ο περιηγητής που ανήκει σε μη κερδοσκοπικό οργανισμό και προστατεύει τα δεδομένα σου.",
+                "commercial_equivalent": "Google Chrome, Edge, Safari",
+                "url": "https://www.mozilla.org/el/firefox/"
+            },
+            {
+                "id": "signal-daily",
+                "title": "Signal",
+                "description": "Η πιο ασφαλής εφαρμογή για κρυπτογραφημένα μηνύματα και κλήσεις.",
+                "commercial_equivalent": "WhatsApp, Viber",
+                "url": "https://signal.org/"
+            },
+            {
+                "id": "tor-browser-daily",
+                "title": "Tor Browser",
+                "description": "Πλήρης ανωνυμία στο διαδίκτυο μέσω του δικτύου Tor.",
+                "commercial_equivalent": "VPN / Incognito Mode",
+                "url": "https://www.torproject.org/"
+            },
+            {
+                "id": "librewolf-daily",
+                "title": "LibreWolf",
+                "description": "Μια παραλλαγή του Firefox ρυθμισμένη εξαρχής για μέγιστη προστασία της ιδιωτικότητας.",
+                "commercial_equivalent": "Chrome",
+                "url": "https://librewolf.net/"
+            }
+        ]
+    },
+    {
+        "id": "multimedia-creative",
+        "title": "Πολυμέσα & Δημιουργικότητα",
+        "description": "Εργαλεία για να δημιουργείς και να απολαμβάνεις video, μουσική και εικόνες.",
+        "subcategories": [
+            {
+                "id": "vlc-daily",
+                "title": "VLC Media Player",
+                "description": "Παίζει τα πάντα! Ο πιο δημοφιλής player για video και μουσική παγκοσμίως.",
+                "commercial_equivalent": "Windows Media Player",
+                "url": "https://www.videolan.org/vlc/"
+            },
+            {
+                "id": "gimp-daily",
+                "title": "GIMP",
+                "description": "Επαγγελματική επεξεργασία φωτογραφίας και εικόνας με χρήση layers.",
+                "commercial_equivalent": "Adobe Photoshop",
+                "url": "https://www.gimp.org/"
+            },
+            {
+                "id": "kdenlive-daily",
+                "title": "Kdenlive",
+                "description": "Ολοκληρωμένο πρόγραμμα για μοντάζ video με εφέ και πολλαπλά κανάλια.",
+                "commercial_equivalent": "Adobe Premiere, iMovie",
+                "url": "https://kdenlive.org/"
+            },
+            {
+                "id": "inkscape-daily",
+                "title": "Inkscape",
+                "description": "Δημιουργία διανυσματικών γραφικών (logos, εικονογραφήσεις).",
+                "commercial_equivalent": "Adobe Illustrator, CorelDraw",
+                "url": "https://inkscape.org/"
+            }
+        ]
+    },
+    {
+        "id": "systems-utilities",
+        "title": "Λειτουργικά & Βοηθήματα",
+        "description": "Ανανέωσε τον υπολογιστή σου και οργάνωσε τα αρχεία σου.",
+        "subcategories": [
+            {
+                "id": "ubuntu-daily",
+                "title": "Ubuntu",
+                "description": "Ένα πλήρες, δωρεάν και ασφαλές λειτουργικό σύστημα για τον υπολογιστή σου.",
+                "commercial_equivalent": "Windows, macOS",
+                "url": "https://ubuntu-gr.org/"
+            },
+            {
+                "id": "tails-daily",
+                "title": "Tails",
+                "description": "Λειτουργικό σύστημα που τρέχει από USB και δεν αφήνει κανένα ίχνος στον υπολογιστή.",
+                "commercial_equivalent": "Κανένα (Εξειδικευμένο για ασφάλεια)",
+                "url": "https://tails.net/"
+            },
+            {
+                "id": "seven-zip-daily",
+                "title": "7-Zip",
+                "description": "Κορυφαίο εργαλείο για συμπίεση και αποσυμπίεση αρχείων.",
+                "commercial_equivalent": "WinZip, WinRAR",
+                "url": "https://www.7-zip.org/"
+            }
+        ]
+    }
+]

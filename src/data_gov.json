@@ -1,0 +1,100 @@
+[
+    {
+        "id": "egov-participation",
+        "title": "Συμμετοχική Διακυβέρνηση",
+        "description": "Λογισμικό που επιτρέπει στους πολίτες να συμμετέχουν ενεργά στη λήψη αποφάσεων και τη διαφάνεια.",
+        "subcategories": [
+            {
+                "id": "decidim",
+                "title": "Decidim",
+                "description": "Πλατφόρμα συμμετοχικής δημοκρατίας για ψηφοφορίες και κατάρτιση προϋπολογισμού.",
+                "commercial_equivalent": "Κλειστά συστήματα διαβούλευσης",
+                "url": "https://decidim.org/"
+            },
+            {
+                "id": "consul",
+                "title": "Consul Democracy",
+                "description": "Πρωτοποριακή λύση για τη συμμετοχή των πολιτών στη διακυβέρνηση πόλεων.",
+                "commercial_equivalent": "CitizenLab (Proprietary)",
+                "url": "https://consuldemocracy.org/"
+            },
+            {
+                "id": "globaleaks",
+                "title": "GlobaLeaks",
+                "description": "Πλατφόρμα για την ασφαλή και ανώνυμη υποβολή καταγγελιών (whistleblowing).",
+                "commercial_equivalent": "Gotcha (Proprietary)",
+                "url": "https://www.globaleaks.org/"
+            }
+        ]
+    },
+    {
+        "id": "open-data-portals",
+        "title": "Ανοιχτά Δεδομένα",
+        "description": "Εργαλεία για τη δημιουργία πυλών πρόσβασης σε διοικητικά δεδομένα.",
+        "subcategories": [
+            {
+                "id": "ckan",
+                "title": "CKAN",
+                "description": "Το κορυφαίο σύστημα παγκοσμίως για την αποθήκευση και διανομή ανοιχτών δεδομένων.",
+                "commercial_equivalent": "Socrata",
+                "url": "https://ckan.org/"
+            },
+            {
+                "id": "openfisca",
+                "title": "OpenFisca",
+                "description": "Προσομοίωση φορολογικής και κοινωνικής πολιτικής για δημόσιους οργανισμούς.",
+                "commercial_equivalent": "Custom Proprietary Simulation Software",
+                "url": "https://openfisca.org/"
+            }
+        ]
+    },
+    {
+        "id": "gov-infrastructure",
+        "title": "Υποδομές & Διαλειτουργικότητα",
+        "description": "Λύσεις για τη διαχείριση εγγράφων, βάσεων δεδομένων και ταυτοποίησης.",
+        "subcategories": [
+            {
+                "id": "nextcloud-gov",
+                "title": "Nextcloud",
+                "description": "Συνεργατική επεξεργασία εγγράφων και διαμοιρασμός αρχείων με πλήρη έλεγχο.",
+                "commercial_equivalent": "MS Teams, Google Docs",
+                "url": "https://nextcloud.com/"
+            },
+            {
+                "id": "postgresql-gov",
+                "title": "PostgreSQL",
+                "description": "Η πιο προηγμένη βάση δεδομένων ανοιχτού κώδικα για κρίσιμες εφαρμογές.",
+                "commercial_equivalent": "Oracle Database",
+                "url": "https://www.postgresql.org/"
+            },
+            {
+                "id": "keycloak-gov",
+                "title": "Keycloak",
+                "description": "Διαχείριση ταυτότητας και πρόσβασης (SSO) για δημόσιες υπηρεσίες.",
+                "commercial_equivalent": "Okta, Auth0",
+                "url": "https://www.keycloak.org/"
+            }
+        ]
+    },
+    {
+        "id": "gov-gis-security",
+        "title": "GIS & Ασφάλεια",
+        "description": "Γεωγραφικά συστήματα και εργαλεία προστασίας υποδομών.",
+        "subcategories": [
+            {
+                "id": "qgis-gov",
+                "title": "QGIS",
+                "description": "Ανάλυση και οπτικοποίηση γεωγραφικών δεδομένων για δήμους και φορείς.",
+                "commercial_equivalent": "ESRI ArcGIS",
+                "url": "https://www.qgis.org/"
+            },
+            {
+                "id": "pfsense-gov",
+                "title": "pfSense",
+                "description": "Λογισμικό τείχους ασφαλείας (Firewall) και δρομολόγησης επιπέδου επιχείρησης.",
+                "commercial_equivalent": "Cisco ASA, Juniper",
+                "url": "https://www.pfsense.org/"
+            }
+        ]
+    }
+]

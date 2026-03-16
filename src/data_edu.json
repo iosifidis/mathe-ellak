@@ -1,0 +1,142 @@
+[
+    {
+        "id": "school-basics",
+        "title": "Σχολική Εκπαίδευση",
+        "description": "Βασικά εργαλεία για μαθητές και δασκάλους πρωτοβάθμιας και δευτεροβάθμιας εκπαίδευσης.",
+        "subcategories": [
+            {
+                "id": "gcompris",
+                "title": "GCompris",
+                "description": "Εκπαιδευτικά παιχνίδια για παιδιά 2-10 ετών.",
+                "commercial_equivalent": "ABCmouse, Khan Academy Kids",
+                "url": "https://gcompris.net"
+            },
+            {
+                "id": "tuxpaint",
+                "title": "Tux Paint",
+                "description": "Πρόγραμμα ζωγραφικής για παιδιά δημοτικού.",
+                "commercial_equivalent": "Kid Pix",
+                "url": "http://www.tuxpaint.org/"
+            },
+            {
+                "id": "scratch",
+                "title": "Scratch",
+                "description": "Εκμάθηση προγραμματισμού μέσω οπτικών μπλοκ.",
+                "commercial_equivalent": "Code.org",
+                "url": "https://scratch.mit.edu"
+            },
+            {
+                "id": "openboard",
+                "title": "OpenBoard",
+                "description": "Διαδραστικός πίνακας για μαθήματα και παρουσιάσεις.",
+                "commercial_equivalent": "SMART Notebook",
+                "url": "https://openboard.ch"
+            }
+        ]
+    },
+    {
+        "id": "stem-science",
+        "title": "STEM & Επιστήμες",
+        "description": "Λογισμικό για θετικές επιστήμες, μαθηματικά και προσομοιώσεις.",
+        "subcategories": [
+            {
+                "id": "geogebra",
+                "title": "GeoGebra",
+                "description": "Εργαλείο μαθηματικών και γεωμετρίας.",
+                "commercial_equivalent": "Geometer's Sketchpad",
+                "url": "https://www.geogebra.org"
+            },
+            {
+                "id": "phet",
+                "title": "PhET Simulations",
+                "description": "Διαδραστικές προσομοιώσεις φυσικής και χημείας.",
+                "commercial_equivalent": "Labster",
+                "url": "https://phet.colorado.edu"
+            },
+            {
+                "id": "stellarium",
+                "title": "Stellarium",
+                "description": "Προσομοίωση αστρονομίας για μελέτη ουράνιων σωμάτων.",
+                "commercial_equivalent": "Starry Night",
+                "url": "https://stellarium.org"
+            },
+            {
+                "id": "avogadro",
+                "title": "Avogadro",
+                "description": "Επεξεργασία και οπτικοποίηση μορίων.",
+                "commercial_equivalent": "ChemDraw",
+                "url": "https://avogadro.cc/"
+            }
+        ]
+    },
+    {
+        "id": "higher-edu",
+        "title": "Ανώτατη Εκπαίδευση",
+        "description": "Εξειδικευμένα λογισμικά για πανεπιστημιακά τμήματα και έρευνα.",
+        "subcategories": [
+            {
+                "id": "moodle",
+                "title": "Moodle",
+                "description": "Πλατφόρμα διαχείρισης μαθησιακών διαδικασιών (LMS).",
+                "commercial_equivalent": "Blackboard, Canvas",
+                "url": "https://moodle.org"
+            },
+            {
+                "id": "r-project",
+                "title": "R Project",
+                "description": "Εφαρμοσμένη στατιστική και ανάλυση δεδομένων.",
+                "commercial_equivalent": "SPSS, SAS",
+                "url": "https://www.r-project.org"
+            },
+            {
+                "id": "octave",
+                "title": "GNU Octave",
+                "description": "Μαθηματικές εφαρμογές και οπτικοποίηση δεδομένων.",
+                "commercial_equivalent": "MATLAB",
+                "url": "https://www.gnu.org/software/octave/"
+            },
+            {
+                "id": "zotero",
+                "title": "Zotero",
+                "description": "Διαχείριση βιβλιογραφικών παραπομπών.",
+                "commercial_equivalent": "EndNote, Mendeley",
+                "url": "https://www.zotero.org"
+            }
+        ]
+    },
+    {
+        "id": "advanced-engineering",
+        "title": "Τέχνες & Μηχανική",
+        "description": "Επαγγελματικά εργαλεία για σχεδιασμό, μουσική και 3D.",
+        "subcategories": [
+            {
+                "id": "musescore",
+                "title": "MuseScore",
+                "description": "Μουσική σύνθεση και σημειογραφία.",
+                "commercial_equivalent": "Sibelius, Finale",
+                "url": "https://musescore.org/"
+            },
+            {
+                "id": "freecad",
+                "title": "FreeCAD",
+                "description": "3D CAD εργαλείο για αρχιτεκτονική και μηχανολογικό σχεδιασμό.",
+                "commercial_equivalent": "AutoCAD, SolidWorks",
+                "url": "https://www.freecad.org"
+            },
+            {
+                "id": "blender",
+                "title": "Blender",
+                "description": "3D μοντελοποίηση, animation και rendering.",
+                "commercial_equivalent": "3ds Max, Maya",
+                "url": "https://www.blender.org"
+            },
+            {
+                "id": "audacity",
+                "title": "Audacity",
+                "description": "Εγγραφή και επεξεργασία ήχου.",
+                "commercial_equivalent": "Adobe Audition",
+                "url": "https://www.audacityteam.org"
+            }
+        ]
+    }
+]
