@@ -31,60 +31,123 @@
                 "description": "Τηλεδιάσκεψη και άμεση επικοινωνία ομάδας με chat και βιντεοκλήσεις.",
                 "commercial_equivalent": "Slack, Microsoft Teams",
                 "url": "https://mattermost.com"
+            },
+            {
+                "id": "jitsi-biz",
+                "title": "Jitsi Meet",
+                "description": "Ανοικτή πλατφόρμα για ασφαλείς τηλεδιασκέψεις χωρίς την ανάγκη λογαριασμού.",
+                "commercial_equivalent": "Zoom, Webex",
+                "url": "https://jitsi.org/jitsi-meet/"
+            },
+            {
+                "id": "framadate-biz",
+                "title": "Framadate",
+                "description": "Εύχρηστη υπηρεσία για τον προγραμματισμό συναντήσεων και τη λήψη αποφάσεων (δημοσκοπήσεις).",
+                "commercial_equivalent": "Doodle",
+                "url": "https://framadate.org/"
             }
         ]
     },
     {
-        "id": "erp-crm-finance",
-        "title": "Διαχείριση Πόρων & Οικονομικά",
-        "description": "Συστήματα για τον έλεγχο αποθεμάτων, τιμολόγηση και διαχείριση πελατολογίου.",
+        "id": "project-management-biz",
+        "title": "Διαχείριση Έργων",
+        "description": "Εργαλεία για την οργάνωση εργασιών, παρακολούθηση προόδου και agile ανάπτυξη.",
+        "subcategories": [
+            {
+                "id": "openproject-biz",
+                "title": "OpenProject",
+                "description": "Ολοκληρωμένο σύστημα διαχείρισης έργων, tasks και ομάδων.",
+                "commercial_equivalent": "Trello, Asana",
+                "url": "https://www.openproject.org/"
+            },
+            {
+                "id": "taiga-biz",
+                "title": "Taiga",
+                "description": "Εξειδικευμένο εργαλείο για Agile/Scrum διαχείριση έργων με έμφαση στην ευχρηστία.",
+                "commercial_equivalent": "Jira",
+                "url": "https://taiga.io/"
+            }
+        ]
+    },
+    {
+        "id": "erp-accounting-biz",
+        "title": "Λογιστική & ERP",
+        "description": "Συστήματα διαχείρισης επιχειρησιακών πόρων και λογιστικής παρακολούθησης.",
         "subcategories": [
             {
                 "id": "odoo-biz",
                 "title": "Odoo",
-                "description": "Ολοκληρωμένο λογιστικό και ERP σύστημα για μικρές και μεσαίες επιχειρήσεις.",
-                "commercial_equivalent": "SAP, QuickBooks",
-                "url": "https://www.odoo.com"
+                "description": "Ενιαία πλατφόρμα για CRM, πωλήσεις, λογιστική και αποθήκη.",
+                "commercial_equivalent": "SAP, Microsoft Dynamics",
+                "url": "https://www.odoo.com/"
             },
             {
                 "id": "erpnext-biz",
                 "title": "ERPNext",
-                "description": "Διαχείριση αποθήκης, παραγωγής και εφοδιαστικής αλυσίδας.",
-                "commercial_equivalent": "SAP ERP",
-                "url": "https://erpnext.com"
-            },
-            {
-                "id": "invoiceninja-biz",
-                "title": "InvoiceNinja",
-                "description": "Εξειδικευμένη διαχείριση τιμολογίων και επικοινωνίας με πελάτες.",
-                "commercial_equivalent": "Zoho Invoice",
-                "url": "https://www.invoiceninja.com"
-            },
-            {
-                "id": "suitecrm-biz",
-                "title": "SuiteCRM",
-                "description": "Πλατφόρμα διαχείρισης σχέσεων πελατών (CRM) για πωλήσεις και marketing.",
-                "commercial_equivalent": "Salesforce, HubSpot",
-                "url": "https://suitecrm.com"
+                "description": "Σύγχρονο ERP για διαχείριση παραγωγής, αποθήκης και οικονομικών.",
+                "commercial_equivalent": "Oracle NetSuite",
+                "url": "https://erpnext.com/"
             }
         ]
     },
     {
-        "id": "it-security-dev",
-        "title": "IT, Ασφάλεια & Web",
-        "description": "Εργαλεία για τη διαχείριση υποδομών, ηλεκτρονικό εμπόριο και ανάπτυξη.",
+        "id": "ecommerce-marketing-biz",
+        "title": "Ηλεκτρονικό Εμπόριο & Marketing",
+        "description": "Εργαλεία για τη δημιουργία eshop και την ανάλυση επισκεψιμότητας.",
         "subcategories": [
             {
-                "id": "woocommerce-biz",
-                "title": "WooCommerce",
-                "description": "Πλατφόρμα ηλεκτρονικού εμπορίου βασισμένη στο WordPress.",
-                "commercial_equivalent": "Shopify, Magento",
-                "url": "https://woocommerce.com"
+                "id": "prestashop-biz",
+                "title": "PrestaShop",
+                "description": "Δημοφιλής πλατφόρμα ηλεκτρονικού εμπορίου με χιλιάδες δυνατότητες παραμετροποίησης.",
+                "commercial_equivalent": "Shopify",
+                "url": "https://www.prestashop.com/"
             },
+            {
+                "id": "matomo-biz",
+                "title": "Matomo",
+                "description": "Πλατφόρμα ανάλυσης ιστού που προστατεύει την ιδιωτικότητα και την κυριότητα των δεδομένων.",
+                "commercial_equivalent": "Google Analytics",
+                "url": "https://matomo.org/"
+            }
+        ]
+    },
+    {
+        "id": "databases-biz",
+        "title": "Βάσεις Δεδομένων",
+        "description": "Συστήματα διαχείρισης δεδομένων που αποτελούν την καρδιά κάθε εφαρμογής.",
+        "subcategories": [
+            {
+                "id": "mysql-biz",
+                "title": "MySQL",
+                "description": "Η πιο διαδεδομένη open-source βάση δεδομένων παγκοσμίως.",
+                "commercial_equivalent": "Microsoft SQL Server",
+                "url": "https://www.mysql.com/"
+            },
+            {
+                "id": "postgresql-biz",
+                "title": "PostgreSQL",
+                "description": "Η πιο εξελιγμένη open-source σχεσιακή βάση δεδομένων.",
+                "commercial_equivalent": "Oracle Database",
+                "url": "https://www.postgresql.org/"
+            },
+            {
+                "id": "mongodb-biz",
+                "title": "MongoDB",
+                "description": "NoSQL βάση δεδομένων για διαχείριση μεγάλου όγκου μη δομημένων δεδομένων.",
+                "commercial_equivalent": "Amazon DocumentDB",
+                "url": "https://www.mongodb.com/"
+            }
+        ]
+    },
+    {
+        "id": "it-security-biz",
+        "title": "IT & Ασφάλεια",
+        "description": "Εργαλεία για τη διαχείριση υποδομών και την προστασία δικτύων.",
+        "subcategories": [
             {
                 "id": "glpi-biz",
                 "title": "GLPI",
-                "description": "Διαχείριση IT υποδομής, servers και helpdesk.",
+                "description": "Διαχείριση περιουσιακών στοιχείων πληροφορικής (Asset Management) και Helpdesk.",
                 "commercial_equivalent": "ServiceNow",
                 "url": "https://glpi-project.org"
             },
@@ -120,7 +183,7 @@
                 "id": "jupyter-biz",
                 "title": "Jupyter Notebook",
                 "description": "Ανάλυση δεδομένων με Python/R για επιστημονική προσέγγιση.",
-                "commercial_equivalent": "MATLAB, SPSS",
+                "commercial_equivalent": "MATLAB",
                 "url": "https://jupyter.org"
             }
         ]

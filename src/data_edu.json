@@ -2,140 +2,196 @@
     {
         "id": "school-basics",
         "title": "Σχολική Εκπαίδευση",
-        "description": "Βασικά εργαλεία για μαθητές και δασκάλους πρωτοβάθμιας και δευτεροβάθμιας εκπαίδευσης.",
+        "description": "Βασικά εργαλεία για μαθητές και δασκάλους πρωτοβάθμιας και δευτεροβάθμιας εκπαίδευσης. [cite: 220, 222]",
         "subcategories": [
             {
                 "id": "gcompris",
                 "title": "GCompris",
-                "description": "Εκπαιδευτικά παιχνίδια για παιδιά 2-10 ετών.",
-                "commercial_equivalent": "ABCmouse, Khan Academy Kids",
+                "description": "Εκπαιδευτικά παιχνίδια για παιδιά 2-10 ετών. [cite: 255]",
+                "commercial_equivalent": "ABCmouse, Khan Academy Kids [cite: 255]",
                 "url": "https://gcompris.net"
             },
             {
                 "id": "tuxpaint",
                 "title": "Tux Paint",
-                "description": "Πρόγραμμα ζωγραφικής για παιδιά δημοτικού.",
-                "commercial_equivalent": "Kid Pix",
+                "description": "Πρόγραμμα ζωγραφικής και επεξεργασίας εικόνας για παιδιά δημοτικού. [cite: 250]",
+                "commercial_equivalent": "Kid Pix [cite: 250]",
                 "url": "http://www.tuxpaint.org/"
             },
             {
                 "id": "scratch",
                 "title": "Scratch",
-                "description": "Εκμάθηση προγραμματισμού μέσω οπτικών μπλοκ.",
-                "commercial_equivalent": "Code.org",
+                "description": "Εκμάθηση προγραμματισμού μέσω οπτικών μπλοκ (block-based). [cite: 255, 269]",
+                "commercial_equivalent": "Code.org [cite: 255]",
                 "url": "https://scratch.mit.edu"
             },
             {
                 "id": "openboard",
                 "title": "OpenBoard",
-                "description": "Διαδραστικός πίνακας για μαθήματα και παρουσιάσεις.",
-                "commercial_equivalent": "SMART Notebook",
+                "description": "Διαδραστικός πίνακας για μαθήματα και παρουσιάσεις. [cite: 254]",
+                "commercial_equivalent": "SMART Notebook [cite: 254]",
                 "url": "https://openboard.ch"
+            },
+            {
+                "id": "h5p-edu",
+                "title": "H5P",
+                "description": "Δημιουργία διαδραστικού εκπαιδευτικού υλικού για το διαδίκτυο. [cite: 255]",
+                "commercial_equivalent": "Articulate Storyline [cite: 255]",
+                "url": "https://h5p.org"
+            },
+            {
+                "id": "kiwix-edu",
+                "title": "Kiwix",
+                "description": "Βιβλιοθήκη ψηφιακού περιεχομένου για χρήση χωρίς σύνδεση στο διαδίκτυο (offline). [cite: 255]",
+                "commercial_equivalent": "Kortext [cite: 255]",
+                "url": "https://www.kiwix.org"
             }
         ]
     },
     {
         "id": "stem-science",
         "title": "STEM & Επιστήμες",
-        "description": "Λογισμικό για θετικές επιστήμες, μαθηματικά και προσομοιώσεις.",
+        "description": "Λογισμικό για θετικές επιστήμες, μαθηματικά και διαδραστικές προσομοιώσεις. [cite: 265, 266]",
         "subcategories": [
             {
                 "id": "geogebra",
                 "title": "GeoGebra",
-                "description": "Εργαλείο μαθηματικών και γεωμετρίας.",
-                "commercial_equivalent": "Geometer's Sketchpad",
+                "description": "Εργαλείο μαθηματικών, γεωμετρίας και άλγεβρας. [cite: 255, 267]",
+                "commercial_equivalent": "Geometer's Sketchpad [cite: 255]",
                 "url": "https://www.geogebra.org"
             },
             {
                 "id": "phet",
                 "title": "PhET Simulations",
-                "description": "Διαδραστικές προσομοιώσεις φυσικής και χημείας.",
-                "commercial_equivalent": "Labster",
+                "description": "Διαδραστικές προσομοιώσεις φυσικής, χημείας και θετικών επιστημών. [cite: 255, 266]",
+                "commercial_equivalent": "Labster [cite: 255]",
                 "url": "https://phet.colorado.edu"
             },
             {
                 "id": "stellarium",
                 "title": "Stellarium",
-                "description": "Προσομοίωση αστρονομίας για μελέτη ουράνιων σωμάτων.",
-                "commercial_equivalent": "Starry Night",
+                "description": "Προσομοίωση αστρονομίας για τη μελέτη και οπτικοποίηση ουράνιων σωμάτων. [cite: 255]",
+                "commercial_equivalent": "Starry Night [cite: 255]",
                 "url": "https://stellarium.org"
             },
             {
-                "id": "avogadro",
-                "title": "Avogadro",
-                "description": "Επεξεργασία και οπτικοποίηση μορίων.",
-                "commercial_equivalent": "ChemDraw",
-                "url": "https://avogadro.cc/"
+                "id": "hot-potatoes",
+                "title": "Hot Potatoes",
+                "description": "Δημιουργία διαδραστικών ασκήσεων και εκπαιδευτικών δραστηριοτήτων. [cite: 268]",
+                "commercial_equivalent": "Quizlet (Premium)",
+                "url": "https://hotpot.uvic.ca/"
             }
         ]
     },
     {
-        "id": "higher-edu",
-        "title": "Ανώτατη Εκπαίδευση",
-        "description": "Εξειδικευμένα λογισμικά για πανεπιστημιακά τμήματα και έρευνα.",
+        "id": "higher-edu-research",
+        "title": "Ανώτατη Εκπαίδευση & Έρευνα",
+        "description": "Εξειδικευμένα λογισμικά για πανεπιστημιακά τμήματα, στατιστική ανάλυση και διαχείριση μάθησης. [cite: 231, 232]",
         "subcategories": [
             {
                 "id": "moodle",
                 "title": "Moodle",
-                "description": "Πλατφόρμα διαχείρισης μαθησιακών διαδικασιών (LMS).",
-                "commercial_equivalent": "Blackboard, Canvas",
+                "description": "Πλατφόρμα διαχείρισης μαθησιακών διαδικασιών (LMS) και εκπαιδευτικού περιεχομένου. [cite: 237, 254]",
+                "commercial_equivalent": "Blackboard, Canvas [cite: 254]",
                 "url": "https://moodle.org"
             },
             {
                 "id": "r-project",
                 "title": "R Project",
-                "description": "Εφαρμοσμένη στατιστική και ανάλυση δεδομένων.",
-                "commercial_equivalent": "SPSS, SAS",
+                "description": "Η κοινή γλώσσα των επιστημόνων για εφαρμοσμένη στατιστική και ανάλυση δεδομένων. [cite: 241, 296]",
+                "commercial_equivalent": "SPSS, SAS, MPlus [cite: 295, 296]",
                 "url": "https://www.r-project.org"
+            },
+            {
+                "id": "jamovi-jasp",
+                "title": "Jamovi / JASP",
+                "description": "Σύγχρονα περιβάλλοντα χρήστη για στατιστική ανάλυση βασισμένα στην R. [cite: 300]",
+                "commercial_equivalent": "SPSS [cite: 300]",
+                "url": "https://www.jamovi.org"
             },
             {
                 "id": "octave",
                 "title": "GNU Octave",
-                "description": "Μαθηματικές εφαρμογές και οπτικοποίηση δεδομένων.",
-                "commercial_equivalent": "MATLAB",
+                "description": "Μαθηματικές εφαρμογές, ανάλυση και οπτικοποίηση δεδομένων. [cite: 242]",
+                "commercial_equivalent": "MATLAB [cite: 242]",
                 "url": "https://www.gnu.org/software/octave/"
-            },
-            {
-                "id": "zotero",
-                "title": "Zotero",
-                "description": "Διαχείριση βιβλιογραφικών παραπομπών.",
-                "commercial_equivalent": "EndNote, Mendeley",
-                "url": "https://www.zotero.org"
             }
         ]
     },
     {
-        "id": "advanced-engineering",
-        "title": "Τέχνες & Μηχανική",
-        "description": "Επαγγελματικά εργαλεία για σχεδιασμό, μουσική και 3D.",
+        "id": "gis-mapping",
+        "title": "Γεωχωρικά Δεδομένα (GIS)",
+        "description": "Εργαλεία για τη διαχείριση, ανάλυση και χαρτογράφηση γεωχωρικών πληροφοριών. [cite: 234, 240]",
         "subcategories": [
             {
-                "id": "musescore",
-                "title": "MuseScore",
-                "description": "Μουσική σύνθεση και σημειογραφία.",
-                "commercial_equivalent": "Sibelius, Finale",
-                "url": "https://musescore.org/"
+                "id": "qgis",
+                "title": "QGIS",
+                "description": "Το πιο διαδεδομένο σύστημα γεωγραφικών πληροφοριών ανοικτού κώδικα. [cite: 240]",
+                "commercial_equivalent": "ArcGIS",
+                "url": "https://www.qgis.org"
             },
             {
-                "id": "freecad",
-                "title": "FreeCAD",
-                "description": "3D CAD εργαλείο για αρχιτεκτονική και μηχανολογικό σχεδιασμό.",
-                "commercial_equivalent": "AutoCAD, SolidWorks",
-                "url": "https://www.freecad.org"
+                "id": "grass-gis",
+                "title": "GRASS GIS",
+                "description": "Λογισμικό για διαχείριση και ανάλυση γεωχωρικών δεδομένων. [cite: 234]",
+                "commercial_equivalent": "ArcInfo",
+                "url": "https://grass.osgeo.org/"
+            }
+        ]
+    },
+    {
+        "id": "dev-apps-edu",
+        "title": "Ανάπτυξη Εφαρμογών & IT",
+        "description": "Περιβάλλοντα ανάπτυξης κώδικα και εργαλεία παρακολούθησης συστημάτων. [cite: 238, 239]",
+        "subcategories": [
+            {
+                "id": "netbeans-edu",
+                "title": "NetBeans",
+                "description": "Περιβάλλον ανάπτυξης εφαρμογών, κυρίως για τη γλώσσα Java. [cite: 238]",
+                "commercial_equivalent": "IntelliJ IDEA (Commercial)",
+                "url": "https://netbeans.apache.org/"
             },
             {
-                "id": "blender",
-                "title": "Blender",
-                "description": "3D μοντελοποίηση, animation και rendering.",
-                "commercial_equivalent": "3ds Max, Maya",
-                "url": "https://www.blender.org"
+                "id": "app-inventor",
+                "title": "App Inventor",
+                "description": "Οπτικό περιβάλλον για την ανάπτυξη εφαρμογών για κινητά τηλέφωνα. [cite: 270]",
+                "commercial_equivalent": "Thunkable",
+                "url": "https://appinventor.mit.edu/"
             },
             {
-                "id": "audacity",
-                "title": "Audacity",
-                "description": "Εγγραφή και επεξεργασία ήχου.",
-                "commercial_equivalent": "Adobe Audition",
-                "url": "https://www.audacityteam.org"
+                "id": "nagios-edu",
+                "title": "Nagios",
+                "description": "Επαγγελματικό εργαλείο για την παρακολούθηση εφαρμογών και δικτύων. [cite: 239]",
+                "commercial_equivalent": "SolarWinds",
+                "url": "https://www.nagios.org/"
+            }
+        ]
+    },
+    {
+        "id": "documentation-wiki",
+        "title": "Βιβλιογραφία & Τεκμηρίωση",
+        "description": "Εργαλεία για τη δόμηση της οργανωσιακής γνώσης και τη διαχείριση παραπομπών. [cite: 276, 277]",
+        "subcategories": [
+            {
+                "id": "zotero-edu",
+                "title": "Zotero",
+                "description": "Διαχείριση βιβλιογραφικών παραπομπών και οργάνωση έρευνας. [cite: 288]",
+                "commercial_equivalent": "EndNote, Mendeley [cite: 288]",
+                "url": "https://www.zotero.org"
+            },
+            {
+                "id": "mediawiki",
+                "title": "MediaWiki",
+                "description": "Η πλατφόρμα που τρέχει τη Wikipedia, ιδανική για τη δημιουργία γνωσιακών βάσεων. [cite: 283]",
+                "commercial_equivalent": "Confluence",
+                "url": "https://www.mediawiki.org"
+            },
+            {
+                "id": "docusaurus-sphinx",
+                "title": "Docusaurus / Sphinx",
+                "description": "Εργαλεία για τη δόμηση και πλοήγηση σε σύνθετες δομές περιεχομένων και τεκμηρίωση. [cite: 279, 285, 286]",
+                "commercial_equivalent": "GitBook",
+                "url": "https://docusaurus.io/"
             }
         ]
     }

@@ -2,47 +2,61 @@
     {
         "id": "egov-participation",
         "title": "Συμμετοχική Διακυβέρνηση",
-        "description": "Λογισμικό που επιτρέπει στους πολίτες να συμμετέχουν ενεργά στη λήψη αποφάσεων και τη διαφάνεια.",
+        "description": "Λογισμικό που προάγει τη διαφάνεια και επιτρέπει στους πολίτες να συμμετέχουν ενεργά στη λήψη αποφάσεων[cite: 331, 334].",
         "subcategories": [
             {
-                "id": "decidim",
+                "id": "decidim-gov",
                 "title": "Decidim",
-                "description": "Πλατφόρμα συμμετοχικής δημοκρατίας για ψηφοφορίες και κατάρτιση προϋπολογισμού.",
+                "description": "Πλατφόρμα συμμετοχικής δημοκρατίας για ψηφοφορίες, τοποθετήσεις πολιτών και κατάρτιση συμμετοχικού προϋπολογισμού[cite: 339, 340].",
                 "commercial_equivalent": "Κλειστά συστήματα διαβούλευσης",
                 "url": "https://decidim.org/"
             },
             {
-                "id": "consul",
+                "id": "consul-gov",
                 "title": "Consul Democracy",
-                "description": "Πρωτοποριακή λύση για τη συμμετοχή των πολιτών στη διακυβέρνηση πόλεων.",
+                "description": "Πρωτοποριακή λύση ανοιχτού λογισμικού για τη συμμετοχή των πολιτών στη λήψη αποφάσεων, σε χρήση από μεγάλες πόλεις παγκοσμίως[cite: 343, 344, 345].",
                 "commercial_equivalent": "CitizenLab (Proprietary)",
                 "url": "https://consuldemocracy.org/"
             },
             {
-                "id": "globaleaks",
+                "id": "globaleaks-gov",
                 "title": "GlobaLeaks",
-                "description": "Πλατφόρμα για την ασφαλή και ανώνυμη υποβολή καταγγελιών (whistleblowing).",
+                "description": "Πλατφόρμα για την ασφαλή και ανώνυμη υποβολή καταγγελιών, διασφαλίζοντας την προστασία των πληροφοριοδοτών[cite: 367, 369, 370].",
                 "commercial_equivalent": "Gotcha (Proprietary)",
                 "url": "https://www.globaleaks.org/"
+            },
+            {
+                "id": "securedrop-gov",
+                "title": "SecureDrop",
+                "description": "Σύστημα υποβολής ανώνυμων πληροφοριών με υψηλά επίπεδα ασφάλειας για ευαίσθητα δεδομένα[cite: 368, 371].",
+                "commercial_equivalent": "Ιδιωτικά συστήματα καταγγελιών",
+                "url": "https://securedrop.org/"
             }
         ]
     },
     {
         "id": "open-data-portals",
         "title": "Ανοιχτά Δεδομένα",
-        "description": "Εργαλεία για τη δημιουργία πυλών πρόσβασης σε διοικητικά δεδομένα.",
+        "description": "Εργαλεία για τη δημιουργία πυλών πρόσβασης και διαχείρισης διοικητικών δεδομένων[cite: 349, 358].",
         "subcategories": [
             {
-                "id": "ckan",
+                "id": "ckan-gov",
                 "title": "CKAN",
-                "description": "Το κορυφαίο σύστημα παγκοσμίως για την αποθήκευση και διανομή ανοιχτών δεδομένων.",
+                "description": "Το κορυφαίο σύστημα παγκοσμίως για την αποθήκευση, διανομή και διαχείριση ανοιχτών δεδομένων[cite: 360].",
                 "commercial_equivalent": "Socrata",
                 "url": "https://ckan.org/"
             },
             {
-                "id": "openfisca",
+                "id": "dcan-gov",
+                "title": "DCAN",
+                "description": "Εργαλείο ανοιχτού κώδικα για τη δημιουργία πυλών πρόσβασης σε διοικητικά δεδομένα[cite: 359].",
+                "commercial_equivalent": "Custom Data Portals",
+                "url": "https://getdkan.org/"
+            },
+            {
+                "id": "openfisca-gov",
                 "title": "OpenFisca",
-                "description": "Προσομοίωση φορολογικής και κοινωνικής πολιτικής για δημόσιους οργανισμούς.",
+                "description": "Πλατφόρμα προσομοίωσης φορολογικής και κοινωνικής πολιτικής για την ανάλυση επιπτώσεων νομοθετικών αλλαγών.",
                 "commercial_equivalent": "Custom Proprietary Simulation Software",
                 "url": "https://openfisca.org/"
             }
@@ -51,26 +65,40 @@
     {
         "id": "gov-infrastructure",
         "title": "Υποδομές & Διαλειτουργικότητα",
-        "description": "Λύσεις για τη διαχείριση εγγράφων, βάσεων δεδομένων και ταυτοποίησης.",
+        "description": "Λύσεις για τη συνεργασία, τη διαχείριση εγγράφων και τις κρίσιμες βάσεις δεδομένων του δημόσιου τομέα[cite: 328, 330].",
         "subcategories": [
             {
                 "id": "nextcloud-gov",
                 "title": "Nextcloud",
-                "description": "Συνεργατική επεξεργασία εγγράφων και διαμοιρασμός αρχείων με πλήρη έλεγχο.",
+                "description": "Ολοκληρωμένη πλατφόρμα για φιλοξενία, διαμοιρασμό αρχείων και συνεργατική επεξεργασία εγγράφων.",
                 "commercial_equivalent": "MS Teams, Google Docs",
                 "url": "https://nextcloud.com/"
             },
             {
+                "id": "libreoffice-gov",
+                "title": "LibreOffice",
+                "description": "Σουίτα εφαρμογών γραφείου που προσφέρει δημοσιονομική υπευθυνότητα με υποπολλαπλάσιο κόστος[cite: 328, 333].",
+                "commercial_equivalent": "Microsoft Office",
+                "url": "https://el.libreoffice.org/"
+            },
+            {
                 "id": "postgresql-gov",
                 "title": "PostgreSQL",
-                "description": "Η πιο προηγμένη βάση δεδομένων ανοιχτού κώδικα για κρίσιμες εφαρμογές.",
+                "description": "Η πιο προηγμένη βάση δεδομένων ανοιχτού κώδικα για κρίσιμες δημόσιες εφαρμογές.",
                 "commercial_equivalent": "Oracle Database",
                 "url": "https://www.postgresql.org/"
             },
             {
+                "id": "wordpress-gov",
+                "title": "WordPress",
+                "description": "Σύστημα Διαχείρισης Περιεχομένου (CMS) για την παρουσίαση και ενημέρωση των δημόσιων ιστότοπων.",
+                "commercial_equivalent": "SAP Enterprise Portal",
+                "url": "https://wordpress.org/"
+            },
+            {
                 "id": "keycloak-gov",
                 "title": "Keycloak",
-                "description": "Διαχείριση ταυτότητας και πρόσβασης (SSO) για δημόσιες υπηρεσίες.",
+                "description": "Διαχείριση ταυτότητας και πρόσβασης (SSO) για την ασφαλή ταυτοποίηση στις δημόσιες υπηρεσίες.",
                 "commercial_equivalent": "Okta, Auth0",
                 "url": "https://www.keycloak.org/"
             }
@@ -79,19 +107,19 @@
     {
         "id": "gov-gis-security",
         "title": "GIS & Ασφάλεια",
-        "description": "Γεωγραφικά συστήματα και εργαλεία προστασίας υποδομών.",
+        "description": "Γεωγραφικά συστήματα και εργαλεία προστασίας των ψηφιακών υποδομών του κράτους[cite: 357].",
         "subcategories": [
             {
                 "id": "qgis-gov",
                 "title": "QGIS",
-                "description": "Ανάλυση και οπτικοποίηση γεωγραφικών δεδομένων για δήμους και φορείς.",
+                "description": "Ανάλυση και οπτικοποίηση γεωγραφικών δεδομένων για δήμους και δημόσιους φορείς.",
                 "commercial_equivalent": "ESRI ArcGIS",
                 "url": "https://www.qgis.org/"
             },
             {
                 "id": "pfsense-gov",
                 "title": "pfSense",
-                "description": "Λογισμικό τείχους ασφαλείας (Firewall) και δρομολόγησης επιπέδου επιχείρησης.",
+                "description": "Λογισμικό τείχους ασφαλείας (Firewall) και δρομολόγησης επιπέδου οργανισμού.",
                 "commercial_equivalent": "Cisco ASA, Juniper",
                 "url": "https://www.pfsense.org/"
             }
