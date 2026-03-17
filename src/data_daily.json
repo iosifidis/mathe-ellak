@@ -12,6 +12,13 @@
                 "url": "https://el.libreoffice.org/"
             },
             {
+                "id": "onlyoffice-daily",
+                "title": "ONLYOFFICE",
+                "description": "Μία εξαιρετικά γρήγορη και ελαφριά σουίτα γραφείου, ιδανική για παλιούς υπολογιστές, με απόλυτη συμβατότητα σε έγγραφα, υπολογιστικά φύλλα και παρουσιάσεις.",
+                "commercial_equivalent": "Microsoft Office",
+                "url": "https://www.onlyoffice.com/"
+            },
+            {
                 "id": "thunderbird-daily",
                 "title": "Thunderbird",
                 "description": "Διαχείριση email, ημερολογίου και επαφών σε ένα ασφαλές περιβάλλον χωρίς την ανάγκη συνεχούς φόρτωσης ιστοσελίδων.",
