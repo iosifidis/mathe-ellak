@@ -7,23 +7,30 @@
             {
                 "id": "libreoffice-daily",
                 "title": "LibreOffice",
-                "description": "Η πιο ισχυρή εναλλακτική σουίτα γραφείου, πλήρως συμβατή με αρχεία Word, Excel και PowerPoint.",
+                "description": "Η πιο ισχυρή εναλλακτική σουίτα γραφείου για δημιουργία εγγράφων, πλήρως συμβατή με αρχεία Word, Excel και PowerPoint.",
                 "commercial_equivalent": "Microsoft Office",
                 "url": "https://el.libreoffice.org/"
             },
             {
                 "id": "thunderbird-daily",
                 "title": "Thunderbird",
-                "description": "Διαχείριση email, ημερολογίου και επαφών σε ένα ασφαλές περιβάλλον.",
-                "commercial_equivalent": "Microsoft Outlook",
+                "description": "Διαχείριση email, ημερολογίου και επαφών σε ένα ασφαλές περιβάλλον χωρίς την ανάγκη συνεχούς φόρτωσης ιστοσελίδων.",
+                "commercial_equivalent": "Microsoft Outlook, Outlook Express",
                 "url": "https://www.thunderbird.net/el/"
             },
             {
                 "id": "joplin-daily",
                 "title": "Joplin",
-                "description": "Εφαρμογή για κρατάς σημειώσεις και να τις συγχρονίζεις με ασφάλεια σε όλες τις συσκευές σου.",
+                "description": "Εφαρμογή για συγχρονισμένες σημειώσεις με ασφάλεια σε όλες τις συσκευές σου.",
                 "commercial_equivalent": "Evernote, Microsoft OneNote",
                 "url": "https://joplinapp.org/"
+            },
+            {
+                "id": "zotero-daily",
+                "title": "Zotero",
+                "description": "Εξειδικευμένη λύση για τεκμηρίωση πηγών, βιβλιογραφίας, πολυμέσων και σημειώσεων.",
+                "commercial_equivalent": "EndNote, Mendeley",
+                "url": "https://www.zotero.org/"
             },
             {
                 "id": "scribus-daily",
@@ -31,69 +38,118 @@
                 "description": "Επαγγελματική επιτραπέζια δημοσίευση (Desktop Publishing) για αφίσες και περιοδικά.",
                 "commercial_equivalent": "Microsoft Publisher, Adobe InDesign",
                 "url": "https://www.scribus.net/"
+            },
+            {
+                "id": "nextcloud-daily",
+                "title": "Nextcloud",
+                "description": "Ολοκληρωμένη λύση γραφείου και αποθήκευση για συνεργασία και διαμοιρασμό.",
+                "commercial_equivalent": "Google Drive, Microsoft OneDrive, Microsoft 365, Dropbox, iCloud",
+                "url": "https://nextcloud.com/"
             }
         ]
     },
     {
         "id": "internet-privacy",
         "title": "Internet & Ιδιωτικότητα",
-        "description": "Περιηγητές και εργαλεία επικοινωνίας που δεν σε κατασκοπεύουν.",
+        "description": "Περιηγητές, μηχανές αναζήτησης και εργαλεία επικοινωνίας που προστατεύουν τα δεδομένα σου.",
         "subcategories": [
             {
                 "id": "firefox-daily",
                 "title": "Firefox",
-                "description": "Ο περιηγητής που ανήκει σε μη κερδοσκοπικό οργανισμό και προστατεύει τα δεδομένα σου.",
-                "commercial_equivalent": "Google Chrome, Edge, Safari",
+                "description": "Ο μοναδικός περιηγητής που ανήκει σε μη κερδοσκοπικό ίδρυμα. Αποτελεί προπύργιο απέναντι στα μονοπώλια των πολυεθνικών.",
+                "commercial_equivalent": "Google Chrome, Edge, Safari, Internet Explorer",
                 "url": "https://www.mozilla.org/el/firefox/"
+            },
+            {
+                "id": "librewolf-daily",
+                "title": "LibreWolf",
+                "description": "Παραλλαγή του Firefox ρυθμισμένη εξαρχής για μέγιστη προστασία της ιδιωτικότητας.",
+                "commercial_equivalent": "Google Chrome, Edge, Safari, Internet Explorer",
+                "url": "https://librewolf.net/"
+            },
+            {
+                "id": "mullvad-browser-daily",
+                "title": "Mullvad Browser",
+                "description": "Νεότερος περιηγητής σχεδιασμένος μαζί με την ομάδα του Tor για την προστασία του μέσου χρήστη.",
+                "commercial_equivalent": "Google Chrome, Safari",
+                "url": "https://mullvad.net/en/browser"
+            },
+            {
+                "id": "duckduckgo-daily",
+                "title": "DuckDuckGo",
+                "description": "Μηχανή αναζήτησης που σέβεται την ιδιωτικότητα και δεν καταγράφει το ιστορικό αναζητήσεων.",
+                "commercial_equivalent": "Google Search, Bing",
+                "url": "https://duckduckgo.com/"
             },
             {
                 "id": "signal-daily",
                 "title": "Signal",
-                "description": "Η πιο ασφαλής εφαρμογή για κρυπτογραφημένα μηνύματα και κλήσεις.",
-                "commercial_equivalent": "WhatsApp, Viber",
+                "description": "Η πιο ασφαλής εφαρμογή για κρυπτογραφημένα μηνύματα και κλήσεις, διασφαλίζοντας το δικαίωμα στην ιδιωτική επικοινωνία.",
+                "commercial_equivalent": "WhatsApp, Viber, Facebook Messenger",
                 "url": "https://signal.org/"
             },
             {
                 "id": "tor-browser-daily",
                 "title": "Tor Browser",
-                "description": "Πλήρης ανωνυμία στο διαδίκτυο μέσω του δικτύου Tor.",
+                "description": "Περιηγητής που συγκαλύπτει την πραγματική τοποθεσία και δρομολογεί την κίνηση μέσω πολλαπλών υπολογιστών για πλήρη ανωνυμία.",
                 "commercial_equivalent": "VPN / Incognito Mode",
                 "url": "https://www.torproject.org/"
-            },
-            {
-                "id": "librewolf-daily",
-                "title": "LibreWolf",
-                "description": "Μια παραλλαγή του Firefox ρυθμισμένη εξαρχής για μέγιστη προστασία της ιδιωτικότητας.",
-                "commercial_equivalent": "Chrome",
-                "url": "https://librewolf.net/"
             }
         ]
     },
     {
         "id": "multimedia-creative",
         "title": "Πολυμέσα & Δημιουργικότητα",
-        "description": "Εργαλεία για να δημιουργείς και να απολαμβάνεις video, μουσική και εικόνες.",
+        "description": "Εργαλεία για επεξεργασία εικόνας, video και animation με επαγγελματικές προδιαγραφές.",
         "subcategories": [
-            {
-                "id": "vlc-daily",
-                "title": "VLC Media Player",
-                "description": "Παίζει τα πάντα! Ο πιο δημοφιλής player για video και μουσική παγκοσμίως.",
-                "commercial_equivalent": "Windows Media Player",
-                "url": "https://www.videolan.org/vlc/"
-            },
             {
                 "id": "gimp-daily",
                 "title": "GIMP",
-                "description": "Επαγγελματική επεξεργασία φωτογραφίας και εικόνας με χρήση layers.",
+                "description": "Επαγγελματική επεξεργασία εικόνας με υποστήριξη layers, φίλτρων και πρόσθετων (plugins).",
                 "commercial_equivalent": "Adobe Photoshop",
                 "url": "https://www.gimp.org/"
             },
             {
+                "id": "darktable-daily",
+                "title": "Darktable",
+                "description": "Μη καταστροφική επεξεργασία εικόνων RAW και επαγγελματική αρχειοθέτηση.",
+                "commercial_equivalent": "Adobe Lightroom",
+                "url": "https://www.darktable.org/"
+            },
+            {
                 "id": "kdenlive-daily",
                 "title": "Kdenlive",
-                "description": "Ολοκληρωμένο πρόγραμμα για μοντάζ video με εφέ και πολλαπλά κανάλια.",
-                "commercial_equivalent": "Adobe Premiere, iMovie",
+                "description": "Επεξεργασία βίντεο με timeline, εφέ και υποστήριξη για πολλαπλά formats.",
+                "commercial_equivalent": "Adobe Premiere Pro",
                 "url": "https://kdenlive.org/"
+            },
+            {
+                "id": "natron-daily",
+                "title": "Natron",
+                "description": "Επαγγελματική επεξεργασία βίντεο με node-based workflow.",
+                "commercial_equivalent": "Blackmagic DaVinci Resolve",
+                "url": "https://natrongithub.github.io/"
+            },
+            {
+                "id": "openshot-daily",
+                "title": "OpenShot",
+                "description": "Video editor με απλό περιβάλλον χρήσης, ιδανικό για εκπαιδευτική χρήση.",
+                "commercial_equivalent": "iMovie, Windows Movie Maker",
+                "url": "https://www.openshot.org/"
+            },
+            {
+                "id": "shotcut-daily",
+                "title": "Shotcut",
+                "description": "Μη γραμμική επεξεργασία βίντεο με υποστήριξη εφέ.",
+                "commercial_equivalent": "Adobe Premiere Elements",
+                "url": "https://shotcut.org/"
+            },
+            {
+                "id": "blender-video-daily",
+                "title": "Blender (VSE)",
+                "description": "Πλατφόρμα για animation, compositing και επεξεργασία video (Video Sequence Editor).",
+                "commercial_equivalent": "Adobe After Effects",
+                "url": "https://www.blender.org/"
             },
             {
                 "id": "inkscape-daily",
@@ -101,27 +157,90 @@
                 "description": "Δημιουργία διανυσματικών γραφικών (logos, εικονογραφήσεις).",
                 "commercial_equivalent": "Adobe Illustrator, CorelDraw",
                 "url": "https://inkscape.org/"
+            },
+            {
+                "id": "vlc-daily",
+                "title": "VLC Media Player",
+                "description": "Ο πιο δημοφιλής player παγκοσμίως που αναπαράγει όλα τα είδη αρχείων video και μουσικής.",
+                "commercial_equivalent": "Windows Media Player",
+                "url": "https://www.videolan.org/vlc/"
             }
         ]
     },
     {
         "id": "systems-utilities",
         "title": "Λειτουργικά & Βοηθήματα",
-        "description": "Ανανέωσε τον υπολογιστή σου και οργάνωσε τα αρχεία σου.",
+        "description": "Επεκτείνετε το χρόνο ζωής της συσκευής σας και διασφαλίστε την ιδιωτικότητά σας.",
         "subcategories": [
             {
                 "id": "ubuntu-daily",
                 "title": "Ubuntu",
-                "description": "Ένα πλήρες, δωρεάν και ασφαλές λειτουργικό σύστημα για τον υπολογιστή σου.",
+                "description": "Πλήρες, δωρεάν και ασφαλές λειτουργικό σύστημα που μπορεί να δώσει ξανά ζωή σε παλιές συσκευές.",
                 "commercial_equivalent": "Windows, macOS",
-                "url": "https://ubuntu-gr.org/"
+                "url": "https://ubuntu.com/"
+            },
+            {
+                "id": "kubuntu-daily",
+                "title": "Kubuntu",
+                "description": "Πλήρες, δωρεάν και ασφαλές λειτουργικό σύστημα βασισμένο στο Ubuntu με γραφικό περιβάλλον KDE.",
+                "commercial_equivalent": "Windows, macOS",
+                "url": "https://kubuntu-gr.org/"
+            },
+            {
+                "id": "ubuntu-mate-daily",
+                "title": "Ubuntu MATE",
+                "description": "Πλήρες, δωρεάν και ασφαλές λειτουργικό σύστημα βασισμένο στο Ubuntu με γραφικό περιβάλλον MATE.",
+                "commercial_equivalent": "Windows, macOS",
+                "url": "https://ubuntu-mate.org/"
+            },
+            {
+                "id": "fedora-daily",
+                "title": "Fedora Project",
+                "description": "Μια πρωτοποριακή διανομή Linux που προσφέρει τις πιο σύγχρονες τεχνολογίες, απόλυτη ασφάλεια και σταθερότητα, δίνοντας νέα πνοή ακόμα και σε υπολογιστές μετρίων επιδόσεων.",
+                "commercial_equivalent": "Windows, macOS",
+                "url": "https://getfedora.org/"
+            },
+            {
+                "id": "opensuse-daily",
+                "title": "openSUSE",
+                "description": "Μία από τις πιο σταθερές και ευέλικτες διανομές Linux, που δίνει νέα ζωή σε παλιές συσκευές, ενώ παράλληλα προσφέρει εργαλεία αιχμής για διαχειριστές συστημάτων και προγραμματιστές.",
+                "commercial_equivalent": "Windows, macOS",
+                "url": "https://opensuse.org/"
+            },
+            {
+                "id": "linuxmint-daily",
+                "title": "Linux Mint",
+                "description": "Μία φιλική και άμεση διανομή Linux που προσφέρει οικείο περιβάλλον εργασίας, κάνοντας παλιές συσκευές να λειτουργούν σαν καινούριες, με ελάχιστες απαιτήσεις και απόλυτη σταθερότητα.",
+                "commercial_equivalent": "Windows, macOS",
+                "url": "https://linuxmint.com/"
+            },
+            {
+                "id": "debian-daily",
+                "title": "Debian",
+                "description": "Η μητρική διανομή που αποτελεί συνώνυμο της αξιοπιστίας, δίνοντας νέα ζωή ακόμα και στους πιο παλιούς υπολογιστές με την ελάχιστη κατανάλωση πόρων και την απαράμιλλη σταθερότητα.",
+                "commercial_equivalent": "Windows, macOS",
+                "url": "https://debian.org/"
             },
             {
                 "id": "tails-daily",
                 "title": "Tails",
-                "description": "Λειτουργικό σύστημα που τρέχει από USB και δεν αφήνει κανένα ίχνος στον υπολογιστή.",
-                "commercial_equivalent": "Κανένα (Εξειδικευμένο για ασφάλεια)",
+                "description": "Φορητό λειτουργικό σύστημα που τρέχει από USB. Δεν αφήνει κανένα ίχνος στον υπολογιστή και χρησιμοποιείται για ευαίσθητες πληροφορίες.",
+                "commercial_equivalent": "Κανένα (Εξειδικευμένο για ασφάλεια/ανωνυμία)",
                 "url": "https://tails.net/"
+            },
+            {
+                "id": "syncthing-daily",
+                "title": "Syncthing",
+                "description": "Λογισμικό συγχρονισμού αρχείων βασισμένο σε συστήματα Linux.",
+                "commercial_equivalent": "Resilio Sync, Dropbox",
+                "url": "https://syncthing.net/"
+            },
+            {
+                "id": "retroshare-daily",
+                "title": "Retroshare",
+                "description": "Πλατφόρμα επικοινωνίας και διαμοιρασμού αρχείων peer-to-peer που τρέχει σε οποιαδήποτε πλατφόρμα.",
+                "commercial_equivalent": "Ιδιωτικά δίκτυα διαμοιρασμού",
+                "url": "https://retroshare.cc/"
             },
             {
                 "id": "seven-zip-daily",
