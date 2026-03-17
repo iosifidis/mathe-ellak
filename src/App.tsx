@@ -108,23 +108,30 @@ export default function App() {
     }
   };
 
+  const handleBackToStart = () => {
+    setActiveData(null);
+    setTopLevelIndex(0);
+    setSubPath([]);
+    setHistory([]);
+  };
+
   return (
     <div className="min-h-screen bg-[#1a1d20] text-white flex flex-col font-sans">
 
       {/* Navbar */}
       <nav className="w-full bg-[#141619] border-b border-white/10 px-6 py-3 flex items-center justify-between shadow-md">
-        <div className="flex items-center gap-4">
+        <a href="#" onClick={(e) => { e.preventDefault(); handleBackToStart(); }} className="flex items-center gap-4 hover:opacity-80 transition-opacity">
           <img
             src={logo}
             alt="Logo"
             className="h-12 w-auto object-contain"
-            onError={(e) => (e.currentTarget.style.display = 'none')} // Αν πάλι σπάσει η εικόνα, την κρύβει
+            onError={(e) => (e.currentTarget.style.display = 'none')}
           />
           <div className="hidden sm:block">
             <h1 className="text-sm font-bold tracking-tight text-white uppercase">ΜΑΘΕ ΕΛΛΑΚ</h1>
             <p className="text-[10px] text-[#35b9ab] uppercase font-semibold">Οργανισμός Ανοιχτών Τεχνολογιών</p>
           </div>
-        </div>
+        </a>
 
         <div className="flex items-center gap-6">
           <a href="https://ellak.gr/wiki" target="_blank" rel="noreferrer" className="flex items-center gap-1 text-xs hover:text-[#35b9ab] transition-colors">
@@ -210,7 +217,7 @@ export default function App() {
       </main>
 
       <footer className="p-6 text-center text-gray-500 text-[10px] uppercase tracking-widest bg-[#141619]">
-        © 2026 Οργανισμός Ανοιχτών Τεχνολογιών - ΕΕΛΛΑΚ
+        © {new Date().getFullYear()} <a href="https://ellak.gr" target="_blank" rel="noreferrer">Οργανισμός Ανοιχτών Τεχνολογιών - ΕΕΛΛΑΚ</a>
       </footer>
     </div>
   );
