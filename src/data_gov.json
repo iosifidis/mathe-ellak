@@ -122,6 +122,20 @@
                 "description": "Λογισμικό τείχους ασφαλείας (Firewall) και δρομολόγησης επιπέδου οργανισμού.",
                 "commercial_equivalent": "Cisco ASA, Juniper",
                 "url": "https://www.pfsense.org/"
+            },
+            {
+                "id": "shorewall-gov",
+                "title": "Shorewall",
+                "description": "Εργαλείο υψηλού επιπέδου για τη διαμόρφωση τείχους προστασίας (Netfilter).",
+                "commercial_equivalent": "Norton Internet Security",
+                "url": "https://shorewall.org/"
+            },
+            {
+                "id": "ufw-gov",
+                "title": "UFW",
+                "description": "Εύχρηστο εργαλείο διαχείρισης τείχους ασφαλείας, προεπιλεγμένο στο Ubuntu.",
+                "commercial_equivalent": "Norton Internet Security",
+                "url": "https://help.ubuntu.com/community/UFW"
             }
         ]
     }

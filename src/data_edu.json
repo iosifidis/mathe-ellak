@@ -19,6 +19,13 @@
                 "url": "http://www.tuxpaint.org/"
             },
             {
+                "id": "edublocks-edu",
+                "title": "EDUBlocks",
+                "description": "Μια γλώσσα προγραμματισμού που βοηθά τους μαθητές να μεταβούν από τα blocks στον κώδικα Python.",
+                "commercial_equivalent": "MakeCode",
+                "url": "https://edublocks.org/"
+            },
+            {
                 "id": "scratch",
                 "title": "Scratch",
                 "description": "Εκμάθηση προγραμματισμού μέσω οπτικών μπλοκ (block-based). [cite: 255, 269]",
@@ -115,6 +122,13 @@
                 "description": "Μαθηματικές εφαρμογές, ανάλυση και οπτικοποίηση δεδομένων. [cite: 242]",
                 "commercial_equivalent": "MATLAB [cite: 242]",
                 "url": "https://www.gnu.org/software/octave/"
+            },
+            {
+                "id": "ojs-edu",
+                "title": "OJS (Open Journal Systems)",
+                "description": "Πλατφόρμα για τη διαχείριση και δημοσίευση επιστημονικών περιοδικών.",
+                "commercial_equivalent": "Microsoft CMT",
+                "url": "https://pkp.sfu.ca/ojs/"
             }
         ]
     },
@@ -192,6 +206,48 @@
                 "description": "Εργαλεία για τη δόμηση και πλοήγηση σε σύνθετες δομές περιεχομένων και τεκμηρίωση. [cite: 279, 285, 286]",
                 "commercial_equivalent": "GitBook",
                 "url": "https://docusaurus.io/"
+            },
+            {
+                "id": "jabref-edu",
+                "title": "JabRef",
+                "description": "Εξειδικευμένος διαχειριστής βιβλιογραφίας που χρησιμοποιεί το format BibTeX.",
+                "commercial_equivalent": "EndNote",
+                "url": "https://www.jabref.org/"
+            }
+        ]
+    },
+    {
+        "id": "advanced-engineering-arts",
+        "title": "Τέχνες & Μηχανική",
+        "description": "Επαγγελματικά εργαλεία για σχεδιασμό, μουσική και 3D μοντελοποίηση.",
+        "subcategories": [
+            {
+                "id": "musescore",
+                "title": "MuseScore",
+                "description": "Λογισμικό για μουσική σύνθεση και σημειογραφία.",
+                "commercial_equivalent": "Sibelius, Finale",
+                "url": "https://musescore.org/"
+            },
+            {
+                "id": "freecad",
+                "title": "FreeCAD",
+                "description": "3D CAD εργαλείο για αρχιτεκτονική και μηχανολογικό σχεδιασμό.",
+                "commercial_equivalent": "AutoCAD, SolidWorks",
+                "url": "https://www.freecad.org"
+            },
+            {
+                "id": "blender",
+                "title": "Blender",
+                "description": "3D μοντελοποίηση, animation, rendering και compositing.",
+                "commercial_equivalent": "3ds Max, Maya",
+                "url": "https://www.blender.org"
+            },
+            {
+                "id": "audacity",
+                "title": "Audacity",
+                "description": "Επαγγελματική εγγραφή και επεξεργασία ήχου.",
+                "commercial_equivalent": "Adobe Audition",
+                "url": "https://www.audacityteam.org"
             }
         ]
     }

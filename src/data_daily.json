@@ -26,6 +26,13 @@
                 "url": "https://www.thunderbird.net/el/"
             },
             {
+                "id": "evince-daily",
+                "title": "Evince",
+                "description": "Ελαφρύς αναγνώστης αρχείων PDF που υποστηρίζει πολλαπλά formats εγγράφων[cite: 402].",
+                "commercial_equivalent": "Adobe PDF Reader",
+                "url": "https://wiki.gnome.org/Apps/Evince"
+            },
+            {
                 "id": "joplin-daily",
                 "title": "Joplin",
                 "description": "Εφαρμογή για συγχρονισμένες σημειώσεις με ασφάλεια σε όλες τις συσκευές σου.",
@@ -47,6 +54,13 @@
                 "url": "https://www.scribus.net/"
             },
             {
+                "id": "notepad-plus-plus-daily",
+                "title": "Notepad++",
+                "description": "Ένας εξελιγμένος και ελαφρύς επεξεργαστής κειμένου για καθημερινή χρήση[cite: 399].",
+                "commercial_equivalent": "Microsoft Notepad",
+                "url": "https://notepad-plus-plus.org/"
+            },
+            {
                 "id": "nextcloud-daily",
                 "title": "Nextcloud",
                 "description": "Ολοκληρωμένη λύση γραφείου και αποθήκευση για συνεργασία και διαμοιρασμό.",
@@ -66,6 +80,13 @@
                 "description": "Ο μοναδικός περιηγητής που ανήκει σε μη κερδοσκοπικό ίδρυμα. Αποτελεί προπύργιο απέναντι στα μονοπώλια των πολυεθνικών.",
                 "commercial_equivalent": "Google Chrome, Edge, Safari, Internet Explorer",
                 "url": "https://www.mozilla.org/el/firefox/"
+            },
+            {
+                "id": "firefox-focus-daily",
+                "title": "Firefox Focus",
+                "description": "Περιηγητής για κινητά που εστιάζει στην ταχύτητα και την αυτόματη διαγραφή του ιστορικού[cite: 478].",
+                "commercial_equivalent": "Opera Mini, Chrome Incognito",
+                "url": "https://www.mozilla.org/el/firefox/mobile/"
             },
             {
                 "id": "librewolf-daily",
@@ -117,6 +138,13 @@
                 "url": "https://www.gimp.org/"
             },
             {
+                "id": "pinta-daily",
+                "title": "Pinta",
+                "description": "Απλό και εύχρηστο πρόγραμμα για ζωγραφική και επεξεργασία εικόνων[cite: 450].",
+                "commercial_equivalent": "MS Paint, Paint.net",
+                "url": "https://pinta-project.com/"
+            },
+            {
                 "id": "darktable-daily",
                 "title": "Darktable",
                 "description": "Μη καταστροφική επεξεργασία εικόνων RAW και επαγγελματική αρχειοθέτηση.",
@@ -164,6 +192,13 @@
                 "description": "Δημιουργία διανυσματικών γραφικών (logos, εικονογραφήσεις).",
                 "commercial_equivalent": "Adobe Illustrator, CorelDraw",
                 "url": "https://inkscape.org/"
+            },
+            {
+                "id": "rhythmbox-daily",
+                "title": "Rhythmbox",
+                "description": "Οργανώστε τη μουσική σας βιβλιοθήκη και ακούστε online ραδιόφωνο[cite: 442].",
+                "commercial_equivalent": "Apple iTunes",
+                "url": "https://projects.gnome.org/rhythmbox/"
             },
             {
                 "id": "vlc-daily",
@@ -236,11 +271,25 @@
                 "url": "https://tails.net/"
             },
             {
+                "id": "onionshare-daily",
+                "title": "OnionShare",
+                "description": "Ασφαλής και ανώνυμος διαμοιρασμός αρχείων οποιουδήποτε μεγέθους μέσω του δικτύου Tor[cite: 452].",
+                "commercial_equivalent": "WeTransfer (Privacy focused alternative)",
+                "url": "https://onionshare.org/"
+            },
+            {
                 "id": "syncthing-daily",
                 "title": "Syncthing",
                 "description": "Λογισμικό συγχρονισμού αρχείων βασισμένο σε συστήματα Linux.",
                 "commercial_equivalent": "Resilio Sync, Dropbox",
                 "url": "https://syncthing.net/"
+            },
+            {
+                "id": "clamwin-daily",
+                "title": "ClamWin",
+                "description": "Ελεύθερο εργαλείο προστασίας από ιούς για το σύστημά σας[cite: 399].",
+                "commercial_equivalent": "McAfee VirusScan, Norton Antivirus",
+                "url": "https://www.clamwin.com/"
             },
             {
                 "id": "retroshare-daily",

@@ -33,6 +33,13 @@
                 "url": "https://mattermost.com"
             },
             {
+                "id": "bigbluebutton-biz",
+                "title": "BigBlueButton",
+                "description": "Διαδικτυακές συναντήσεις και webinars για εκπαίδευση και επιχειρήσεις.",
+                "commercial_equivalent": "Zoom, Google Meet",
+                "url": "https://bigbluebutton.org/"
+            },
+            {
                 "id": "jitsi-biz",
                 "title": "Jitsi Meet",
                 "description": "Ανοικτή πλατφόρμα για ασφαλείς τηλεδιασκέψεις χωρίς την ανάγκη λογαριασμού.",
@@ -45,6 +52,34 @@
                 "description": "Εύχρηστη υπηρεσία για τον προγραμματισμό συναντήσεων και τη λήψη αποφάσεων (δημοσκοπήσεις).",
                 "commercial_equivalent": "Doodle",
                 "url": "https://framadate.org/"
+            },
+            {
+                "id": "evolution-biz",
+                "title": "Evolution",
+                "description": "Διαχείριση email, ημερολογίου και επαφών για το περιβάλλον GNOME.",
+                "commercial_equivalent": "Microsoft Outlook",
+                "url": "https://projects.gnome.org/evolution/"
+            },
+            {
+                "id": "element-biz",
+                "title": "Element",
+                "description": "Ασφαλής επικοινωνία και συνεργασία με κρυπτογράφηση άκρου-προς-άκρο.",
+                "commercial_equivalent": "Slack, Discord",
+                "url": "https://element.io/"
+            },
+            {
+                "id": "zulip-biz",
+                "title": "Zulip",
+                "description": "Ενδοεταιρική επικοινωνία με οργανωμένα θέματα συζήτησης.",
+                "commercial_equivalent": "Slack",
+                "url": "https://zulip.com/"
+            },
+            {
+                "id": "rocket-chat-biz",
+                "title": "Rocket.Chat",
+                "description": "Πλατφόρμα επικοινωνίας ομάδας με πλήρη έλεγχο δεδομένων.",
+                "commercial_equivalent": "Slack",
+                "url": "https://rocket.chat/"
             }
         ]
     },
@@ -70,23 +105,51 @@
         ]
     },
     {
-        "id": "erp-accounting-biz",
-        "title": "Λογιστική & ERP",
-        "description": "Συστήματα διαχείρισης επιχειρησιακών πόρων και λογιστικής παρακολούθησης.",
+        "id": "erp-crm-finance",
+        "title": "Διαχείριση Πόρων & Οικονομικά",
+        "description": "Συστήματα για τον έλεγχο αποθεμάτων, τιμολόγηση και διαχείριση πελατολογίου.",
         "subcategories": [
             {
                 "id": "odoo-biz",
                 "title": "Odoo",
-                "description": "Ενιαία πλατφόρμα για CRM, πωλήσεις, λογιστική και αποθήκη.",
-                "commercial_equivalent": "SAP, Microsoft Dynamics",
-                "url": "https://www.odoo.com/"
+                "description": "Ολοκληρωμένο λογιστικό και ERP σύστημα για μικρές και μεσαίες επιχειρήσεις.",
+                "commercial_equivalent": "SAP, QuickBooks",
+                "url": "https://www.odoo.com"
             },
             {
                 "id": "erpnext-biz",
                 "title": "ERPNext",
-                "description": "Σύγχρονο ERP για διαχείριση παραγωγής, αποθήκης και οικονομικών.",
-                "commercial_equivalent": "Oracle NetSuite",
-                "url": "https://erpnext.com/"
+                "description": "Διαχείριση αποθήκης, παραγωγής και εφοδιαστικής αλυσίδας.",
+                "commercial_equivalent": "SAP ERP",
+                "url": "https://erpnext.com"
+            },
+            {
+                "id": "invoiceninja-biz",
+                "title": "InvoiceNinja",
+                "description": "Εξειδικευμένη διαχείριση τιμολογίων και επικοινωνίας με πελάτες.",
+                "commercial_equivalent": "Zoho Invoice",
+                "url": "https://www.invoiceninja.com"
+            },
+            {
+                "id": "suitecrm-biz",
+                "title": "SuiteCRM",
+                "description": "Πλατφόρμα διαχείρισης σχέσεων πελατών (CRM) για πωλήσεις και marketing.",
+                "commercial_equivalent": "Salesforce, HubSpot",
+                "url": "https://suitecrm.com"
+            },
+            {
+                "id": "mautic-biz",
+                "title": "Mautic",
+                "description": "Αυτοματοποίηση marketing campaigns και διαχείριση leads.",
+                "commercial_equivalent": "Mailchimp",
+                "url": "https://www.mautic.org/"
+            },
+            {
+                "id": "open-hrms-biz",
+                "title": "Open HRMS",
+                "description": "Λογισμικό διαχείρισης ανθρώπινου δυναμικού ανοικτού κώδικα.",
+                "commercial_equivalent": "SAP SuccessFactors",
+                "url": "https://www.openhrms.com/"
             }
         ]
     },
@@ -103,11 +166,39 @@
                 "url": "https://www.prestashop.com/"
             },
             {
+                "id": "woocommerce-biz",
+                "title": "WooCommerce",
+                "description": "Πλατφόρμα ηλεκτρονικού εμπορίου βασισμένη στο WordPress.",
+                "commercial_equivalent": "Shopify, Magento",
+                "url": "https://woocommerce.com"
+            },
+            {
                 "id": "matomo-biz",
                 "title": "Matomo",
                 "description": "Πλατφόρμα ανάλυσης ιστού που προστατεύει την ιδιωτικότητα και την κυριότητα των δεδομένων.",
                 "commercial_equivalent": "Google Analytics",
                 "url": "https://matomo.org/"
+            }
+        ]
+    },
+    {
+        "id": "multimedia-biz",
+        "title": "Σχεδίαση & Πολυμέσα",
+        "description": "Εργαλεία για την επεξεργασία εικόνας και τη δημιουργία γραφικών για την επιχείρηση.",
+        "subcategories": [
+            {
+                "id": "gimp-biz",
+                "title": "GIMP",
+                "description": "Επαγγελματική επεξεργασία εικόνας και γραφικών.",
+                "commercial_equivalent": "Adobe Photoshop",
+                "url": "https://www.gimp.org/"
+            },
+            {
+                "id": "inkscape-biz",
+                "title": "Inkscape",
+                "description": "Δημιουργία διανυσματικών γραφικών.",
+                "commercial_equivalent": "Adobe Illustrator",
+                "url": "https://inkscape.org/"
             }
         ]
     },
@@ -150,6 +241,20 @@
                 "description": "Διαχείριση περιουσιακών στοιχείων πληροφορικής (Asset Management) και Helpdesk.",
                 "commercial_equivalent": "ServiceNow",
                 "url": "https://glpi-project.org"
+            },
+            {
+                "id": "n8n-biz",
+                "title": "n8n",
+                "description": "Εργαλείο αυτοματοποίησης ροών εργασίας και ενοποίησης εφαρμογών.",
+                "commercial_equivalent": "Zapier",
+                "url": "https://n8n.io/"
+            },
+            {
+                "id": "dokku-biz",
+                "title": "Dokku",
+                "description": "Μικρή πλατφόρμα PaaS για εύκολη φιλοξενία εφαρμογών.",
+                "commercial_equivalent": "Heroku",
+                "url": "http://dokku.viewdocs.io/"
             },
             {
                 "id": "openvas-biz",
