@@ -4,7 +4,7 @@
 
 «Ανακάλυψε τον κόσμο του Ανοιχτού Λογισμικού»
 
-Επίσημο Live Demo: [https://mathe-ellak.netlify.app/](https://mathe-ellak.netlify.app/)
+Live Demo: [https://iosifidis.github.io/mathe-ellak/](https://iosifidis.github.io/mathe-ellak/) και [https://mathe-ellak.netlify.app/](https://mathe-ellak.netlify.app/)
 
 ![Μάθε ΕΛΛΑΚ](./mathe-screenshot.png)
 
