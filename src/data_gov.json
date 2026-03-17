@@ -107,7 +107,7 @@
     {
         "id": "gov-gis-security",
         "title": "GIS & Ασφάλεια",
-        "description": "Γεωγραφικά συστήματα και εργαλεία προστασίας των ψηφιακών υποδομών του κράτους[cite: 357].",
+        "description": "Γεωγραφικά συστήματα και εργαλεία προστασίας των ψηφιακών υποδομών του κράτους.",
         "subcategories": [
             {
                 "id": "qgis-gov",
@@ -136,6 +136,27 @@
                 "description": "Εύχρηστο εργαλείο διαχείρισης τείχους ασφαλείας, προεπιλεγμένο στο Ubuntu.",
                 "commercial_equivalent": "Norton Internet Security",
                 "url": "https://help.ubuntu.com/community/UFW"
+            },
+            {
+                "id": "ns3-gov",
+                "title": "Ns-3",
+                "description": "Προσομοιωτής κίνησης δικτύου για τη μελέτη και το σχεδιασμό υποδομών.",
+                "commercial_equivalent": "OPNET",
+                "url": "https://www.nsnam.org/"
+            },
+            {
+                "id": "gparted-gov",
+                "title": "gparted",
+                "description": "Εφαρμογή για τη διαμόρφωση και διαχείριση κατατμήσεων σκληρού δίσκου.",
+                "commercial_equivalent": "Partition Magic",
+                "url": "https://gparted.org/"
+            },
+            {
+                "id": "testdisk-gov",
+                "title": "TestDisk / PhotoRec",
+                "description": "Εργαλεία για την ανάκτηση χαμένων δεδομένων και την επιδιόρθωση πινάκων κατατμήσεων.",
+                "commercial_equivalent": "Εξειδικευμένο λογισμικό ανάκτησης",
+                "url": "https://www.cgsecurity.org/"
             }
         ]
     }

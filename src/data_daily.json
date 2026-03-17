@@ -54,11 +54,25 @@
                 "url": "https://www.scribus.net/"
             },
             {
+                "id": "gedit-daily",
+                "title": "gedit",
+                "description": "Απλός και λειτουργικός επεξεργαστής κειμένου, προεπιλεγμένος σε πολλά περιβάλλοντα Linux.",
+                "commercial_equivalent": "Microsoft Notepad",
+                "url": "https://projects.gnome.org/gedit"
+            },
+            {
                 "id": "notepad-plus-plus-daily",
                 "title": "Notepad++",
                 "description": "Ένας εξελιγμένος και ελαφρύς επεξεργαστής κειμένου για καθημερινή χρήση[cite: 399].",
                 "commercial_equivalent": "Microsoft Notepad",
                 "url": "https://notepad-plus-plus.org/"
+            },
+            {
+                "id": "ghostscript-daily",
+                "title": "Ghostscript",
+                "description": "Εργαλείο για την ανάγνωση και επεξεργασία αρχείων PostScript (PS).",
+                "commercial_equivalent": "Adobe PostScript",
+                "url": "http://pages.cs.wisc.edu/~ghost/"
             },
             {
                 "id": "nextcloud-daily",
@@ -122,6 +136,20 @@
                 "description": "Περιηγητής που συγκαλύπτει την πραγματική τοποθεσία και δρομολογεί την κίνηση μέσω πολλαπλών υπολογιστών για πλήρη ανωνυμία.",
                 "commercial_equivalent": "VPN / Incognito Mode",
                 "url": "https://www.torproject.org/"
+            },
+            {
+                "id": "searx-daily",
+                "title": "Searx",
+                "description": "Μια μηχανή μετα-αναζήτησης που σέβεται την ιδιωτικότητα και συγκεντρώνει αποτελέσματα από πολλές πηγές.",
+                "commercial_equivalent": "Google Search",
+                "url": "https://github.com/asciimoo/searx/wiki/"
+            },
+            {
+                "id": "libretranslate-daily",
+                "title": "Libre Translate",
+                "description": "Ελεύθερο API μηχανικής μετάφρασης, self-hosted, χωρίς περιορισμούς όγκου δεδομένων.",
+                "commercial_equivalent": "Google Translate",
+                "url": "https://libretranslate.com/"
             }
         ]
     },
@@ -297,6 +325,20 @@
                 "description": "Πλατφόρμα επικοινωνίας και διαμοιρασμού αρχείων peer-to-peer που τρέχει σε οποιαδήποτε πλατφόρμα.",
                 "commercial_equivalent": "Ιδιωτικά δίκτυα διαμοιρασμού",
                 "url": "https://retroshare.cc/"
+            },
+            {
+                "id": "gnome-commander-daily",
+                "title": "GNOME Commander",
+                "description": "Εξελιγμένη εφαρμογή διαχείρισης αρχείων με δύο πάνελ για γρήγορες λειτουργίες.",
+                "commercial_equivalent": "Total Commander",
+                "url": "https://gcmd.github.io/"
+            },
+            {
+                "id": "partition-image-daily",
+                "title": "PartitionImage",
+                "description": "Εργαλείο για τη δημιουργία αντιγράφων ασφαλείας δίσκων και την ανάκτηση δεδομένων[cite: 537].",
+                "commercial_equivalent": "Norton Ghost",
+                "url": "https://www.partimage.org/"
             },
             {
                 "id": "seven-zip-daily",

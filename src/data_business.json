@@ -80,6 +80,20 @@
                 "description": "Πλατφόρμα επικοινωνίας ομάδας με πλήρη έλεγχο δεδομένων.",
                 "commercial_equivalent": "Slack",
                 "url": "https://rocket.chat/"
+            },
+            {
+                "id": "kooka-biz",
+                "title": "Kooka",
+                "description": "Εργαλείο σάρωσης και οπτικής αναγνώρισης χαρακτήρων (OCR).",
+                "commercial_equivalent": "ABBYY FineReader",
+                "url": "https://kooka.kde.org/"
+            },
+            {
+                "id": "pdfcreator-biz",
+                "title": "PDFCreator",
+                "description": "Εργαλείο για τη δημιουργία και εξαγωγή αρχείων PDF.",
+                "commercial_equivalent": "Adobe Acrobat Professional",
+                "url": "https://sourceforge.net/projects/pdfcreator/"
             }
         ]
     },
@@ -94,6 +108,13 @@
                 "description": "Ολοκληρωμένο σύστημα διαχείρισης έργων, tasks και ομάδων.",
                 "commercial_equivalent": "Trello, Asana",
                 "url": "https://www.openproject.org/"
+            },
+            {
+                "id": "projectlibre-biz",
+                "title": "ProjectLibre",
+                "description": "Η κορυφαία εναλλακτική λύση για τη διαχείριση έργων.",
+                "commercial_equivalent": "Microsoft Project",
+                "url": "https://www.projectlibre.org/"
             },
             {
                 "id": "taiga-biz",
@@ -150,6 +171,139 @@
                 "description": "Λογισμικό διαχείρισης ανθρώπινου δυναμικού ανοικτού κώδικα.",
                 "commercial_equivalent": "SAP SuccessFactors",
                 "url": "https://www.openhrms.com/"
+            },
+            {
+                "id": "homebank-biz",
+                "title": "HomeBank",
+                "description": "Λογισμικό διαχείρισης οικιακών και μικρών επιχειρηματικών οικονομικών.",
+                "commercial_equivalent": "Microsoft Money",
+                "url": "https://homebank.free.fr/"
+            },
+            {
+                "id": "turbocash-biz",
+                "title": "turboCash",
+                "description": "Ολοκληρωμένο λογιστικό σύστημα για επιχειρήσεις.",
+                "commercial_equivalent": "Microsoft Money",
+                "url": "https://www.turbocashuk.com/"
+            },
+            {
+                "id": "vtiger-biz",
+                "title": "Vtiger CRM",
+                "description": "Πλατφόρμα διαχείρισης πελατειακών σχέσεων ανοικτού κώδικα.",
+                "commercial_equivalent": "Salesforce",
+                "url": "https://www.vtiger.com/"
+            },
+            {
+                "id": "dolibarr-biz",
+                "title": "Dolibarr",
+                "description": "Σύγχρονο ERP και CRM για τη διαχείριση επιχειρηματικών δραστηριοτήτων.",
+                "commercial_equivalent": "SAP Business One",
+                "url": "https://www.dolibarr.org/"
+            }
+        ]
+    },
+    {
+        "id": "servers-biz",
+        "title": "Web Servers",
+        "description": "Εργαλεία για τη διαχείριση υποδομών.",
+        "subcategories": [
+            {
+                "id": "apache-web-biz",
+                "title": "Apache HTTP Server",
+                "description": "Ο πιο διαδεδομένος διακομιστής ιστού παγκοσμίως.",
+                "commercial_equivalent": "Microsoft IIS",
+                "url": "https://httpd.apache.org/"
+            },
+            {
+                "id": "nginx-web-biz",
+                "title": "Nginx",
+                "description": "Διακομιστής ιστού υψηλής απόδοσης και reverse proxy.",
+                "commercial_equivalent": "Microsoft IIS",
+                "url": "https://www.nginx.com/"
+            },
+            {
+                "id": "jboss-biz",
+                "title": "JBoss / WildFly",
+                "description": "Εξυπηρετητής εφαρμογών Java επιπέδου επιχείρησης.",
+                "commercial_equivalent": "Oracle WebLogic",
+                "url": "https://www.wildfly.org/"
+            },
+            {
+                "id": "tomcat-biz",
+                "title": "Apache Tomcat",
+                "description": "Εξυπηρετητής για την εκτέλεση Java Servlets και JSPs.",
+                "commercial_equivalent": "Oracle WebLogic",
+                "url": "https://tomcat.apache.org/"
+            },
+            {
+                "id": "openssl-biz",
+                "title": "OpenSSL",
+                "description": "Βιβλιοθήκη για ασφαλείς επικοινωνίες και κρυπτογραφία.",
+                "commercial_equivalent": "Authorize.net (Security module)",
+                "url": "https://www.openssl.org/"
+            },
+            {
+                "id": "tightvnc-biz",
+                "title": "TightVNC",
+                "description": "Εργαλείο απομακρυσμένης διαχείρισης επιφάνειας εργασίας.",
+                "commercial_equivalent": "Microsoft Remote Desktop",
+                "url": "https://www.tightvnc.com/"
+            }
+        ]
+    },
+    {
+        "id": "dev-biz",
+        "title": "Web Development",
+        "description": "Εργαλεία για την ανάπτυξη.",
+        "subcategories": [
+            {
+                "id": "kompozer-biz",
+                "title": "KompoZer",
+                "description": "Πλήρες σύστημα δημιουργίας ιστοσελίδων (Web Authoring).",
+                "commercial_equivalent": "Adobe Dreamweaver",
+                "url": "https://kompozer.net/"
+            },
+            {
+                "id": "bluefish-biz",
+                "title": "Bluefish",
+                "description": "Ισχυρός επεξεργαστής κώδικα για προγραμματιστές και σχεδιαστές ιστοσελίδων.",
+                "commercial_equivalent": "Adobe Dreamweaver",
+                "url": "https://bluefish.openoffice.nl/"
+            },
+            {
+                "id": "brackets-biz",
+                "title": "Brackets",
+                "description": "Σύγχρονος επεξεργαστής κειμένου για web design και ανάπτυξη.",
+                "commercial_equivalent": "Adobe Dreamweaver",
+                "url": "https://brackets.io/"
+            },
+            {
+                "id": "subversion-biz",
+                "title": "Subversion (SVN)",
+                "description": "Σύστημα ελέγχου εκδόσεων για τη διαχείριση πηγαίου κώδικα.",
+                "commercial_equivalent": "Perforce",
+                "url": "https://subversion.apache.org/"
+            },
+            {
+                "id": "git-biz",
+                "title": "Git",
+                "description": "Το πιο δημοφιλές κατανεμημένο σύστημα ελέγχου εκδόσεων.",
+                "commercial_equivalent": "Perforce",
+                "url": "https://git-scm.com/"
+            },
+            {
+                "id": "valgrind-biz",
+                "title": "Valgrind",
+                "description": "Εργαλείο αποσφαλμάτωσης και ανάλυσης κώδικα.",
+                "commercial_equivalent": "Rational Purify",
+                "url": "https://valgrind.org/"
+            },
+            {
+                "id": "openworkbench-biz",
+                "title": "Open Workbench",
+                "description": "Εφαρμογή διαχείρισης έργων και χρονοπρογραμματισμού.",
+                "commercial_equivalent": "Microsoft Project",
+                "url": "https://www.openworkbench.org/"
             }
         ]
     },
@@ -199,6 +353,34 @@
                 "description": "Δημιουργία διανυσματικών γραφικών.",
                 "commercial_equivalent": "Adobe Illustrator",
                 "url": "https://inkscape.org/"
+            },
+            {
+                "id": "dia-biz",
+                "title": "Dia",
+                "description": "Εργαλείο για τη σχεδίαση διαγραμμάτων και ροών εργασίας.",
+                "commercial_equivalent": "Microsoft Visio",
+                "url": "https://wiki.gnome.org/Apps/Dia"
+            },
+            {
+                "id": "camstudio-biz",
+                "title": "CamStudio",
+                "description": "Λογισμικό καταγραφής οθόνης και δημιουργίας εκπαιδευτικών βίντεο.",
+                "commercial_equivalent": "Camtasia",
+                "url": "https://camstudio.org/"
+            },
+            {
+                "id": "freecad-biz",
+                "title": "FreeCAD",
+                "description": "Πολυπαραμετρικό 3D μοντελοποιητή για CAD σχεδίαση.",
+                "commercial_equivalent": "AutoCAD",
+                "url": "https://www.freecad.org/"
+            },
+            {
+                "id": "librecad-biz",
+                "title": "LibreCAD",
+                "description": "Εφαρμογή CAD για 2D σχεδίαση.",
+                "commercial_equivalent": "AutoCAD",
+                "url": "https://librecad.org/"
             }
         ]
     },
