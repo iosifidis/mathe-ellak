@@ -200,7 +200,7 @@ export default function App() {
               className="bg-[#dc3545] hover:bg-[#c82333] text-white font-bold py-4 px-10 rounded-full flex items-center gap-2 transform hover:scale-105 transition-all shadow-lg"
             >
               <XCircle className="w-5 h-5" />
-              Δεν με ενδιαφέρει, επόμενο.
+              Δεν με ενδιαφέρει, επόμενο
             </button>
 
             {(activeData || history.length > 0) && (
@@ -209,7 +209,7 @@ export default function App() {
                 className="bg-[#6c757d] hover:bg-[#5a6268] text-white font-bold py-4 px-10 rounded-full flex items-center gap-2 transform hover:scale-105 transition-all shadow-lg"
               >
                 <ArrowLeft className="w-5 h-5" />
-                Έκανα λάθος. Πάμε πίσω.
+                Έκανα λάθος. Πάμε πίσω
               </button>
             )}
           </div>
