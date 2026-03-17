@@ -45,6 +45,26 @@
 
 Η εφαρμογή θα ξεκινήσει τοπικά, συνήθως στο `http://localhost:3000`.
 
+## Build με Docker
+
+Για να χτίσετε και να τρέξετε την εφαρμογή ως container χρησιμοποιώντας το παρεχόμενο `Dockerfile`:
+
+1.  **Build** της εικόνας:
+    ```bash
+    docker build -t mathe-ellak .
+    ```
+
+2.  **Run** το container:
+    ```bash
+    docker run -p 8080:80 mathe-ellak
+    ```
+
+Μετά την εκτέλεση, η εφαρμογή θα είναι διαθέσιμη στο `http://localhost:8080`.
+Αν επιθυμείτε να χτίσετε την εφαρμογή για διαφορετικό base URL (όπως π.χ. στο GitHub Pages), μπορείτε να χρησιμοποιήσετε την παράμετρο `VITE_BASE`:
+```bash
+docker build --build-arg VITE_BASE=/custom-base/ -t mathe-ellak-custom .
+```
+
 ## Scripts
 
 - `npm run dev` - Εκκίνηση της εφαρμογής σε περιβάλλον ανάπτυξης.
