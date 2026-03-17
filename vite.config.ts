@@ -5,7 +5,22 @@ import { defineConfig, loadEnv } from 'vite';
 
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
+
+  // Default to root, which is used by Netlify
+  let base = '/';
+
+  if (process.env.GITHUB_ACTIONS) {
+    // Default GitHub Pages base (repository name)
+    base = '/mathe-ellak/';
+  }
+
+  // Allow explicit override (e.g., from Docker ARG)
+  if (process.env.VITE_BASE) {
+    base = process.env.VITE_BASE;
+  }
+
   return {
+    base,
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
