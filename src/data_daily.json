@@ -28,7 +28,7 @@
             {
                 "id": "evince-daily",
                 "title": "Evince",
-                "description": "Ελαφρύς αναγνώστης αρχείων PDF που υποστηρίζει πολλαπλά formats εγγράφων[cite: 402].",
+                "description": "Ελαφρύς αναγνώστης αρχείων PDF που υποστηρίζει πολλαπλά formats εγγράφων.",
                 "commercial_equivalent": "Adobe PDF Reader",
                 "url": "https://wiki.gnome.org/Apps/Evince"
             },
@@ -63,7 +63,7 @@
             {
                 "id": "notepad-plus-plus-daily",
                 "title": "Notepad++",
-                "description": "Ένας εξελιγμένος και ελαφρύς επεξεργαστής κειμένου για καθημερινή χρήση[cite: 399].",
+                "description": "Ένας εξελιγμένος και ελαφρύς επεξεργαστής κειμένου για καθημερινή χρήση.",
                 "commercial_equivalent": "Microsoft Notepad",
                 "url": "https://notepad-plus-plus.org/"
             },
@@ -98,7 +98,7 @@
             {
                 "id": "firefox-focus-daily",
                 "title": "Firefox Focus",
-                "description": "Περιηγητής για κινητά που εστιάζει στην ταχύτητα και την αυτόματη διαγραφή του ιστορικού[cite: 478].",
+                "description": "Περιηγητής για κινητά που εστιάζει στην ταχύτητα και την αυτόματη διαγραφή του ιστορικού.",
                 "commercial_equivalent": "Opera Mini, Chrome Incognito",
                 "url": "https://www.mozilla.org/el/firefox/mobile/"
             },
@@ -168,7 +168,7 @@
             {
                 "id": "pinta-daily",
                 "title": "Pinta",
-                "description": "Απλό και εύχρηστο πρόγραμμα για ζωγραφική και επεξεργασία εικόνων[cite: 450].",
+                "description": "Απλό και εύχρηστο πρόγραμμα για ζωγραφική και επεξεργασία εικόνων.",
                 "commercial_equivalent": "MS Paint, Paint.net",
                 "url": "https://pinta-project.com/"
             },
@@ -224,7 +224,7 @@
             {
                 "id": "rhythmbox-daily",
                 "title": "Rhythmbox",
-                "description": "Οργανώστε τη μουσική σας βιβλιοθήκη και ακούστε online ραδιόφωνο[cite: 442].",
+                "description": "Οργανώστε τη μουσική σας βιβλιοθήκη και ακούστε online ραδιόφωνο.",
                 "commercial_equivalent": "Apple iTunes",
                 "url": "https://projects.gnome.org/rhythmbox/"
             },
@@ -301,7 +301,7 @@
             {
                 "id": "onionshare-daily",
                 "title": "OnionShare",
-                "description": "Ασφαλής και ανώνυμος διαμοιρασμός αρχείων οποιουδήποτε μεγέθους μέσω του δικτύου Tor[cite: 452].",
+                "description": "Ασφαλής και ανώνυμος διαμοιρασμός αρχείων οποιουδήποτε μεγέθους μέσω του δικτύου Tor.",
                 "commercial_equivalent": "WeTransfer (Privacy focused alternative)",
                 "url": "https://onionshare.org/"
             },
@@ -315,7 +315,7 @@
             {
                 "id": "clamwin-daily",
                 "title": "ClamWin",
-                "description": "Ελεύθερο εργαλείο προστασίας από ιούς για το σύστημά σας[cite: 399].",
+                "description": "Ελεύθερο εργαλείο προστασίας από ιούς για το σύστημά σας.",
                 "commercial_equivalent": "McAfee VirusScan, Norton Antivirus",
                 "url": "https://www.clamwin.com/"
             },
@@ -336,7 +336,7 @@
             {
                 "id": "partition-image-daily",
                 "title": "PartitionImage",
-                "description": "Εργαλείο για τη δημιουργία αντιγράφων ασφαλείας δίσκων και την ανάκτηση δεδομένων[cite: 537].",
+                "description": "Εργαλείο για τη δημιουργία αντιγράφων ασφαλείας δίσκων και την ανάκτηση δεδομένων.",
                 "commercial_equivalent": "Norton Ghost",
                 "url": "https://www.partimage.org/"
             },
