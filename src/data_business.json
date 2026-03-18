@@ -299,6 +299,48 @@
                 "url": "https://valgrind.org/"
             },
             {
+                "id": "eclipse-biz",
+                "title": "Eclipse",
+                "description": "Ένα από τα πιο δημοφιλή και ισχυρά IDE παγκοσμίως, με τεράστιο οικοσύστημα από plugins για Java και πολλές άλλες γλώσσες προγραμματισμού.",
+                "commercial_equivalent": "Microsoft Visual Studio",
+                "url": "https://www.eclipse.org/"
+            },
+            {
+                "id": "geany-biz",
+                "title": "Geany",
+                "description": "Ένας εξαιρετικά γρήγορος και ελαφρύς επεξεργαστής κειμένου με βασικές δυνατότητες IDE, ιδανικός για γρήγορες αλλαγές σε κώδικα.",
+                "commercial_equivalent": "Microsoft Visual Studio, Sublime Text",
+                "url": "https://www.geany.org/"
+            },
+            {
+                "id": "codeblocks-biz",
+                "title": "Code::Blocks",
+                "description": "Ένα εξαιρετικά παραμετροποιήσιμο και επεκτάσιμο περιβάλλον ανάπτυξης (IDE) για C, C++ και Fortran, ιδανικό για απαιτητικά business projects.",
+                "commercial_equivalent": "Microsoft Visual Studio",
+                "url": "https://www.codeblocks.org/"
+            },
+            {
+                "id": "dev-cpp-biz",
+                "title": "Dev-C++",
+                "description": "Ένα ελαφρύ και αποδοτικό IDE για προγραμματισμό σε C/C++, κατάλληλο για γρήγορη ανάπτυξη εφαρμογών σε περιβάλλον Windows.",
+                "commercial_equivalent": "Microsoft Visual Studio",
+                "url": "https://www.bloodshed.net/devcpp.html"
+            },
+            {
+                "id": "mono-biz",
+                "title": "Mono Project",
+                "description": "Open-source υλοποίηση του .NET Framework που επιτρέπει στις επιχειρήσεις να τρέχουν εφαρμογές C# και .NET σε Linux, macOS και Windows.",
+                "commercial_equivalent": "Microsoft .NET Framework",
+                "url": "https://www.mono-project.com/"
+            },
+            {
+                "id": "ultimate-plus-plus-biz",
+                "title": "Ultimate++",
+                "description": "Ένα πλαίσιο ανάπτυξης εφαρμογών C++ (framework) που εστιάζει στη μείωση του κώδικα και την αύξηση της παραγωγικότητας των προγραμματιστών.",
+                "commercial_equivalent": "Microsoft Visual Studio",
+                "url": "https://www.ultimatepp.org/"
+            },
+            {
                 "id": "openworkbench-biz",
                 "title": "Open Workbench",
                 "description": "Εφαρμογή διαχείρισης έργων και χρονοπρογραμματισμού.",
@@ -437,6 +479,13 @@
                 "description": "Μικρή πλατφόρμα PaaS για εύκολη φιλοξενία εφαρμογών.",
                 "commercial_equivalent": "Heroku",
                 "url": "http://dokku.viewdocs.io/"
+            },
+            {
+                "id": "huginn-biz",
+                "title": "Huginn",
+                "description": "Ένα σύστημα για τη δημιουργία αυτοματοποιημένων πρακτόρων (agents) που εκτελούν εργασίες online, όπως η παρακολούθηση δεδομένων και η σύνδεση εφαρμογών.",
+                "commercial_equivalent": "Zapier, IFTTT",
+                "url": "https://github.com/huginn/huginn"
             },
             {
                 "id": "openvas-biz",

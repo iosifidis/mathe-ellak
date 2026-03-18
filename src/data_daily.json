@@ -40,6 +40,41 @@
                 "url": "https://joplinapp.org/"
             },
             {
+                "id": "k9mail-daily",
+                "title": "K-9 Mail",
+                "description": "Μια αυτόνομη και ισχυρή εφαρμογή ηλεκτρονικού ταχυδρομείου για Android, που υποστηρίζει πολλαπλούς λογαριασμούς και πρωτόκολλα (IMAP, POP3) με έμφαση στην ελευθερία του χρήστη.",
+                "commercial_equivalent": "Microsoft Outlook Express",
+                "url": "https://k9mail.github.io/"
+            },
+            {
+                "id": "kedit-daily",
+                "title": "Kate / KEdit",
+                "description": "Ένας προηγμένος επεξεργαστής κειμένου που συνδυάζει την απλότητα ενός σημειωματάριου με ισχυρές δυνατότητες επεξεργασίας κώδικα και πολλαπλών εγγράφων.",
+                "commercial_equivalent": "Microsoft Notepad",
+                "url": "https://kate-editor.org/"
+            },
+            {
+                "id": "kontact-daily",
+                "title": "Kontact",
+                "description": "Ολοκληρωμένος διαχειριστής προσωπικών πληροφοριών (PIM) που ενοποιεί το ηλεκτρονικό ταχυδρομείο, το ημερολόγιο, τις επαφές και τις σημειώσεις σε ένα ενιαίο περιβάλλον.",
+                "commercial_equivalent": "Windows Calendar",
+                "url": "https://kontact.org/"
+            },
+            {
+                "id": "openoffice-daily",
+                "title": "Apache OpenOffice",
+                "description": "Μια ιστορική και αξιόπιστη σουίτα εφαρμογών γραφείου ανοικτού κώδικα για επεξεργασία κειμένου, λογιστικά φύλλα και παρουσιάσεις.",
+                "commercial_equivalent": "Microsoft Office",
+                "url": "https://www.openoffice.org/el/"
+            },
+            {
+                "id": "kpdf-daily",
+                "title": "KPDF",
+                "description": "Ένας ελαφρύς και ταχύτατος αναγνώστης αρχείων PDF, πλήρως ενσωματωμένος στο περιβάλλον εργασίας KDE.",
+                "commercial_equivalent": "Adobe PDF Reader",
+                "url": "https://kpdf.kde.org/"
+            },
+            {
                 "id": "zotero-daily",
                 "title": "Zotero",
                 "description": "Εξειδικευμένη λύση για τεκμηρίωση πηγών, βιβλιογραφίας, πολυμέσων και σημειώσεων.",
@@ -145,6 +180,41 @@
                 "url": "https://github.com/asciimoo/searx/wiki/"
             },
             {
+                "id": "argos-translate-daily",
+                "title": "Argos Translate",
+                "description": "Λογισμικό αυτόματης μετάφρασης ανοικτού κώδικα που βασίζεται σε νευρωνικά δίκτυα και επιτρέπει τη μετάφραση κειμένων τοπικά, χωρίς την ανάγκη σύνδεσης στο cloud.",
+                "commercial_equivalent": "Google Translate",
+                "url": "https://www.argosopentech.com/"
+            },
+            {
+                "id": "mastodon-daily",
+                "title": "Mastodon",
+                "description": "Το μεγαλύτερο αποκεντρωμένο δίκτυο microblogging που βασίζεται στο πρότυπο ActivityPub, προσφέροντας πλήρη έλεγχο της επικοινωνίας χωρίς κεντρικούς αλγόριθμους.",
+                "commercial_equivalent": "X (Twitter)",
+                "url": "https://joinmastodon.org"
+            },
+            {
+                "id": "pumpio-daily",
+                "title": "Pump.io",
+                "description": "Μια πλατφόρμα κοινωνικής δικτύωσης που χρησιμοποιεί το πρότυπο Activity Streams, επιτρέποντας στους χρήστες να τρέχουν τον δικό τους διακομιστή.",
+                "commercial_equivalent": "X (Twitter), Facebook",
+                "url": "http://pump.io"
+            },
+            {
+                "id": "twister-daily",
+                "title": "Twister",
+                "description": "Μια πλήρως αποκεντρωμένη P2P πλατφόρμα microblogging που συνδυάζει την τεχνολογία του Bitcoin και του BitTorrent για μέγιστη ανωνυμία.",
+                "commercial_equivalent": "X (Twitter)",
+                "url": "http://twister.net.co/"
+            },
+            {
+                "id": "writefreely-daily",
+                "title": "WriteFreely",
+                "description": "Μια μινιμαλιστική και καθαρή πλατφόρμα δημοσίευσης κειμένων, σχεδιασμένη ειδικά για συγγραφείς που θέλουν να εστιάσουν στο περιεχόμενο.",
+                "commercial_equivalent": "Medium",
+                "url": "https://writefreely.org/"
+            },
+            {
                 "id": "libretranslate-daily",
                 "title": "Libre Translate",
                 "description": "Ελεύθερο API μηχανικής μετάφρασης, self-hosted, χωρίς περιορισμούς όγκου δεδομένων.",
@@ -192,6 +262,13 @@
                 "description": "Επαγγελματική επεξεργασία βίντεο με node-based workflow.",
                 "commercial_equivalent": "Blackmagic DaVinci Resolve",
                 "url": "https://natrongithub.github.io/"
+            },
+            {
+                "id": "kghostview-daily",
+                "title": "KGhostview",
+                "description": "Εργαλείο προβολής και διαχείρισης αρχείων PostScript (PS) και PDF, παρέχοντας μια κλασική και σταθερή λύση για την ανάγνωση εγγράφων εκτύπωσης.",
+                "commercial_equivalent": "Adobe PostScript",
+                "url": "http://pages.cs.wisc.edu/~ghost/"
             },
             {
                 "id": "openshot-daily",
@@ -318,6 +395,13 @@
                 "description": "Ελεύθερο εργαλείο προστασίας από ιούς για το σύστημά σας.",
                 "commercial_equivalent": "McAfee VirusScan, Norton Antivirus",
                 "url": "https://www.clamwin.com/"
+            },
+            {
+                "id": "lynis-daily",
+                "title": "Lynis",
+                "description": "Εξειδικευμένο εργαλείο ελέγχου ασφαλείας και σκλήρυνσης (hardening) συστημάτων Linux/Unix, απαραίτητο για τη διασφάλιση της ακεραιότητας του λειτουργικού συστήματος.",
+                "commercial_equivalent": "McAfee VirusScan",
+                "url": "https://cisofy.com/lynis/"
             },
             {
                 "id": "retroshare-daily",

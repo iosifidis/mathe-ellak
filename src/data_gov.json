@@ -26,6 +26,13 @@
                 "url": "https://www.globaleaks.org/"
             },
             {
+                "id": "mastodon-gov",
+                "title": "Mastodon",
+                "description": "Αποκεντρωμένη πλατφόρμα ενημέρωσης και επικοινωνίας που επιτρέπει σε δημόσιους φορείς να διατηρούν τη δική τους παρουσία στα μέσα κοινωνικής δικτύωσης με απόλυτη κυριότητα των δεδομένων.",
+                "commercial_equivalent": "X (Twitter)",
+                "url": "https://joinmastodon.org"
+            },
+            {
                 "id": "securedrop-gov",
                 "title": "SecureDrop",
                 "description": "Σύστημα υποβολής ανώνυμων πληροφοριών με υψηλά επίπεδα ασφάλειας για ευαίσθητα δεδομένα.",
@@ -73,6 +80,13 @@
                 "description": "Ολοκληρωμένη πλατφόρμα για φιλοξενία, διαμοιρασμό αρχείων και συνεργατική επεξεργασία εγγράφων.",
                 "commercial_equivalent": "MS Teams, Google Docs",
                 "url": "https://nextcloud.com/"
+            },
+            {
+                "id": "argos-translate-gov",
+                "title": "Argos Translate",
+                "description": "Ανοικτό σύστημα αυτόματης μετάφρασης βασισμένο σε νευρωνικά δίκτυα για την ενίσχυση της πολυγλωσσίας και της προσβασιμότητας στις δημόσιες ψηφιακές υπηρεσίες.",
+                "commercial_equivalent": "Custom Translation Services",
+                "url": "https://www.argosopentech.com/"
             },
             {
                 "id": "libreoffice-gov",
