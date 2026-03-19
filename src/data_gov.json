@@ -61,6 +61,20 @@
                 "url": "https://getdkan.org/"
             },
             {
+                "id": "plausible-gov",
+                "title": "Plausible Analytics",
+                "description": "Εργαλείο ανάλυσης επισκεψιμότητας δημόσιων ιστοτόπων που σέβεται απόλυτα την ιδιωτικότητα των πολιτών χωρίς τη χρήση cookies παρακολούθησης.",
+                "commercial_equivalent": "Custom Analytics Solutions",
+                "url": "https://plausible.io/"
+            },
+            {
+                "id": "questdb-gov",
+                "title": "QuestDB",
+                "description": "Βάση δεδομένων χρονοσειρών υψηλής απόδοσης, κατάλληλη για την επεξεργασία μεγάλου όγκου δεδομένων από δημόσιες υποδομές και δίκτυα αισθητήρων σε πραγματικό χρόνο.",
+                "commercial_equivalent": "Kdb+",
+                "url": "https://questdb.io/"
+            },
+            {
                 "id": "openfisca-gov",
                 "title": "OpenFisca",
                 "description": "Πλατφόρμα προσομοίωσης φορολογικής και κοινωνικής πολιτικής για την ανάλυση επιπτώσεων νομοθετικών αλλαγών.",
@@ -96,6 +110,13 @@
                 "url": "https://el.libreoffice.org/"
             },
             {
+                "id": "openfaas-gov",
+                "title": "OpenFaaS",
+                "description": "Πλαίσιο για την εκτέλεση συναρτήσεων ως υπηρεσιών (Serverless), επιτρέποντας στους δημόσιους φορείς να αναπτύσσουν κλιμακούμενες μικροϋπηρεσίες με αποδοτικό τρόπο.",
+                "commercial_equivalent": "AWS Lambda, Heroku",
+                "url": "https://www.openfaas.com/"
+            },
+            {
                 "id": "postgresql-gov",
                 "title": "PostgreSQL",
                 "description": "Η πιο προηγμένη βάση δεδομένων ανοιχτού κώδικα για κρίσιμες δημόσιες εφαρμογές.",
@@ -110,11 +131,74 @@
                 "url": "https://wordpress.org/"
             },
             {
+                "id": "winscp-gov",
+                "title": "WinSCP",
+                "description": "Εργαλείο ασφαλούς μεταφοράς δεδομένων (SFTP/SCP) για τη διαχείριση κυβερνητικών διακομιστών και την προστασία των πληροφοριών κατά τη μεταφορά.",
+                "commercial_equivalent": "Secure File Transfer Clients",
+                "url": "https://winscp.net/eng/index.php"
+            },
+            {
                 "id": "keycloak-gov",
                 "title": "Keycloak",
                 "description": "Διαχείριση ταυτότητας και πρόσβασης (SSO) για την ασφαλή ταυτοποίηση στις δημόσιες υπηρεσίες.",
                 "commercial_equivalent": "Okta, Auth0",
                 "url": "https://www.keycloak.org/"
+            },
+            {
+                "id": "gnucomm-gov",
+                "title": "Gnucomm",
+                "description": "Το κεντρικό πρόγραμμα τηλεπικοινωνιών του εγχειρήματος GNU, σχεδιασμένο για την παροχή ελεύθερων τηλεπικοινωνιακών υποδομών.",
+                "commercial_equivalent": "Proprietary Telecom Stacks",
+                "url": "https://www.gnu.org/software/gnucomm/"
+            },
+            {
+                "id": "jami-gov",
+                "title": "Jami",
+                "description": "Κατανεμημένο σύστημα επικοινωνίας χωρίς κεντρικό διακομιστή, ιδανικό για ασφαλείς ενδοκυβερνητικές συνομιλίες με πλήρη κυριαρχία δεδομένων.",
+                "commercial_equivalent": "Secure IP Telephony",
+                "url": "https://www.gnu.org/software/jami/"
+            },
+            {
+                "id": "rocket-chat-gov",
+                "title": "Rocket.Chat",
+                "description": "Μια πλήρως παραμετροποιήσιμη πλατφόρμα επικοινωνίας που επιτρέπει σε δημόσιους φορείς να αντικαταστήσουν κλειστά εμπορικά συστήματα, διατηρώντας τον πλήρη έλεγχο των συνομιλιών και των αρχείων τους.",
+                "commercial_equivalent": "Slack",
+                "url": "https://rocket.chat/"
+            },
+            {
+                "id": "mattermost-gov",
+                "title": "Mattermost",
+                "description": "Λύση ομαδικής επικοινωνίας και διαχείρισης ροών εργασίας (workflow), σχεδιασμένη για περιβάλλοντα με υψηλές απαιτήσεις ασφαλείας και ιδιωτικότητας στον δημόσιο τομέα.",
+                "commercial_equivalent": "Slack, Microsoft Teams",
+                "url": "https://mattermost.com"
+            },
+            {
+                "id": "zulip-gov",
+                "title": "Zulip",
+                "description": "Πλατφόρμα ομαδικής συνομιλίας που οργανώνει τις συζητήσεις σε θέματα (threading), διευκολύνοντας την παρακολούθηση σύνθετων υπηρεσιακών θεμάτων και τη λήψη αποφάσεων.",
+                "commercial_equivalent": "Slack",
+                "url": "https://zulip.com/"
+            },
+            {
+                "id": "element-gov",
+                "title": "Element",
+                "description": "Ασφαλής εφαρμογή επικοινωνίας βασισμένη στο ανοικτό πρωτόκολλο Matrix, που επιτρέπει τη διαλειτουργικότητα μεταξύ διαφορετικών κυβερνητικών τμημάτων με κρυπτογράφηση άκρου-προς-άκρο.",
+                "commercial_equivalent": "Slack, Discord",
+                "url": "https://element.io/"
+            },
+            {
+                "id": "xvid-gov",
+                "title": "Xvid",
+                "description": "Ένας κωδικοποιητής βίντεο υψηλής απόδοσης που ακολουθεί το πρότυπο MPEG-4, εξασφαλίζοντας τη συμβατότητα και τη συμπίεση ψηφιακού περιεχομένου.",
+                "commercial_equivalent": "DivX",
+                "url": "https://labs.xvid.com/"
+            },
+            {
+                "id": "theora-gov",
+                "title": "Theora",
+                "description": "Ένα ελεύθερο και ανοικτό format συμπίεσης βίντεο που δεν απαιτεί δικαιώματα χρήσης, ιδανικό για τη διανομή δημόσιου οπτικοακουστικού περιεχομένου.",
+                "commercial_equivalent": "Proprietary Video Codecs",
+                "url": "https://www.theora.org/"
             }
         ]
     },
@@ -150,6 +234,104 @@
                 "description": "Εύχρηστο εργαλείο διαχείρισης τείχους ασφαλείας, προεπιλεγμένο στο Ubuntu.",
                 "commercial_equivalent": "Norton Internet Security",
                 "url": "https://help.ubuntu.com/community/UFW"
+            },
+            {
+                "id": "scilab-gov",
+                "title": "SciLab",
+                "description": "Εργαλείο μαθηματικών υπολογισμών και ανάλυσης δεδομένων για δημόσιους ερευνητικούς φορείς και οργανισμούς που απαιτούν σύνθετες προσομοιώσεις.",
+                "commercial_equivalent": "MATLAB",
+                "url": "https://www.scilab.org/"
+            },
+            {
+                "id": "libgcrypt-gov",
+                "title": "Libgcrypt",
+                "description": "Μια γενική βιβλιοθήκη κρυπτογραφίας βασισμένη στον κώδικα του GnuPG, η οποία παρέχει θεμελιώδη δομικά στοιχεία για την ασφάλεια των δημόσιων ψηφιακών υποδομών.",
+                "commercial_equivalent": "Proprietary Crypto Libraries",
+                "url": "https://gnupg.org/software/libgcrypt/"
+            },
+            {
+                "id": "enigmail-gov",
+                "title": "Enigmail",
+                "description": "Επέκταση ασφαλείας για το Thunderbird που ενσωματώνει την κρυπτογράφηση PGP, απαραίτητη για την εμπιστευτική υπηρεσιακή αλληλογραφία.",
+                "commercial_equivalent": "Secure Email Gateways",
+                "url": "http://www.enigmail.net/home/index.php"
+            },
+            {
+                "id": "leon-gov",
+                "title": "Leon",
+                "description": "Ένας ανοικτός προσωπικός βοηθός (AI) που μπορεί να φιλοξενηθεί σε τοπικούς διακομιστή (self-hosted), επιτρέποντας στους δημόσιους φορείς να αυτοματοποιούν εργασίες χωρίς να εκθέτουν δεδομένα σε εξωτερικά clouds.",
+                "commercial_equivalent": "Siri, Google Assistant",
+                "url": "https://getleon.ai/"
+            },
+            {
+                "id": "torbirdy-gov",
+                "title": "TorBirdy",
+                "description": "Εξειδικευμένο εργαλείο που ρυθμίζει το Mozilla Thunderbird ώστε να δρομολογεί την αλληλογραφία μέσω του δικτύου Tor, εξασφαλίζοντας την ανωνυμία των κυβερνητικών επικοινωνιών.",
+                "commercial_equivalent": "Secure Email Routing",
+                "url": "https://trac.torproject.org/projects/tor/wiki/torbirdy"
+            },
+            {
+                "id": "privoxy-gov",
+                "title": "Privoxy",
+                "description": "Εργαλείο φιλτραρίσματος περιεχομένου και προστασίας ιδιωτικότητας σε επίπεδο δικτύου, απαραίτητο για τη θωράκιση των σταθμών εργασίας δημόσιων υπαλλήλων.",
+                "commercial_equivalent": "Enterprise Web Filtering",
+                "url": "https://www.privoxy.org/"
+            },
+            {
+                "id": "gnutls-gov",
+                "title": "GnuTLS",
+                "description": "Μια ασφαλής βιβλιοθήκη που υλοποιεί τα πρωτόκολλα TLS και SSL, παρέχοντας το απαραίτητο επίπεδο ασφαλείας για την κρυπτογράφηση των δημόσιων ψηφιακών επικοινωνιών.",
+                "commercial_equivalent": "Proprietary SSL Libraries",
+                "url": "https://www.gnu.org/software/gnutls/"
+            },
+            {
+                "id": "foremost-gov",
+                "title": "Foremost",
+                "description": "Εξειδικευμένο εργαλείο εγκληματολογικής ανάλυσης (forensics) για την ανάκτηση χαμένων αρχείων με βάση τις κεφαλίδες και τις δομές των δεδομένων τους.",
+                "commercial_equivalent": "Specialized Data Recovery Tools",
+                "url": "https://foremost.sourceforge.net/"
+            },
+            {
+                "id": "qtparted-gov",
+                "title": "qtparted",
+                "description": "Γραφική εφαρμογή για τη διαχείριση κατατμήσεων σκληρού δίσκου, απαραίτητη για τη συντήρηση και την οργάνωση σταθμών εργασίας δημόσιων φορέων.",
+                "commercial_equivalent": "Partition Magic",
+                "url": "https://qtparted.sourceforge.net/"
+            },
+            {
+                "id": "osip-gov",
+                "title": "Osip",
+                "description": "Βιβλιοθήκη ανοικτού κώδικα που υλοποιεί το πρωτόκολλο SIP, επιτρέποντας την ανάπτυξη αυτόνομων και ασφαλών κυβερνητικών υποδομών τηλεφωνίας IP.",
+                "commercial_equivalent": "Proprietary SIP Stacks",
+                "url": "https://www.gnu.org/software/osip/"
+            },
+            {
+                "id": "i2p-gov",
+                "title": "I2P",
+                "description": "Ένα πλήρως αποκεντρωμένο δίκτυο ανωνυμίας που επιτρέπει την ασφαλή και ανώνυμη επικοινωνία, ανθεκτικό σε λογοκρισία και παρακολούθηση.",
+                "commercial_equivalent": "Closed Darknets / VPNs",
+                "url": "https://geti2p.net/"
+            },
+            {
+                "id": "firewalld-gov",
+                "title": "FirewallD",
+                "description": "Σύγχρονη λύση διαχείρισης τείχους προστασίας για τη θωράκιση των δημόσιων ψηφιακών υποδομών, προσφέροντας ευελιξία και υψηλή διαθεσιμότητα.",
+                "commercial_equivalent": "Enterprise Firewall Systems",
+                "url": "https://firewalld.org/"
+            },
+            {
+                "id": "dante-gov",
+                "title": "Dante",
+                "description": "Μια ισχυρή και ελεύθερη υλοποίηση του πρωτοκόλλου SOCKS, που χρησιμοποιείται για την ασφαλή δρομολόγηση και τον έλεγχο της κυκλοφορίας σε κυβερνητικά δίκτυα.",
+                "commercial_equivalent": "Microsoft Proxy Server",
+                "url": "http://www.inet.no/dante/"
+            },
+            {
+                "id": "ccrtp-gov",
+                "title": "Ccrtp",
+                "description": "Υλοποίηση της στοίβας πρωτοκόλλων RTP από το έργο GNU, κρίσιμη για τη δημιουργία ασφαλών και σταθερών υποδομών μεταφοράς ήχου και βίντεο σε πραγματικό χρόνο.",
+                "commercial_equivalent": "Proprietary RTP Stacks",
+                "url": "https://www.gnu.org/software/ccrtp/"
             },
             {
                 "id": "ns3-gov",

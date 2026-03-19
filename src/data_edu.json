@@ -89,6 +89,20 @@
                 "url": "https://shatters.net/celestia/"
             },
             {
+                "id": "sage-edu",
+                "title": "SageMath",
+                "description": "Ένα ολοκληρωμένο μαθηματικό σύστημα ανοικτού κώδικα που ενοποιεί πολλά υπάρχοντα πακέτα (NumPy, SciPy, κ.α.) σε μια κοινή διεπαφή βασισμένη στην Python.",
+                "commercial_equivalent": "Mathematica, Magma",
+                "url": "https://www.sagemath.org/"
+            },
+            {
+                "id": "scilab-edu",
+                "title": "SciLab",
+                "description": "Λογισμικό υψηλού επιπέδου για αριθμητικούς υπολογισμούς και προσομοιώσεις, αποτελώντας μια εξαιρετική ελεύθερη εναλλακτική για επιστημονικές εφαρμογές.",
+                "commercial_equivalent": "MATLAB",
+                "url": "https://www.scilab.org/"
+            },
+            {
                 "id": "hot-potatoes",
                 "title": "Hot Potatoes",
                 "description": "Δημιουργία διαδραστικών ασκήσεων και εκπαιδευτικών δραστηριοτήτων.",
@@ -136,6 +150,20 @@
                 "description": "Εφαρμογή για τη στατιστική ανάλυση δειγματοληπτικών δεδομένων.",
                 "commercial_equivalent": "SPSS",
                 "url": "https://www.gnu.org/software/pspp/"
+            },
+            {
+                "id": "efront-edu",
+                "title": "eFront",
+                "description": "Μια σύγχρονη πλατφόρμα διαχείρισης μάθησης (LMS) που εστιάζει στην ευχρηστία και την αποτελεσματική οργάνωση εκπαιδευτικού περιεχομένου.",
+                "commercial_equivalent": "Blackboard",
+                "url": "https://www.efrontlearning.com/"
+            },
+            {
+                "id": "archimedes-edu",
+                "title": "Archimedes",
+                "description": "Ένα ανοικτού κώδικα σύστημα CAD (Computer-Aided Design) ειδικά σχεδιασμένο για αρχιτεκτονική σχεδίαση.",
+                "commercial_equivalent": "AutoCAD",
+                "url": "https://www.codeplex.com/archimedes"
             },
             {
                 "id": "octave",

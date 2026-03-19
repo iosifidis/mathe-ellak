@@ -26,6 +26,20 @@
                 "url": "https://www.thunderbird.net"
             },
             {
+                "id": "matrix-synapse-biz",
+                "title": "Matrix Synapse",
+                "description": "Λογισμικό διακομιστή για το πρωτόκολλο Matrix, που επιτρέπει στις επιχειρήσεις να στήσουν τη δική τους αποκεντρωμένη υποδομή επικοινωνίας.",
+                "commercial_equivalent": "Slack (Server Infrastructure)",
+                "url": "https://matrix.org/"
+            },
+            {
+                "id": "ekiga-biz",
+                "title": "Ekiga",
+                "description": "Επαγγελματική εφαρμογή τηλεδιάσκεψης και VoIP που υποστηρίζει τα πρωτόκολλα SIP και H.323.",
+                "commercial_equivalent": "Microsoft Teams, Skype",
+                "url": "http://www.ekiga.org/"
+            },
+            {
                 "id": "mattermost-biz",
                 "title": "Mattermost",
                 "description": "Τηλεδιάσκεψη και άμεση επικοινωνία ομάδας με chat και βιντεοκλήσεις.",
@@ -173,6 +187,13 @@
                 "url": "https://www.openhrms.com/"
             },
             {
+                "id": "adempiere-biz",
+                "title": "Adempiere",
+                "description": "Ένα ολοκληρωμένο σύστημα ERP, CRM και SCM ανοικτού κώδικα που προσφέρει λύσεις για τη διαχείριση πωλήσεων, αγορών και αποθεμάτων.",
+                "commercial_equivalent": "SAP, Oracle EBS",
+                "url": "https://adempiere.io/"
+            },
+            {
                 "id": "homebank-biz",
                 "title": "HomeBank",
                 "description": "Λογισμικό διαχείρισης οικιακών και μικρών επιχειρηματικών οικονομικών.",
@@ -243,6 +264,20 @@
                 "url": "https://www.openssl.org/"
             },
             {
+                "id": "bayonne-biz",
+                "title": "GNU Bayonne",
+                "description": "Ελεύθερος εξυπηρετητής τηλεφωνίας για τη δημιουργία προηγμένων υπηρεσιών φωνητικής απόκρισης (IVR.",
+                "commercial_equivalent": "Proprietary IVR Systems",
+                "url": "https://www.gnu.org/software/bayonne/"
+            },
+            {
+                "id": "sipwitch-biz",
+                "title": "GNU Sipwitch",
+                "description": "Εξυπηρετητής τηλεφωνικών κλήσεων γραφείου βασισμένος στο πρωτόκολλο SIP για τη διαχείριση εσωτερικών δικτύων επικοινωνίας.",
+                "commercial_equivalent": "Avaya, Cisco IP PBX",
+                "url": "https://www.gnu.org/software/sipwitch/"
+            },
+            {
                 "id": "tightvnc-biz",
                 "title": "TightVNC",
                 "description": "Εργαλείο απομακρυσμένης διαχείρισης επιφάνειας εργασίας.",
@@ -304,6 +339,34 @@
                 "description": "Ένα από τα πιο δημοφιλή και ισχυρά IDE παγκοσμίως, με τεράστιο οικοσύστημα από plugins για Java και πολλές άλλες γλώσσες προγραμματισμού.",
                 "commercial_equivalent": "Microsoft Visual Studio",
                 "url": "https://www.eclipse.org/"
+            },
+            {
+                "id": "gcc-biz",
+                "title": "GCC (GNU Compiler Collection)",
+                "description": "Ένα βασικό σύστημα μεταγλωττιστών που υποστηρίζει διάφορες γλώσσες προγραμματισμού (C, C++, Fortran κ.α.), αποτελώντας τον ακρογωνιαίο λίθο της ανάπτυξης ελεύθερου λογισμικού.",
+                "commercial_equivalent": "Visual C++ Compiler",
+                "url": "https://gcc.gnu.org/"
+            },
+            {
+                "id": "gforge-biz",
+                "title": "GForge",
+                "description": "Συνεργατική πλατφόρμα για τη διαχείριση κύκλου ζωής ανάπτυξης λογισμικού, που προσφέρει εργαλεία φιλοξενίας κώδικα, παρακολούθησης σφαλμάτων και συνεργασίας ομάδων.",
+                "commercial_equivalent": "SourceForge (Enterprise), GitHub",
+                "url": "https://gforge.org/"
+            },
+            {
+                "id": "tortoisesvn-biz",
+                "title": "TortoiseSVN",
+                "description": "Ένας εύχρηστος πελάτης ελέγχου εκδόσεων για το Subversion (SVN), πλήρως ενσωματωμένος στο περιβάλλον εργασίας των Windows.",
+                "commercial_equivalent": "Perforce GUI Clients",
+                "url": "https://tortoisesvn.net/"
+            },
+            {
+                "id": "atom-biz",
+                "title": "Atom",
+                "description": "Ένας σύγχρονος και πλήρως παραμετροποιήσιμος επεξεργαστής κειμένου για προγραμματιστές, με ενσωματωμένη υποστήριξη για Git και GitHub.",
+                "commercial_equivalent": "Sublime Text, Microsoft Visual Studio Code",
+                "url": "https://atom.io/"
             },
             {
                 "id": "geany-biz",
@@ -374,6 +437,27 @@
                 "description": "Πλατφόρμα ανάλυσης ιστού που προστατεύει την ιδιωτικότητα και την κυριότητα των δεδομένων.",
                 "commercial_equivalent": "Google Analytics",
                 "url": "https://matomo.org/"
+            },
+            {
+                "id": "goaccess-biz",
+                "title": "GoAccess",
+                "description": "Ένας αναλυτής καταγραφών (log analyzer) ιστού σε πραγματικό χρόνο που λειτουργεί μέσω τερματικού, παρέχοντας γρήγορα στατιστικά στοιχεία HTTP χωρίς την ανάγκη JavaScript.",
+                "commercial_equivalent": "Google Analytics",
+                "url": "https://goaccess.io/"
+            },
+            {
+                "id": "umami-biz",
+                "title": "Umami",
+                "description": "Μια απλή, εύχρηστη και εστιασμένη στην ιδιωτικότητα εναλλακτική λύση analytics, που επιτρέπει στις επιχειρήσεις να έχουν πλήρη κυριότητα των δεδομένων τους.",
+                "commercial_equivalent": "Google Analytics",
+                "url": "https://umami.is"
+            },
+            {
+                "id": "plausible-biz",
+                "title": "Plausible Analytics",
+                "description": "Ελαφρύ εργαλείο ανάλυσης ιστότοπων ανοικτού κώδικα, χωρίς τη χρήση cookies και πλήρως συμβατό με τους κανονισμούς προστασίας δεδομένων (GDPR).",
+                "commercial_equivalent": "Google Analytics",
+                "url": "https://plausible.io/"
             }
         ]
     },
@@ -423,6 +507,20 @@
                 "description": "Εφαρμογή CAD για 2D σχεδίαση.",
                 "commercial_equivalent": "AutoCAD",
                 "url": "https://librecad.org/"
+            },
+            {
+                "id": "f4l-swftools-biz",
+                "title": "F4L / Swftools",
+                "description": "Συλλογή εργαλείων για τη δημιουργία και επεξεργασία αρχείων Adobe Flash (SWF), επιτρέποντας την παραγωγή δυναμικών γραφικών ιστού.",
+                "commercial_equivalent": "Adobe Flash",
+                "url": "https://swftools.org/"
+            },
+            {
+                "id": "mediagoblin-biz",
+                "title": "GNU MediaGoblin",
+                "description": "Μια ελεύθερη πλατφόρμα δημοσίευσης πολυμέσων που επιτρέπει στις επιχειρήσεις να φιλοξενούν και να μοιράζονται βίντεο, ήχο και εικόνες με πλήρη αυτονομία.",
+                "commercial_equivalent": "YouTube (Self-hosted alternative), Flickr",
+                "url": "https://mediagoblin.org/"
             }
         ]
     },
@@ -451,6 +549,27 @@
                 "description": "NoSQL βάση δεδομένων για διαχείριση μεγάλου όγκου μη δομημένων δεδομένων.",
                 "commercial_equivalent": "Amazon DocumentDB",
                 "url": "https://www.mongodb.com/"
+            },
+            {
+                "id": "influxdb-biz",
+                "title": "InfluxDB",
+                "description": "Βάση δεδομένων βελτιστοποιημένη για χρονοσειρές (time-series), ιδανική για αποθήκευση μετρήσεων από αισθητήρες IoT και συστήματα παρακολούθησης.",
+                "commercial_equivalent": "Kdb+",
+                "url": "https://www.influxdata.com/"
+            },
+            {
+                "id": "timescaledb-biz",
+                "title": "TimescaleDB",
+                "description": "Μια σχεσιακή βάση δεδομένων για χρονοσειρές που βασίζεται στην PostgreSQL, συνδυάζοντας την ισχύ της SQL με την ταχύτητα διαχείρισης μεγάλου όγκου δεδομένων.",
+                "commercial_equivalent": "Kdb+",
+                "url": "https://www.timescale.com/"
+            },
+            {
+                "id": "neo4j-biz",
+                "title": "Neo4j",
+                "description": "Η κορυφαία βάση δεδομένων γράφων (graph database) παγκοσμίως, σχεδιασμένη για τη διαχείριση και ανάλυση σύνθετων σχέσεων μεταξύ των δεδομένων.",
+                "commercial_equivalent": "Amazon Neptune",
+                "url": "https://neo4j.com/"
             }
         ]
     },
@@ -486,6 +605,90 @@
                 "description": "Ένα σύστημα για τη δημιουργία αυτοματοποιημένων πρακτόρων (agents) που εκτελούν εργασίες online, όπως η παρακολούθηση δεδομένων και η σύνδεση εφαρμογών.",
                 "commercial_equivalent": "Zapier, IFTTT",
                 "url": "https://github.com/huginn/huginn"
+            },
+            {
+                "id": "caprover-biz",
+                "title": "CapRover",
+                "description": "Μια εύχρηστη πλατφόρμα διαχείρισης εφαρμογών και διακομιστών (PaaS), που απλοποιεί τη διαδικασία ανάπτυξης και φιλοξενίας εφαρμογών με λίγα κλικ.",
+                "commercial_equivalent": "Heroku",
+                "url": "https://CapRover.com"
+            },
+            {
+                "id": "thingsboard-biz",
+                "title": "ThingsBoard",
+                "description": "Μια ανοικτή πλατφόρμα IoT για τη συλλογή, επεξεργασία, οπτικοποίηση δεδομένων και τη διαχείριση συσκευών σε κλίμακα.",
+                "commercial_equivalent": "Datadog (IoT module)",
+                "url": "https://thingsboard.io/"
+            },
+            {
+                "id": "firewalld-biz",
+                "title": "FirewallD",
+                "description": "Δυναμικός διαχειριστής τείχους προστασίας με υποστήριξη ζωνών δικτύου (network zones), που επιτρέπει αλλαγές στους κανόνες ασφαλείας χωρίς διακοπή των ενεργών συνδέσεων.",
+                "commercial_equivalent": "Norton Internet Security",
+                "url": "https://firewalld.org/"
+            },
+            {
+                "id": "ecryptfs-utils-biz",
+                "title": "eCryptfs-utils",
+                "description": "Σύνολο εργαλείων για τη διαχείριση του eCryptfs, ενός προηγμένου συστήματος κρυπτογράφησης αρχείων σε επίπεδο στοίβας για το Linux.",
+                "commercial_equivalent": "Microsoft BitLocker (File-level encryption)",
+                "url": "https://launchpad.net/ecryptfs"
+            },
+            {
+                "id": "maryam-biz",
+                "title": "Maryam (OWASP Maryam)",
+                "description": "Ένα ισχυρό modular πλαίσιο OSINT (Open Source Intelligence) για τη συγκέντρωση πληροφοριών και την ανάλυση δεδομένων από ανοικτές πηγές.",
+                "commercial_equivalent": "Maltego",
+                "url": "https://github.com/saeeddhqan/Maryam"
+            },
+            {
+                "id": "gnu-crypto-biz",
+                "title": "GNU Crypto",
+                "description": "Συλλογή από κρυπτογραφικούς αλγόριθμους και εργαλεία για τη γλώσσα προγραμματισμού Java, εστιασμένη στην ασφαλή ανάπτυξη εφαρμογών.",
+                "commercial_equivalent": "Bouncy Castle (Commercial Support)",
+                "url": "https://www.gnu.org/software/gnu-crypto/"
+            },
+            {
+                "id": "putty-biz",
+                "title": "Putty",
+                "description": "Ο κλασικός και ελαφρύς client για συνδέσεις SSH και Telnet, απαραίτητος για την απομακρυσμένη διαχείριση διακομιστών και συσκευών δικτύου.",
+                "commercial_equivalent": "ISSH",
+                "url": "https://www.chiark.greenend.org.uk/~sgtatham/putty/"
+            },
+            {
+                "id": "torsocks-biz",
+                "title": "Torsocks",
+                "description": "Βιβλιοθήκη που επιτρέπει σε εφαρμογές που υποστηρίζουν το πρωτόκολλο SOCKS να δρομολογούν την κίνησή τους με ασφάλεια μέσω του δικτύου Tor.",
+                "commercial_equivalent": "Proxy tunneling tools",
+                "url": "https://gitweb.torproject.org/torsocks.git"
+            },
+            {
+                "id": "websocket-pluggable-biz",
+                "title": "WebSocket Pluggable Transport",
+                "description": "Εργαλείο που χρησιμοποιεί το πρωτόκολλο WebSocket ως μέσο μεταφοράς δεδομένων για την παράκαμψη λογοκρισίας και περιορισμών σε επίπεδο δικτύου.",
+                "commercial_equivalent": "Network Obfuscation Tools",
+                "url": "https://gitweb.torproject.org/pluggable-transports/websocket.git"
+            },
+            {
+                "id": "iptables-biz",
+                "title": "Iptables",
+                "description": "Το κλασικό και πανίσχυρο εργαλείο διαμόρφωσης του τείχους προστασίας (IPv4/IPv6) στον πυρήνα του Linux, απαραίτητο για το φιλτράρισμα πακέτων σε εταιρικούς διακομιστές.",
+                "commercial_equivalent": "Hardware Firewalls (Cisco, Fortinet)",
+                "url": "http://www.iptables.org/"
+            },
+            {
+                "id": "gnunet-biz",
+                "title": "GNUnet",
+                "description": "Ένα πλαίσιο για ασφαλή και αποκεντρωμένη P2P δικτύωση που δεν βασίζεται σε κεντρικούς διακομιστές, προσφέροντας εναλλακτικές υποδομές επικοινωνίας.",
+                "commercial_equivalent": "Private P2P Networks",
+                "url": "https://gnunet.org/"
+            },
+            {
+                "id": "foxyproxy-biz",
+                "title": "FoxyProxy",
+                "description": "Εργαλείο προηγμένης διαχείρισης διακομιστών μεσολάβησης (proxy) που επιτρέπει την αυτόματη εναλλαγή μεταξύ διαφορετικών proxies βάσει κανόνων URL.",
+                "commercial_equivalent": "Proxy Management Tools",
+                "url": "http://getfoxyproxy.org/"
             },
             {
                 "id": "openvas-biz",

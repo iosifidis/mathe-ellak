@@ -145,11 +145,130 @@
                 "url": "https://librewolf.net/"
             },
             {
+                "id": "https-everywhere-daily",
+                "title": "HTTPS Everywhere",
+                "description": "Πρόσθετο περιηγητή που επιβάλλει την κρυπτογραφημένη επικοινωνία (HTTPS) με τους περισσότερους μεγάλους ιστότοπους, προστατεύοντας τα δεδομένα σας από υποκλοπές.",
+                "commercial_equivalent": "In-browser Security Features",
+                "url": "https://www.eff.org/https-everywhere"
+            },
+            {
+                "id": "privacy-badger-daily",
+                "title": "Privacy Badger",
+                "description": "Επέκταση που μαθαίνει αυτόματα να ανιχνεύει και να μπλοκάρει τους αόρατους ιχνηλάτες (trackers) που σας παρακολουθούν κατά την περιήγηση.",
+                "commercial_equivalent": "AdBlockers (Privacy focused)",
+                "url": "https://www.eff.org/privacybadger"
+            },
+            {
+                "id": "location-guard-daily",
+                "title": "Location Guard",
+                "description": "Εργαλείο που αποκρύπτει την ακριβή γεωγραφική σας θέση από τους ιστότοπους, παρέχοντας μια εικονική τοποθεσία με προσθήκη θορύβου για προστασία της ιδιωτικότητας.",
+                "commercial_equivalent": "VPN / Proxy Services",
+                "url": "https://github.com/chatziko/location-guard"
+            },
+            {
+                "id": "gnupg-daily",
+                "title": "GnuPG (GPG)",
+                "description": "Η πλήρης και ελεύθερη υλοποίηση του προτύπου OpenPGP, που επιτρέπει την κρυπτογράφηση και την ψηφιακή υπογραφή των δεδομένων και των επικοινωνιών σας.",
+                "commercial_equivalent": "Symantec Desktop Encryption",
+                "url": "https://gnupg.org/"
+            },
+            {
+                "id": "gpa-daily",
+                "title": "GPA (GNU Privacy Assistant)",
+                "description": "Ένα εύχρηστο γραφικό περιβάλλον για τη διαχείριση των κλειδιών κρυπτογράφησης GnuPG, κατάλληλο για την οργάνωση πιστοποιητικών και υπογραφών.",
+                "commercial_equivalent": "PGP Desktop GUI",
+                "url": "http://www.gnupg.org/gpa.html"
+            },
+            {
+                "id": "mycroft-daily",
+                "title": "Mycroft",
+                "description": "Ένας ανοικτός και προσαρμόσιμος εικονικός προσωπικός βοηθός φωνής που σέβεται την ιδιωτικότητα, προσφέροντας μια εναλλακτική στις κλειστές εμπορικές λύσεις.",
+                "commercial_equivalent": "Amazon Alexa, Google Assistant",
+                "url": "https://mycroft.ai/"
+            },
+            {
+                "id": "canvas-blocker-daily",
+                "title": "CanvasBlocker",
+                "description": "Εμποδίζει την ψηφιακή αποτύπωση του περιηγητή (Canvas-Fingerprinting), αποτρέποντας τους ιστότοπους από το να δημιουργήσουν ένα μοναδικό αναγνωριστικό για τη συσκευή σας.",
+                "commercial_equivalent": "Anti-tracking software",
+                "url": "https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/"
+            },
+            {
                 "id": "mullvad-browser-daily",
                 "title": "Mullvad Browser",
                 "description": "Νεότερος περιηγητής σχεδιασμένος μαζί με την ομάδα του Tor για την προστασία του μέσου χρήστη.",
                 "commercial_equivalent": "Google Chrome, Safari",
                 "url": "https://mullvad.net/en/browser"
+            },
+            {
+                "id": "tribler-daily",
+                "title": "Tribler",
+                "description": "Ένας εναλλακτικός πελάτης BitTorrent που εστιάζει στην ανωνυμία και την ασφάλεια, χρησιμοποιώντας ένα εσωτερικό δίκτυο δρομολόγησης παρόμοιο με το Tor.",
+                "commercial_equivalent": "uTorrent",
+                "url": "http://www.tribler.org/"
+            },
+            {
+                "id": "gnutella-daily",
+                "title": "Gnutella (gtk-gnutella)",
+                "description": "Εφαρμογή για peer-to-peer ανταλλαγή αρχείων που βασίζεται στο δίκτυο Gnutella, προσφέροντας αποκεντρωμένη αναζήτηση και μεταφορά δεδομένων.",
+                "commercial_equivalent": "eMule",
+                "url": "https://sourceforge.net/projects/gtk-gnutella/"
+            },
+            {
+                "id": "privoxy-daily",
+                "title": "Privoxy",
+                "description": "Ένας διακομιστής μεσολάβησης (web proxy) με προηγμένες δυνατότητες φιλτραρίσματος για την προστασία της ιδιωτικότητας, την τροποποίηση δεδομένων ιστοσελίδων και τη διαχείριση cookies.",
+                "commercial_equivalent": "Ad-blocking Proxy Servers",
+                "url": "https://www.privoxy.org/"
+            },
+            {
+                "id": "ublock-origin-daily",
+                "title": "uBlock Origin",
+                "description": "Ένας αποτελεσματικός αποκλειστής περιεχομένου ευρέος φάσματος, με χαμηλή κατανάλωση πόρων, που προστατεύει από διαφημίσεις, trackers και κακόβουλους ιστότοπους.",
+                "commercial_equivalent": "AdBlock Plus",
+                "url": "https://github.com/gorhill/uBlock"
+            },
+            {
+                "id": "umatrix-daily",
+                "title": "uMatrix",
+                "description": "Ένα τείχος προστασίας (firewall) για τον περιηγητή, που δίνει στον χρήστη τον πλήρη έλεγχο των αιτημάτων (scripts, iframes, ads) που εκτελούνται κατά την περιήγηση.",
+                "commercial_equivalent": "Advanced Privacy Firewalls",
+                "url": "https://addons.mozilla.org/en-US/firefox/addon/umatrix/"
+            },
+            {
+                "id": "yggdrasil-daily",
+                "title": "Yggdrasil",
+                "description": "Μια πειραματική υλοποίηση ενός πλήρως κρυπτογραφημένου δικτύου IPv6, που παρέχει κλιμακούμενη δρομολόγηση χωρίς την ανάγκη κεντρικής διαχείρισης.",
+                "commercial_equivalent": "Mesh Networking Solutions",
+                "url": "https://yggdrasil-network.github.io/"
+            },
+            {
+                "id": "chromium-daily",
+                "title": "Chromium",
+                "description": "Ο ανοικτού κώδικα περιηγητής που αποτελεί τη βάση για τον Chrome, προσφέροντας ταχύτητα και πλήρη συμβατότητα με τα σύγχρονα πρότυπα του ιστού χωρίς τα κλειστά πρόσθετα της Google.",
+                "commercial_equivalent": "Google Chrome, Microsoft Edge",
+                "url": "https://www.chromium.org/Home"
+            },
+            {
+                "id": "seamonkey-daily",
+                "title": "SeaMonkey",
+                "description": "Μια ολοκληρωμένη σουίτα διαδικτύου που συνεχίζει την παράδοση του Netscape, ενσωματώνοντας περιηγητή, email client και επεξεργαστή HTML σε μία εφαρμογή.",
+                "commercial_equivalent": "Microsoft Internet Explorer, Safari",
+                "url": "https://www.seamonkey-project.org/"
+            },
+            {
+                "id": "decentraleyes-daily",
+                "title": "Decentraleyes",
+                "description": "Πρόσθετο περιηγητή που ενισχύει την ιδιωτικότητα σερβίροντας τοπικά τις κοινές βιβλιοθήκες κώδικα (CDNs), αποτρέποντας την παρακολούθηση από δίκτυα διαφημίσεων.]",
+                "commercial_equivalent": "Content Delivery Networks",
+                "url": "https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/"
+            },
+            {
+                "id": "ddg-lite-daily",
+                "title": "DuckDuckGo Lite",
+                "description": "Μια εξαιρετικά ελαφριά έκδοση της μηχανής αναζήτησης DuckDuckGo, χωρίς JavaScript, ιδανική για μέγιστη ταχύτητα και παλαιότερες συσκευές.",
+                "commercial_equivalent": "Google Search (Mobile Lite)",
+                "url": "https://duckduckgo.com/lite/"
             },
             {
                 "id": "duckduckgo-daily",
@@ -215,6 +334,34 @@
                 "url": "https://writefreely.org/"
             },
             {
+                "id": "pidgin-daily",
+                "title": "Pidgin",
+                "description": "Ένας καθολικός πελάτης ανταλλαγής μηνυμάτων που επιτρέπει τη σύνδεση σε πολλαπλά δίκτυα συνομιλίας ταυτόχρονα.",
+                "commercial_equivalent": "Facebook Messenger",
+                "url": "https://www.pidgin.im/"
+            },
+            {
+                "id": "jami-daily",
+                "title": "Jami",
+                "description": "Μια πλήρως κατανεμημένη και κρυπτογραφημένη πλατφόρμα για επικοινωνία ήχου, βίντεο και κειμένου που σέβεται την ιδιωτικότητα.",
+                "commercial_equivalent": "Skype, Zoom",
+                "url": "https://www.gnu.org/software/jami/"
+            },
+            {
+                "id": "wire-daily",
+                "title": "Wire",
+                "description": "Σύγχρονο εργαλείο επικοινωνίας με έμφαση στην ασφάλεια και την προστασία των προσωπικών δεδομένων του χρήστη.",
+                "commercial_equivalent": "WhatsApp, Skype",
+                "url": "https://wire.com/"
+            },
+            {
+                "id": "ricochet-daily",
+                "title": "Ricochet",
+                "description": "Αποκεντρωμένη ανταλλαγή μηνυμάτων που δρομολογεί την κίνηση μέσω του δικτύου Tor για μέγιστη ανωνυμία.",
+                "commercial_equivalent": "Incognito Chat",
+                "url": "https://github.com/ricochet-im/Ricochet"
+            },
+            {
                 "id": "libretranslate-daily",
                 "title": "Libre Translate",
                 "description": "Ελεύθερο API μηχανικής μετάφρασης, self-hosted, χωρίς περιορισμούς όγκου δεδομένων.",
@@ -271,6 +418,76 @@
                 "url": "http://pages.cs.wisc.edu/~ghost/"
             },
             {
+                "id": "mixxx-daily",
+                "title": "Mixxx",
+                "description": "Λογισμικό ανοικτού κώδικα για DJ που παρέχει όλα τα απαραίτητα εργαλεία για μίξη ήχου σε πραγματικό χρόνο και ζωντανές εμφανίσεις.",
+                "commercial_equivalent": "Traktor, Serato DJ",
+                "url": "https://www.mixxx.org/"
+            },
+            {
+                "id": "lmms-daily",
+                "title": "LMMS (Linux MultiMedia Studio)",
+                "description": "Μια ολοκληρωμένη πλατφόρμα μουσικής παραγωγής που επιτρέπει τη δημιουργία μελωδιών, beat και τη μίξη ήχων σε ένα ψηφιακό περιβάλλον εργασίας (DAW).",
+                "commercial_equivalent": "FL Studio, Apple Logic Pro",
+                "url": "https://lmms.io/"
+            },
+            {
+                "id": "krut-recorder-daily",
+                "title": "Krut Computer Recorder",
+                "description": "Ένα εργαλείο καταγραφής οθόνης γραμμένο σε Java, το οποίο επιτρέπει τη δημιουργία εκπαιδευτικών βίντεο και παρουσιάσεων με ταυτόχρονη εγγραφή ήχου.",
+                "commercial_equivalent": "Camtasia",
+                "url": "https://krut.sourceforge.net/"
+            },
+            {
+                "id": "webinaria-daily",
+                "title": "Webinaria",
+                "description": "Λογισμικό ανοικτού κώδικα για την καταγραφή της δραστηριότητας στην οθόνη του υπολογιστή και τη δημιουργία αρχείων βίντεο για παρουσιάσεις και webinars.",
+                "commercial_equivalent": "Camtasia",
+                "url": "https://www.webinaria.com/index.php"
+            },
+            {
+                "id": "skencil-daily",
+                "title": "Skencil",
+                "description": "Μια ευέλικτη και ισχυρή εφαρμογή σχεδίασης διανυσματικών γραφικών (vector graphics) για το σύστημα X Window, χτισμένη με την Python.",
+                "commercial_equivalent": "Adobe Illustrator",
+                "url": "https://www.skencil.org/"
+            },
+            {
+                "id": "cinelerra-daily",
+                "title": "Cinelerra",
+                "description": "Ένα προηγμένο εργαλείο επεξεργασίας βίντεο και σύνθεσης (compositing) για το Linux, σχεδιασμένο για παραγωγές υψηλών απαιτήσεων.",
+                "commercial_equivalent": "Adobe Premiere",
+                "url": "https://cinelerra.org/"
+            },
+            {
+                "id": "kino-daily",
+                "title": "Kino",
+                "description": "Ένας απλός και σταθερός επεξεργαστής ψηφιακού βίντεο (DV) που επιτρέπει την εύκολη λήψη και επεξεργασία υλικού.",
+                "commercial_equivalent": "Adobe Premiere",
+                "url": "https://kinodv.org/"
+            },
+            {
+                "id": "vlmc-daily",
+                "title": "VideoLAN Movie Creator (VLMC)",
+                "description": "Ένα μη-γραμμικό λογισμικό επεξεργασίας βίντεο βασισμένο στη βιβλιοθήκη του VLC, που εστιάζει στην ευκολία χρήσης και την απόδοση.",
+                "commercial_equivalent": "Adobe Premiere",
+                "url": "https://www.videolan.org/vlmc/"
+            },
+            {
+                "id": "k3d-daily",
+                "title": "K-3D",
+                "description": "Ελεύθερο λογισμικό για τρισδιάστατη μοντελοποίηση και animation, που χρησιμοποιεί μια ισχυρή αρχιτεκτονική βασισμένη σε κόμβους για μέγιστη ευελιξία.",
+                "commercial_equivalent": "Autodesk 3ds Max",
+                "url": "https://www.k-3d.org/"
+            },
+            {
+                "id": "art-of-illusion-daily",
+                "title": "Art of Illusion",
+                "description": "Ένα πλήρες studio για 3D modeling, rendering και animation, γραμμένο σε Java, που συνδυάζει την ευκολία στη χρήση με προηγμένες δυνατότητες.",
+                "commercial_equivalent": "Autodesk 3ds Max",
+                "url": "https://www.artofillusion.org/"
+            },
+            {
                 "id": "openshot-daily",
                 "title": "OpenShot",
                 "description": "Video editor με απλό περιβάλλον χρήσης, ιδανικό για εκπαιδευτική χρήση.",
@@ -299,11 +516,74 @@
                 "url": "https://inkscape.org/"
             },
             {
+                "id": "eog-daily",
+                "title": "Eye of GNOME (EOG)",
+                "description": "Ο επίσημος αναγνώστης εικόνων του περιβάλλοντος GNOME, σχεδιασμένος για γρήγορη προβολή και βασική διαχείριση φωτογραφιών.",
+                "commercial_equivalent": "ACDSee",
+                "url": "https://gitlab.gnome.org/GNOME/eog"
+            },
+            {
+                "id": "shotwell-daily",
+                "title": "Shotwell",
+                "description": "Μια ολοκληρωμένη εφαρμογή οργάνωσης φωτογραφιών που επιτρέπει την εισαγωγή από κάμερες, την ταξινόμηση και τη βασική επεξεργασία εικόνων.",
+                "commercial_equivalent": "ACDSee",
+                "url": "https://wiki.gnome.org/Apps/Shotwell"
+            },
+            {
+                "id": "pixelfed-daily",
+                "title": "Pixelfed",
+                "description": "Μια ηθική και αποκεντρωμένη πλατφόρμα διαμοιρασμού φωτογραφιών, βασισμένη στο πρωτόκολλο ActivityPub, που σέβεται την ιδιωτικότητα.",
+                "commercial_equivalent": "Instagram",
+                "url": "https://pixelfed.org/"
+            },
+            {
                 "id": "rhythmbox-daily",
                 "title": "Rhythmbox",
                 "description": "Οργανώστε τη μουσική σας βιβλιοθήκη και ακούστε online ραδιόφωνο.",
                 "commercial_equivalent": "Apple iTunes",
                 "url": "https://projects.gnome.org/rhythmbox/"
+            },
+            {
+                "id": "amarok-daily",
+                "title": "Amarok",
+                "description": "Ένας ισχυρός αναπαραγωγέας μουσικής για το Linux και το Unix, με δυνατότητα οργάνωσης μεγάλων μουσικών συλλογών και σύνδεσης με συσκευές όπως το iPod.",
+                "commercial_equivalent": "Apple iTunes",
+                "url": "https://amarok.kde.org/"
+            },
+            {
+                "id": "deadbeef-daily",
+                "title": "DeaDBeeF",
+                "description": "Ένας ελαφρύς και αρθρωτός (modular) αναπαραγωγέας μουσικής, ιδανικός για χρήστες που αναζητούν ταχύτητα και υποστήριξη πολλών τύπων αρχείων.",
+                "commercial_equivalent": "Apple iTunes",
+                "url": "http://deadbeef.sourceforge.net/"
+            },
+            {
+                "id": "krita-daily",
+                "title": "Krita",
+                "description": "Επαγγελματικό εργαλείο ψηφιακής ζωγραφικής και σχεδίασης, κατάλληλο για καλλιτέχνες concept art, εικονογράφους και δημιουργούς κόμικς.",
+                "commercial_equivalent": "Adobe Photoshop, Corel Painter",
+                "url": "https://www.krita.org/download"
+            },
+            {
+                "id": "ardour-daily",
+                "title": "Ardour",
+                "description": "Ένας σταθμός εργασίας ψηφιακού ήχου (DAW) επαγγελματικού επιπέδου για την εγγραφή, την επεξεργασία και τη μίξη πολυκάναλου ήχου.",
+                "commercial_equivalent": "Adobe Audition, Logic",
+                "url": "https://ardour.org/"
+            },
+            {
+                "id": "xbmc-daily",
+                "title": "Kodi (XBMC Media Center)",
+                "description": "Μια βραβευμένη πλατφόρμα ανοικτού κώδικα για τη δημιουργία κέντρου πολυμέσων (Home Theater PC), που οργανώνει και αναπαράγει βίντεο, μουσική και φωτογραφίες.",
+                "commercial_equivalent": "Windows Media Player, RealPlayer",
+                "url": "https://xbmc.org/about/"
+            },
+            {
+                "id": "audacious-daily",
+                "title": "Audacious",
+                "description": "Ένας προηγμένος αναπαραγωγέας ήχου που εστιάζει στη χαμηλή χρήση πόρων και την υψηλή ποιότητα ήχου, υποστηρίζοντας skins τύπου Winamp.",
+                "commercial_equivalent": "Winamp",
+                "url": "https://audacious-media-player.org/"
             },
             {
                 "id": "vlc-daily",
@@ -411,6 +691,34 @@
                 "url": "https://retroshare.cc/"
             },
             {
+                "id": "k3b-daily",
+                "title": "K3b",
+                "description": "Μια πλήρης εφαρμογή για την εγγραφή CD, DVD και Blu-ray, που προσφέρει ένα εύχρηστο γραφικό περιβάλλον για τη διαχείριση οπτικών μέσων.",
+                "commercial_equivalent": "Nero Burning Rom",
+                "url": "https://userbase.kde.org/K3b"
+            },
+            {
+                "id": "brasero-daily",
+                "title": "Brasero",
+                "description": "Εφαρμογή του περιβάλλοντος GNOME για την εγγραφή δεδομένων και ήχου σε οπτικούς δίσκους, σχεδιασμένη να είναι απλή και λειτουργική.",
+                "commercial_equivalent": "Nero Burning Rom",
+                "url": "https://www.gnome.org/projects/brasero/"
+            },
+            {
+                "id": "winscp-daily",
+                "title": "WinSCP",
+                "description": "Ένας δημοφιλής δωρεάν πελάτης SFTP, FTP και SCP για Windows, απαραίτητος για την ασφαλή μεταφορά αρχείων μεταξύ τοπικού υπολογιστή και διακομιστή.",
+                "commercial_equivalent": "CuteFTP",
+                "url": "https://winscp.net/eng/index.php"
+            },
+            {
+                "id": "gftp-daily",
+                "title": "gFTP",
+                "description": "Ένα ελαφρύ και πολυνηματικό (multithreaded) εργαλείο μεταφοράς αρχείων FTP για συστήματα βασισμένα στο Unix.",
+                "commercial_equivalent": "CuteFTP",
+                "url": "https://github.com/masneyb/gftp"
+            },
+            {
                 "id": "gnome-commander-daily",
                 "title": "GNOME Commander",
                 "description": "Εξελιγμένη εφαρμογή διαχείρισης αρχείων με δύο πάνελ για γρήγορες λειτουργίες.",
@@ -423,6 +731,20 @@
                 "description": "Εργαλείο για τη δημιουργία αντιγράφων ασφαλείας δίσκων και την ανάκτηση δεδομένων.",
                 "commercial_equivalent": "Norton Ghost",
                 "url": "https://www.partimage.org/"
+            },
+            {
+                "id": "linphone-daily",
+                "title": "Linphone",
+                "description": "Μια ολοκληρωμένη λύση τηλεφωνίας IP (VoIP) που χρησιμοποιεί το πρωτόκολλο SIP για κλήσεις φωνής και βίντεο.",
+                "commercial_equivalent": "Skype",
+                "url": "https://www.linphone.org"
+            },
+            {
+                "id": "hexchat-daily",
+                "title": "HexChat",
+                "description": "Εύχρηστο εργαλείο ηλεκτρονικής συνδιάλεξης βασισμένο στο πρωτόκολλο IRC, ιδανικό για ομαδικές συζητήσεις.",
+                "commercial_equivalent": "mIRC",
+                "url": "https://hexchat.github.io/downloads.html"
             },
             {
                 "id": "seven-zip-daily",
