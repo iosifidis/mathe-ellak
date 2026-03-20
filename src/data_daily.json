@@ -115,6 +115,55 @@
                 "description": "Ολοκληρωμένη λύση γραφείου και αποθήκευση για συνεργασία και διαμοιρασμό.",
                 "commercial_equivalent": "Google Drive, Microsoft OneDrive, Microsoft 365, Dropbox, iCloud",
                 "url": "https://nextcloud.com/"
+            },
+            {
+                "id": "shiori-daily",
+                "title": "Shiori",
+                "description": "Ένας απλός διαχειριστής σελιδοδεικτών γραμμένος σε Go, που εστιάζει στην ταχύτητα και την ευκολία χρήσης.",
+                "commercial_equivalent": "Pocket, Raindrop.io",
+                "url": "https://github.com/go-shiori/shiori"
+            },
+            {
+                "id": "wallabag-daily",
+                "title": "Wallabag",
+                "description": "Μια από τις πιο δημοφιλείς self-hosted εφαρμογές για την αποθήκευση, αρχειοθέτηση και διαμοιρασμό άρθρων για μετέπειτα ανάγνωση.",
+                "commercial_equivalent": "Pocket, Instapaper",
+                "url": "https://wallabag.org/"
+            },
+            {
+                "id": "linkding-daily",
+                "title": "Linkding",
+                "description": "Ένας μινιμαλιστικός διαχειριστής σελιδοδεικτών που δίνει έμφαση στην απλότητα και την ταχύτητα.",
+                "commercial_equivalent": "Delicious, Pinboard",
+                "url": "https://linkding.link/"
+            },
+            {
+                "id": "bentopdf-daily",
+                "title": "BentoPDF",
+                "description": "Τοπικός αναγνώστης και επεξεργαστής PDF που διατηρεί τα έγγραφά σας ιδιωτικά.",
+                "commercial_equivalent": "Adobe Acrobat Reader",
+                "url": "https://www.bentopdf.com/"
+            },
+            {
+                "id": "excalidraw-daily",
+                "title": "Excalidraw",
+                "description": "Εργαλείο εικονικού πίνακα για τη δημιουργία χειρόγραφων σχεδίων και διαγραμμάτων.",
+                "commercial_equivalent": "Miro, Lucidchart",
+                "url": "https://github.com/excalidraw/excalidraw"
+            },
+            {
+                "id": "affine-daily",
+                "title": "AFFiNE",
+                "description": "Μια πλατφόρμα εργασίας που συνδυάζει σημειώσεις, έγγραφα και λευκοπίνακες σε ένα ενιαίο περιβάλλον δημιουργικότητας.",
+                "commercial_equivalent": "Notion, Miro",
+                "url": "https://affine.pro/"
+            },
+            {
+                "id": "duplicati-daily",
+                "title": "Duplicati",
+                "description": "Λογισμικό για τη δημιουργία κρυπτογραφημένων αντιγράφων ασφαλείας online, συμβατό με πολλούς παρόχους cloud.",
+                "commercial_equivalent": "Backblaze",
+                "url": "https://duplicati.com/"
             }
         ]
     },
@@ -367,6 +416,41 @@
                 "description": "Ελεύθερο API μηχανικής μετάφρασης, self-hosted, χωρίς περιορισμούς όγκου δεδομένων.",
                 "commercial_equivalent": "Google Translate",
                 "url": "https://libretranslate.com/"
+            },
+            {
+                "id": "linkstack-daily",
+                "title": "LinkStack",
+                "description": "Μια self-hosted εναλλακτική λύση στο Linktree για τη συγκέντρωση όλων των συνδέσμων σας σε μία σελίδα.",
+                "commercial_equivalent": "Linktree",
+                "url": "https://linkstack.org/"
+            }
+  {
+                "id": "vaultwarden-daily",
+                "title": "Vaultwarden",
+                "description": "Ο απόλυτος διαχειριστής κωδικών για προσωπική χρήση, που σας επιτρέπει να αποθηκεύετε με ασφάλεια τα συνθηματικά σας σε δικό σας διακομιστή.",
+                "commercial_equivalent": "Dashlane, 1Password",
+                "url": "https://vaultwarden.uk/"
+            },
+            {
+                "id": "tube-daily",
+                "title": "Tube",
+                "description": "Εργαλείο για τη διαχείριση συλλογών βίντεο και ροών RSS, εστιάζοντας στην οργάνωση περιεχομένου.",
+                "commercial_equivalent": "Feedly",
+                "url": "https://git.mills.io/prologic/tube"
+            },
+            {
+                "id": "php-dynamic-qr-daily",
+                "title": "PHP Dynamic QR Code",
+                "description": "Εφαρμογή για τη δημιουργία και διαχείριση δυναμικών κωδικών QR που μπορούν να τροποποιηθούν μετά την εκτύπωση.",
+                "commercial_equivalent": "QR Code Generator (Paid)",
+                "url": "https://github.com/giandonatoinverso/PHP-Dynamic-Qr-code"
+            },
+            {
+                "id": "borgmatic-daily",
+                "title": "Borgmatic",
+                "description": "Εργαλείο που απλοποιεί τη χρήση του BorgBackup, προσφέροντας εύκολη παραμετροποίηση για αυτόματα αντίγραφα ασφαλείας.",
+                "commercial_equivalent": "Acronis",
+                "url": "https://torsion.org/borgmatic/"
             }
         ]
     },
@@ -586,11 +670,39 @@
                 "url": "https://audacious-media-player.org/"
             },
             {
+                "id": "claper-daily",
+                "title": "Claper",
+                "description": "Μετατρέπει τις παρουσιάσεις σας σε μια διαδραστική και ελκυστική εμπειρία για το κοινό σας.",
+                "commercial_equivalent": "Mentimeter, Slido",
+                "url": "https://claper.co/"
+            },
+            {
                 "id": "vlc-daily",
                 "title": "VLC Media Player",
                 "description": "Ο πιο δημοφιλής player παγκοσμίως που αναπαράγει όλα τα είδη αρχείων video και μουσικής.",
                 "commercial_equivalent": "Windows Media Player",
                 "url": "https://www.videolan.org/vlc/"
+            },
+            {
+                "id": "obs-daily",
+                "title": "Open Broadcaster Software (OBS)",
+                "description": "Η κορυφαία ελεύθερη εφαρμογή για εγγραφή βίντεο και ζωντανή ροή (live streaming), με υποστήριξη πολλαπλών πηγών και σκηνών.",
+                "commercial_equivalent": "XSplit, Wirecast",
+                "url": "https://obsproject.com/"
+            },
+            {
+                "id": "pitivi-daily",
+                "title": "Pitivi",
+                "description": "Ένας επεξεργαστής βίντεο με όμορφο και διαισθητικό περιβάλλον εργασίας, ιδανικός για γρήγορη και ποιοτική δημιουργία περιεχομένου.",
+                "commercial_equivalent": "Adobe Premiere Elements",
+                "url": "https://www.pitivi.org/"
+            },
+            {
+                "id": "newpipe-daily",
+                "title": "NewPipe",
+                "description": "Μια ελαφριά εφαρμογή για Android που προσφέρει την εμπειρία του YouTube χωρίς διαφημίσεις και χωρίς την ανάγκη για περιττά δικαιώματα πρόσβασης.",
+                "commercial_equivalent": "YouTube Premium (ad-free feature)",
+                "url": "https://newpipe.net/"
             }
         ]
     },
@@ -752,6 +864,34 @@
                 "description": "Κορυφαίο εργαλείο για συμπίεση και αποσυμπίεση αρχείων.",
                 "commercial_equivalent": "WinZip, WinRAR",
                 "url": "https://www.7-zip.org/"
+            },
+            {
+                "id": "docker-daily",
+                "title": "Docker",
+                "description": "Εργαλείο που επιτρέπει σε προχωρημένους χρήστες να τρέχουν εφαρμογές σε απομονωμένα περιβάλλοντα (containers) χωρίς να επηρεάζουν το λειτουργικό τους σύστημα.",
+                "commercial_equivalent": "VirtualBox (για συγκεκριμένες χρήσεις)",
+                "url": "https://www.docker.com/"
+            },
+            {
+                "id": "rustdesk-daily",
+                "title": "RustDesk",
+                "description": "Μια σύγχρονη υποδομή απομακρυσμένης επιφάνειας εργασίας (remote desktop) ανοικτού κώδικα, που αποτελεί εξαιρετική εναλλακτική σε κλειστά εμπορικά προγράμματα, με δυνατότητα αυτο-φιλοξενίας. ",
+                "commercial_equivalent": "TeamViewer, AnyDesk ",
+                "url": "https://rustdesk.com/ "
+            },
+            {
+                "id": "kopia-daily",
+                "title": "Kopia",
+                "description": "Ένα γρήγορο και ασφαλές εργαλείο για τη δημιουργία κρυπτογραφημένων αντιγράφων ασφαλείας (snapshots), με δυνατότητα αποθήκευσης σε τοπικά μέσα, δίκτυα ή υπηρεσίες cloud.",
+                "commercial_equivalent": "Acronis True Image, Carbonite",
+                "url": "https://kopia.io/"
+            },
+            {
+                "id": "kde-connect-daily",
+                "title": "KDE Connect",
+                "description": "Ένα καινοτόμο εργαλείο που επιτρέπει σε όλες τις συσκευές σας (υπολογιστές και κινητά) να επικοινωνούν μεταξύ τους, μοιράζοντας ειδοποιήσεις, αρχεία και πρόχειρο (clipboard).",
+                "commercial_equivalent": "Microsoft Phone Link, Apple AirDrop",
+                "url": "https://kdeconnect.kde.org/"
             }
         ]
     }

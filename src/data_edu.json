@@ -52,6 +52,13 @@
                 "description": "Βιβλιοθήκη ψηφιακού περιεχομένου για χρήση χωρίς σύνδεση στο διαδίκτυο (offline).",
                 "commercial_equivalent": "Kortext",
                 "url": "https://www.kiwix.org"
+            },
+            {
+                "id": "claper-edu",
+                "title": "Claper",
+                "description": "Εργαλείο για τη δημιουργία διαδραστικών παρουσιάσεων μέσα στην τάξη, ενισχύοντας τη συμμετοχή των μαθητών.",
+                "commercial_equivalent": "Kahoot! (Presentation mode)",
+                "url": "https://claper.co/"
             }
         ]
     },
@@ -122,6 +129,27 @@
                 "description": "Πλατφόρμα διαχείρισης μαθησιακών διαδικασιών (LMS) και εκπαιδευτικού περιεχομένου.",
                 "commercial_equivalent": "Blackboard, Canvas",
                 "url": "https://moodle.org"
+            },
+            {
+                "id": "chamilo-edu",
+                "title": "Chamilo",
+                "description": "Σύστημα διαχείρισης μάθησης (LMS) και περιεχομένου, με στόχο τη βελτίωση της πρόσβασης στην εκπαίδευση και τη γνώση παγκοσμίως.",
+                "commercial_equivalent": "Blackboard, Canvas",
+                "url": "https://chamilo.org/en/"
+            },
+            {
+                "id": "dhis2-edu",
+                "title": "DHIS2",
+                "description": "Η μεγαλύτερη πλατφόρμα πληροφοριών υγείας στον κόσμο, που χρησιμοποιείται από υπουργεία υγείας και διεθνείς οργανισμούς σε πολλές χώρες.",
+                "commercial_equivalent": "Proprietary Health Data Platforms",
+                "url": "https://dhis2.org/"
+            },
+            {
+                "id": "mermaid-edu",
+                "title": "Mermaid",
+                "description": "Εργαλείο δημιουργίας διαγραμμάτων και οπτικοποίησης μέσω κώδικα (Markdown), ιδανικό για ακαδημαϊκή τεκμηρίωση.",
+                "commercial_equivalent": "Microsoft Visio",
+                "url": "https://github.com/mermaid-js"
             },
             {
                 "id": "eclass-edu",
@@ -227,6 +255,13 @@
                 "description": "Επαγγελματικό εργαλείο για την παρακολούθηση εφαρμογών και δικτύων.",
                 "commercial_equivalent": "SolarWinds",
                 "url": "https://www.nagios.org/"
+            },
+            {
+                "id": "penpot-edu",
+                "title": "Penpot",
+                "description": "Πλατφόρμα σχεδιασμού και πρωτοτυποποίησης (design & prototyping) που επιτρέπει την άψογη συνεργασία μεταξύ σχεδιαστών και προγραμματιστών.",
+                "commercial_equivalent": "Figma",
+                "url": "https://penpot.app/"
             }
         ]
     },
@@ -262,6 +297,13 @@
                 "description": "Εξειδικευμένος διαχειριστής βιβλιογραφίας που χρησιμοποιεί το format BibTeX.",
                 "commercial_equivalent": "EndNote",
                 "url": "https://www.jabref.org/"
+            },
+            {
+                "id": "wiki-go-edu",
+                "title": "Wiki-Go",
+                "description": "Ένα απλό και γρήγορο σύστημα διαχείρισης γνώσης για τη δημιουργία εκπαιδευτικών wikis και οργάνωση σημειώσεων.",
+                "commercial_equivalent": "Notion (Wiki features)",
+                "url": "https://github.com/leomoon-studios/wiki-go"
             }
         ]
     },

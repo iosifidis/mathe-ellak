@@ -38,6 +38,20 @@
                 "description": "Σύστημα υποβολής ανώνυμων πληροφοριών με υψηλά επίπεδα ασφάλειας για ευαίσθητα δεδομένα.",
                 "commercial_equivalent": "Ιδιωτικά συστήματα καταγγελιών",
                 "url": "https://securedrop.org/"
+            },
+            {
+                "id": "fider-gov",
+                "title": "Fider",
+                "description": "Πλατφόρμα για τη συλλογή και οργάνωση προτάσεων και ανατροφοδότησης από τους χρήστες/πολίτες.",
+                "commercial_equivalent": "UserVoice",
+                "url": "https://fider.io/"
+            },
+            {
+                "id": "cachet-gov",
+                "title": "Cachet",
+                "description": "Σελίδα κατάστασης (status page) ανοικτού κώδικα για την ενημέρωση των χρηστών σχετικά με τη διαθεσιμότητα των υπηρεσιών.",
+                "commercial_equivalent": "Statuspage.io",
+                "url": "https://cachethq.io/"
             }
         ]
     },
@@ -199,6 +213,146 @@
                 "description": "Ένα ελεύθερο και ανοικτό format συμπίεσης βίντεο που δεν απαιτεί δικαιώματα χρήσης, ιδανικό για τη διανομή δημόσιου οπτικοακουστικού περιεχομένου.",
                 "commercial_equivalent": "Proprietary Video Codecs",
                 "url": "https://www.theora.org/"
+            },
+            {
+                "id": "drupal-gov",
+                "title": "Drupal",
+                "description": "Ένα από τα κορυφαία συστήματα διαχείρισης περιεχομένου (CMS) στον κόσμο, με δυνατότητες ενσωμάτωσης τεχνητής νοημοσύνης και απόλυτο έλεγχο χωρίς εξάρτηση από προμηθευτές.",
+                "commercial_equivalent": "Adobe Experience Manager, Sitecore",
+                "url": "https://new.drupal.org/home"
+            },
+            {
+                "id": "alfresco-gov",
+                "title": "Alfresco",
+                "description": "Εταιρικού επιπέδου πλατφόρμα για την αυτοματοποίηση ροών εργασίας και τη διαχείριση εγγράφων σε δημόσιους οργανισμούς με υψηλές απαιτήσεις διακυβέρνησης.",
+                "commercial_equivalent": "OpenText",
+                "url": "https://www.hyland.com/en/solutions/products/alfresco-platform"
+            },
+            {
+                "id": "stalwart-gov",
+                "title": "Stalwart Mail Server",
+                "description": "Ασφαλής και κλιμακούμενη υποδομή ηλεκτρονικού ταχυδρομείου για δημόσιους φορείς, που εξασφαλίζει την κυριαρχία των δεδομένων αλληλογραφίας.",
+                "commercial_equivalent": "Enterprise Grade Mail Servers",
+                "url": "https://stalw.art/"
+            }
+  {
+                "id": "dokuwiki-gov",
+                "title": "DokuWiki",
+                "description": "Ένα εξαιρετικά ευέλικτο και εύχρηστο λογισμικό Wiki που δεν απαιτεί βάση δεδομένων, ιδανικό για την τεκμηρίωση υπηρεσιακών διαδικασιών και εγχειριδίων.",
+                "commercial_equivalent": "Confluence, Microsoft SharePoint",
+                "url": "https://www.dokuwiki.org/dokuwiki"
+            },
+            {
+                "id": "zammad-gov",
+                "title": "Zammad",
+                "description": "Σύστημα διαχείρισης αιτημάτων πολιτών και εσωτερικής υποστήριξης για δημόσιους φορείς, προσφέροντας διαφάνεια και οργάνωση στην επικοινωνία.",
+                "commercial_equivalent": "Proprietary Helpdesk Systems",
+                "url": "https://zammad.com/en"
+            },
+            {
+                "id": "mediacms-gov",
+                "title": "MediaCMS",
+                "description": "Μια πλήρης πλατφόρμα διαχείρισης περιεχομένου βίντεο που επιτρέπει σε οργανισμούς να δημιουργήσουν τη δική τους εσωτερική υπηρεσία τύπου YouTube.",
+                "commercial_equivalent": "Vimeo OTT, Microsoft Stream",
+                "url": "https://mediacms.io/"
+            },
+            {
+                "id": "caddy-gov",
+                "title": "Caddy",
+                "description": "Ασφαλής εξυπηρετητής ιστού για δημόσιες υπηρεσίες, που εγγυάται την κρυπτογραφημένη επικοινωνία (HTTPS) χωρίς πολύπλοκες ρυθμίσεις.",
+                "commercial_equivalent": "Proprietary Web Servers",
+                "url": "https://caddyserver.com/"
+            },
+            {
+                "id": "kubernetes-gov",
+                "title": "Kubernetes",
+                "description": "Πλατφόρμα ενορχήστρωσης containers για τη δημιουργία κλιμακούμενων και σταθερών δημόσιων ψηφιακών υπηρεσιών με υψηλή διαθεσιμότητα.",
+                "commercial_equivalent": "Proprietary Orchestration Tools",
+                "url": "https://kubernetes.io/"
+            },
+            {
+                "id": "shlink-gov",
+                "title": "Shlink",
+                "description": "Εργαλείο διαχείρισης σύντομων συνδέσμων για κυβερνητικούς ιστότοπους, διασφαλίζοντας ότι τα δεδομένα των πολιτών παραμένουν σε εγχώριες υποδομές.",
+                "commercial_equivalent": "Bitly Enterprise",
+                "url": "https://shlink.io/"
+            },
+            {
+                "id": "gnu-health-gov",
+                "title": "GNU Health",
+                "description": "Ένα ολοκληρωμένο οικοσύστημα ψηφιακής υγείας που συνδυάζει την κοινωνική ιατρική με την προηγμένη πληροφορική υγείας για δημόσιες νοσοκομειακές υποδομές. ",
+                "commercial_equivalent": "Proprietary HIS (Hospital Information Systems) ",
+                "url": "https://www.gnu.org/health/ "
+            },
+            {
+                "id": "openemr-gov",
+                "title": "OpenEMR",
+                "description": "Το κορυφαίο λογισμικό ανοικτού κώδικα παγκοσμίως για τη διαχείριση ηλεκτρονικών ιατρικών φακέλων (EMR) και ιατρικών πρακτικών. ",
+                "commercial_equivalent": "Proprietary EMR Solutions ",
+                "url": "https://www.open-emr.org/ "
+            },
+            {
+                "id": "openmrs-edu",
+                "title": "OpenMRS",
+                "description": "Μια πλατφόρμα ηλεκτρονικών ιατρικών αρχείων που αναπτύσσεται από μια παγκόσμια κοινότητα, θέτοντας τα πρότυπα για την ψηφιακή υγεία σε ερευνητικό και ακαδημαϊκό επίπεδο. ",
+                "commercial_equivalent": "Proprietary Medical Record Systems ",
+                "url": "https://openmrs.org/ "
+            },
+            {
+                "id": "orthanc-gov",
+                "title": "Orthanc",
+                "description": "Ένας ελαφρύς και ελεύθερος διακομιστής DICOM για τη διαχείριση και αρχειοθέτηση ιατρικών εικόνων (ακτινογραφίες, αξονικές κ.α.). ",
+                "commercial_equivalent": "Proprietary PACS Systems ",
+                "url": "https://www.orthanc-server.com/ "
+            },
+            {
+                "id": "sheltermanager-biz",
+                "title": "Animal Shelter Manager",
+                "description": "Ολοκληρωμένη λύση για καταφύγια ζώων και ομάδες διάσωσης, με εργαλεία για την παρακολούθηση της ιατρικής φροντίδας, της υιοθεσίας, των οικονομικών και των εργασιών του προσωπικού.",
+                "commercial_equivalent": "Shelterluv, PetPoint",
+                "url": "https://sheltermanager.com/site/en_home.html"
+            },
+            {
+                "id": "plone-gov",
+                "title": "Plone",
+                "description": "Σύστημα διαχείρισης περιεχομένου υψηλής ασφάλειας, που χρησιμοποιείται συχνά για ενδοδίκτυα μεγάλων δημόσιων οργανισμών.",
+                "commercial_equivalent": "Microsoft SharePoint",
+                "url": "https://plone.org/"
+            },
+            {
+                "id": "paperless-gov",
+                "title": "Paperless-ngx",
+                "description": "Σύστημα διαχείρισης εγγράφων που σαρώνει, αρχειοθετεί και ευρετηριάζει φυσικά έγγραφα, προωθώντας τη μείωση της χρήσης χαρτιού.",
+                "commercial_equivalent": "Proprietary DMS",
+                "url": "https://github.com/paperless-ngx/paperless-ngx"
+            },
+            {
+                "id": "bacula-gov",
+                "title": "Bacula",
+                "description": "Σύστημα αντιγράφων ασφαλείας επιπέδου οργανισμού, με υποστήριξη για μαγνητοταινίες και μεγάλους παρόχους cloud.",
+                "commercial_equivalent": "Veritas NetBackup",
+                "url": "https://www.bacula.org/"
+            },
+            {
+                "id": "projectsend-gov",
+                "title": "ProjectSend",
+                "description": "Εφαρμογή για την ασφαλή αποστολή αρχείων σε πελάτες ή συνεργάτες, με δυνατότητα διαχείρισης χρηστών και πλήρη καταγραφή ενεργειών.",
+                "commercial_equivalent": "ShareFile",
+                "url": "https://www.projectsend.org/"
+            },
+            {
+                "id": "bareos-gov",
+                "title": "Bareos",
+                "description": "Ισχυρό λογισμικό αντιγράφων ασφαλείας και ανάκτησης δεδομένων για ετερογενή δίκτυα και σύνθετες υποδομές.",
+                "commercial_equivalent": "Veritas Backup Exec",
+                "url": "https://www.bareos.com/"
+            },
+            {
+                "id": "restic-gov",
+                "title": "Restic",
+                "description": "Γρήγορο και ασφαλές πρόγραμμα αντιγράφων ασφαλείας που υποστηρίζει πολλούς παρόχους αποθήκευσης και κρυπτογράφηση.",
+                "commercial_equivalent": "Acronis",
+                "url": "https://restic.net/"
             }
         ]
     },
