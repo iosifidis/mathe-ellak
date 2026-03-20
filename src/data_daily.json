@@ -423,8 +423,8 @@
                 "description": "Μια self-hosted εναλλακτική λύση στο Linktree για τη συγκέντρωση όλων των συνδέσμων σας σε μία σελίδα.",
                 "commercial_equivalent": "Linktree",
                 "url": "https://linkstack.org/"
-            }
-  {
+            },
+            {
                 "id": "vaultwarden-daily",
                 "title": "Vaultwarden",
                 "description": "Ο απόλυτος διαχειριστής κωδικών για προσωπική χρήση, που σας επιτρέπει να αποθηκεύετε με ασφάλεια τα συνθηματικά σας σε δικό σας διακομιστή.",
