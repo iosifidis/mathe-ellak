@@ -257,6 +257,13 @@
                 "url": "https://mediacms.io/"
             },
             {
+                "id": "tube-gov",
+                "title": "Tube",
+                "description": "Εργαλείο για τη διαχείριση συλλογών βίντεο και ροών RSS, εστιάζοντας στην οργάνωση περιεχομένου.",
+                "commercial_equivalent": "Feedly",
+                "url": "https://git.mills.io/prologic/tube"
+            },
+            {
                 "id": "caddy-gov",
                 "title": "Caddy",
                 "description": "Ασφαλής εξυπηρετητής ιστού για δημόσιες υπηρεσίες, που εγγυάται την κρυπτογραφημένη επικοινωνία (HTTPS) χωρίς πολύπλοκες ρυθμίσεις.",
@@ -276,6 +283,13 @@
                 "description": "Εργαλείο διαχείρισης σύντομων συνδέσμων για κυβερνητικούς ιστότοπους, διασφαλίζοντας ότι τα δεδομένα των πολιτών παραμένουν σε εγχώριες υποδομές.",
                 "commercial_equivalent": "Bitly Enterprise",
                 "url": "https://shlink.io/"
+            },
+            {
+                "id": "php-dynamic-qr-daily",
+                "title": "PHP Dynamic QR Code",
+                "description": "Εφαρμογή για τη δημιουργία και διαχείριση δυναμικών κωδικών QR που μπορούν να τροποποιηθούν μετά την εκτύπωση.",
+                "commercial_equivalent": "QR Code Generator (Paid)",
+                "url": "https://github.com/giandonatoinverso/PHP-Dynamic-Qr-code"
             },
             {
                 "id": "gnu-health-gov",

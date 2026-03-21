@@ -19,6 +19,20 @@
                 "url": "https://www.onlyoffice.com/"
             },
             {
+                "id": "zotero-daily",
+                "title": "Zotero",
+                "description": "Εξειδικευμένη λύση για τεκμηρίωση πηγών, βιβλιογραφίας, πολυμέσων και σημειώσεων.",
+                "commercial_equivalent": "EndNote, Mendeley",
+                "url": "https://www.zotero.org/"
+            },
+            {
+                "id": "openoffice-daily",
+                "title": "Apache OpenOffice",
+                "description": "Μια ιστορική και αξιόπιστη σουίτα εφαρμογών γραφείου ανοικτού κώδικα για επεξεργασία κειμένου, λογιστικά φύλλα και παρουσιάσεις.",
+                "commercial_equivalent": "Microsoft Office",
+                "url": "https://www.openoffice.org/el/"
+            },
+            {
                 "id": "thunderbird-daily",
                 "title": "Thunderbird",
                 "description": "Διαχείριση email, ημερολογίου και επαφών σε ένα ασφαλές περιβάλλον χωρίς την ανάγκη συνεχούς φόρτωσης ιστοσελίδων.",
@@ -26,11 +40,25 @@
                 "url": "https://www.thunderbird.net/el/"
             },
             {
-                "id": "evince-daily",
-                "title": "Evince",
+                "id": "papers-daily",
+                "title": "Papers",
                 "description": "Ελαφρύς αναγνώστης αρχείων PDF που υποστηρίζει πολλαπλά formats εγγράφων.",
                 "commercial_equivalent": "Adobe PDF Reader",
-                "url": "https://wiki.gnome.org/Apps/Evince"
+                "url": "https://apps.gnome.org/el/Papers/"
+            },
+            {
+                "id": "kpdf-daily",
+                "title": "KPDF",
+                "description": "Ένας ελαφρύς και ταχύτατος αναγνώστης αρχείων PDF, πλήρως ενσωματωμένος στο περιβάλλον εργασίας KDE.",
+                "commercial_equivalent": "Adobe PDF Reader",
+                "url": "https://kpdf.kde.org/"
+            },
+            {
+                "id": "bentopdf-daily",
+                "title": "BentoPDF",
+                "description": "Τοπικός αναγνώστης και επεξεργαστής PDF που διατηρεί τα έγγραφά σας ιδιωτικά.",
+                "commercial_equivalent": "Adobe Acrobat Reader",
+                "url": "https://www.bentopdf.com/"
             },
             {
                 "id": "joplin-daily",
@@ -47,13 +75,6 @@
                 "url": "https://k9mail.github.io/"
             },
             {
-                "id": "kedit-daily",
-                "title": "Kate / KEdit",
-                "description": "Ένας προηγμένος επεξεργαστής κειμένου που συνδυάζει την απλότητα ενός σημειωματάριου με ισχυρές δυνατότητες επεξεργασίας κώδικα και πολλαπλών εγγράφων.",
-                "commercial_equivalent": "Microsoft Notepad",
-                "url": "https://kate-editor.org/"
-            },
-            {
                 "id": "kontact-daily",
                 "title": "Kontact",
                 "description": "Ολοκληρωμένος διαχειριστής προσωπικών πληροφοριών (PIM) που ενοποιεί το ηλεκτρονικό ταχυδρομείο, το ημερολόγιο, τις επαφές και τις σημειώσεις σε ένα ενιαίο περιβάλλον.",
@@ -61,39 +82,18 @@
                 "url": "https://kontact.org/"
             },
             {
-                "id": "openoffice-daily",
-                "title": "Apache OpenOffice",
-                "description": "Μια ιστορική και αξιόπιστη σουίτα εφαρμογών γραφείου ανοικτού κώδικα για επεξεργασία κειμένου, λογιστικά φύλλα και παρουσιάσεις.",
-                "commercial_equivalent": "Microsoft Office",
-                "url": "https://www.openoffice.org/el/"
-            },
-            {
-                "id": "kpdf-daily",
-                "title": "KPDF",
-                "description": "Ένας ελαφρύς και ταχύτατος αναγνώστης αρχείων PDF, πλήρως ενσωματωμένος στο περιβάλλον εργασίας KDE.",
-                "commercial_equivalent": "Adobe PDF Reader",
-                "url": "https://kpdf.kde.org/"
-            },
-            {
-                "id": "zotero-daily",
-                "title": "Zotero",
-                "description": "Εξειδικευμένη λύση για τεκμηρίωση πηγών, βιβλιογραφίας, πολυμέσων και σημειώσεων.",
-                "commercial_equivalent": "EndNote, Mendeley",
-                "url": "https://www.zotero.org/"
-            },
-            {
                 "id": "scribus-daily",
                 "title": "Scribus",
-                "description": "Επαγγελματική επιτραπέζια δημοσίευση (Desktop Publishing) για αφίσες και περιοδικά.",
+                "description": "Επαγγελματικό πρόγραμμα για Desktop Publishing για αφίσες και περιοδικά.",
                 "commercial_equivalent": "Microsoft Publisher, Adobe InDesign",
                 "url": "https://www.scribus.net/"
             },
             {
-                "id": "gedit-daily",
-                "title": "gedit",
+                "id": "texteditor-daily",
+                "title": "TextEditor",
                 "description": "Απλός και λειτουργικός επεξεργαστής κειμένου, προεπιλεγμένος σε πολλά περιβάλλοντα Linux.",
                 "commercial_equivalent": "Microsoft Notepad",
-                "url": "https://projects.gnome.org/gedit"
+                "url": "https://apps.gnome.org/el/TextEditor/"
             },
             {
                 "id": "notepad-plus-plus-daily",
@@ -103,9 +103,23 @@
                 "url": "https://notepad-plus-plus.org/"
             },
             {
+                "id": "kedit-daily",
+                "title": "Kate / KEdit",
+                "description": "Ένας προηγμένος επεξεργαστής κειμένου που συνδυάζει την απλότητα ενός σημειωματάριου με ισχυρές δυνατότητες επεξεργασίας κώδικα και πολλαπλών εγγράφων.",
+                "commercial_equivalent": "Microsoft Notepad",
+                "url": "https://kate-editor.org/"
+            },
+            {
                 "id": "ghostscript-daily",
                 "title": "Ghostscript",
                 "description": "Εργαλείο για την ανάγνωση και επεξεργασία αρχείων PostScript (PS).",
+                "commercial_equivalent": "Adobe PostScript",
+                "url": "http://pages.cs.wisc.edu/~ghost/"
+            },
+            {
+                "id": "kghostview-daily",
+                "title": "KGhostview",
+                "description": "Εργαλείο προβολής και διαχείρισης αρχείων PostScript (PS) και PDF, παρέχοντας μια κλασική και σταθερή λύση για την ανάγνωση εγγράφων εκτύπωσης.",
                 "commercial_equivalent": "Adobe PostScript",
                 "url": "http://pages.cs.wisc.edu/~ghost/"
             },
@@ -115,6 +129,13 @@
                 "description": "Ολοκληρωμένη λύση γραφείου και αποθήκευση για συνεργασία και διαμοιρασμό.",
                 "commercial_equivalent": "Google Drive, Microsoft OneDrive, Microsoft 365, Dropbox, iCloud",
                 "url": "https://nextcloud.com/"
+            },
+            {
+                "id": "linkding-daily",
+                "title": "Linkding",
+                "description": "Ένας μινιμαλιστικός διαχειριστής σελιδοδεικτών που δίνει έμφαση στην απλότητα και την ταχύτητα.",
+                "commercial_equivalent": "Delicious, Pinboard",
+                "url": "https://linkding.link/"
             },
             {
                 "id": "shiori-daily",
@@ -131,20 +152,6 @@
                 "url": "https://wallabag.org/"
             },
             {
-                "id": "linkding-daily",
-                "title": "Linkding",
-                "description": "Ένας μινιμαλιστικός διαχειριστής σελιδοδεικτών που δίνει έμφαση στην απλότητα και την ταχύτητα.",
-                "commercial_equivalent": "Delicious, Pinboard",
-                "url": "https://linkding.link/"
-            },
-            {
-                "id": "bentopdf-daily",
-                "title": "BentoPDF",
-                "description": "Τοπικός αναγνώστης και επεξεργαστής PDF που διατηρεί τα έγγραφά σας ιδιωτικά.",
-                "commercial_equivalent": "Adobe Acrobat Reader",
-                "url": "https://www.bentopdf.com/"
-            },
-            {
                 "id": "excalidraw-daily",
                 "title": "Excalidraw",
                 "description": "Εργαλείο εικονικού πίνακα για τη δημιουργία χειρόγραφων σχεδίων και διαγραμμάτων.",
@@ -157,13 +164,6 @@
                 "description": "Μια πλατφόρμα εργασίας που συνδυάζει σημειώσεις, έγγραφα και λευκοπίνακες σε ένα ενιαίο περιβάλλον δημιουργικότητας.",
                 "commercial_equivalent": "Notion, Miro",
                 "url": "https://affine.pro/"
-            },
-            {
-                "id": "duplicati-daily",
-                "title": "Duplicati",
-                "description": "Λογισμικό για τη δημιουργία κρυπτογραφημένων αντιγράφων ασφαλείας online, συμβατό με πολλούς παρόχους cloud.",
-                "commercial_equivalent": "Backblaze",
-                "url": "https://duplicati.com/"
             }
         ]
     },
@@ -172,6 +172,20 @@
         "title": "Internet & Ιδιωτικότητα",
         "description": "Περιηγητές, μηχανές αναζήτησης και εργαλεία επικοινωνίας που προστατεύουν τα δεδομένα σου.",
         "subcategories": [
+            {
+                "id": "duckduckgo-daily",
+                "title": "DuckDuckGo",
+                "description": "Μηχανή αναζήτησης που σέβεται την ιδιωτικότητα και δεν καταγράφει το ιστορικό αναζητήσεων.",
+                "commercial_equivalent": "Google Search, Bing",
+                "url": "https://duckduckgo.com/"
+            },
+            {
+                "id": "ddg-lite-daily",
+                "title": "DuckDuckGo Lite",
+                "description": "Μια εξαιρετικά ελαφριά έκδοση της μηχανής αναζήτησης DuckDuckGo, χωρίς JavaScript, ιδανική για μέγιστη ταχύτητα και παλαιότερες συσκευές.",
+                "commercial_equivalent": "Google Search (Mobile Lite)",
+                "url": "https://duckduckgo.com/lite/"
+            },
             {
                 "id": "firefox-daily",
                 "title": "Firefox",
@@ -192,6 +206,34 @@
                 "description": "Παραλλαγή του Firefox ρυθμισμένη εξαρχής για μέγιστη προστασία της ιδιωτικότητας.",
                 "commercial_equivalent": "Google Chrome, Edge, Safari, Internet Explorer",
                 "url": "https://librewolf.net/"
+            },
+            {
+                "id": "mullvad-browser-daily",
+                "title": "Mullvad Browser",
+                "description": "Νεότερος περιηγητής σχεδιασμένος μαζί με την ομάδα του Tor για την προστασία του μέσου χρήστη.",
+                "commercial_equivalent": "Google Chrome, Safari",
+                "url": "https://mullvad.net/en/browser"
+            },
+            {
+                "id": "chromium-daily",
+                "title": "Chromium",
+                "description": "Ο ανοικτού κώδικα περιηγητής που αποτελεί τη βάση για τον Chrome, προσφέροντας ταχύτητα και πλήρη συμβατότητα με τα σύγχρονα πρότυπα του ιστού χωρίς τα κλειστά πρόσθετα της Google.",
+                "commercial_equivalent": "Google Chrome, Microsoft Edge",
+                "url": "https://www.chromium.org/Home"
+            },
+            {
+                "id": "seamonkey-daily",
+                "title": "SeaMonkey",
+                "description": "Μια ολοκληρωμένη σουίτα διαδικτύου που συνεχίζει την παράδοση του Netscape, ενσωματώνοντας περιηγητή, email client και επεξεργαστή HTML σε μία εφαρμογή.",
+                "commercial_equivalent": "Microsoft Internet Explorer, Safari",
+                "url": "https://www.seamonkey-project.org/"
+            },
+            {
+                "id": "tor-browser-daily",
+                "title": "Tor Browser",
+                "description": "Περιηγητής που συγκαλύπτει την πραγματική τοποθεσία και δρομολογεί την κίνηση μέσω πολλαπλών υπολογιστών για πλήρη ανωνυμία.",
+                "commercial_equivalent": "VPN / Incognito Mode",
+                "url": "https://www.torproject.org/"
             },
             {
                 "id": "https-everywhere-daily",
@@ -229,25 +271,11 @@
                 "url": "http://www.gnupg.org/gpa.html"
             },
             {
-                "id": "mycroft-daily",
-                "title": "Mycroft",
-                "description": "Ένας ανοικτός και προσαρμόσιμος εικονικός προσωπικός βοηθός φωνής που σέβεται την ιδιωτικότητα, προσφέροντας μια εναλλακτική στις κλειστές εμπορικές λύσεις.",
-                "commercial_equivalent": "Amazon Alexa, Google Assistant",
-                "url": "https://mycroft.ai/"
-            },
-            {
                 "id": "canvas-blocker-daily",
                 "title": "CanvasBlocker",
                 "description": "Εμποδίζει την ψηφιακή αποτύπωση του περιηγητή (Canvas-Fingerprinting), αποτρέποντας τους ιστότοπους από το να δημιουργήσουν ένα μοναδικό αναγνωριστικό για τη συσκευή σας.",
                 "commercial_equivalent": "Anti-tracking software",
                 "url": "https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/"
-            },
-            {
-                "id": "mullvad-browser-daily",
-                "title": "Mullvad Browser",
-                "description": "Νεότερος περιηγητής σχεδιασμένος μαζί με την ομάδα του Tor για την προστασία του μέσου χρήστη.",
-                "commercial_equivalent": "Google Chrome, Safari",
-                "url": "https://mullvad.net/en/browser"
             },
             {
                 "id": "tribler-daily",
@@ -266,7 +294,7 @@
             {
                 "id": "privoxy-daily",
                 "title": "Privoxy",
-                "description": "Ένας διακομιστής μεσολάβησης (web proxy) με προηγμένες δυνατότητες φιλτραρίσματος για την προστασία της ιδιωτικότητας, την τροποποίηση δεδομένων ιστοσελίδων και τη διαχείριση cookies.",
+                "description": "Ένας web proxy με προηγμένες δυνατότητες φιλτραρίσματος για την προστασία της ιδιωτικότητας, την τροποποίηση δεδομένων ιστοσελίδων και τη διαχείριση cookies.",
                 "commercial_equivalent": "Ad-blocking Proxy Servers",
                 "url": "https://www.privoxy.org/"
             },
@@ -292,39 +320,11 @@
                 "url": "https://yggdrasil-network.github.io/"
             },
             {
-                "id": "chromium-daily",
-                "title": "Chromium",
-                "description": "Ο ανοικτού κώδικα περιηγητής που αποτελεί τη βάση για τον Chrome, προσφέροντας ταχύτητα και πλήρη συμβατότητα με τα σύγχρονα πρότυπα του ιστού χωρίς τα κλειστά πρόσθετα της Google.",
-                "commercial_equivalent": "Google Chrome, Microsoft Edge",
-                "url": "https://www.chromium.org/Home"
-            },
-            {
-                "id": "seamonkey-daily",
-                "title": "SeaMonkey",
-                "description": "Μια ολοκληρωμένη σουίτα διαδικτύου που συνεχίζει την παράδοση του Netscape, ενσωματώνοντας περιηγητή, email client και επεξεργαστή HTML σε μία εφαρμογή.",
-                "commercial_equivalent": "Microsoft Internet Explorer, Safari",
-                "url": "https://www.seamonkey-project.org/"
-            },
-            {
                 "id": "decentraleyes-daily",
                 "title": "Decentraleyes",
-                "description": "Πρόσθετο περιηγητή που ενισχύει την ιδιωτικότητα σερβίροντας τοπικά τις κοινές βιβλιοθήκες κώδικα (CDNs), αποτρέποντας την παρακολούθηση από δίκτυα διαφημίσεων.]",
+                "description": "Πρόσθετο περιηγητή που ενισχύει την ιδιωτικότητα σερβίροντας τοπικά τις κοινές βιβλιοθήκες κώδικα (CDNs), αποτρέποντας την παρακολούθηση από δίκτυα διαφημίσεων.",
                 "commercial_equivalent": "Content Delivery Networks",
                 "url": "https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/"
-            },
-            {
-                "id": "ddg-lite-daily",
-                "title": "DuckDuckGo Lite",
-                "description": "Μια εξαιρετικά ελαφριά έκδοση της μηχανής αναζήτησης DuckDuckGo, χωρίς JavaScript, ιδανική για μέγιστη ταχύτητα και παλαιότερες συσκευές.",
-                "commercial_equivalent": "Google Search (Mobile Lite)",
-                "url": "https://duckduckgo.com/lite/"
-            },
-            {
-                "id": "duckduckgo-daily",
-                "title": "DuckDuckGo",
-                "description": "Μηχανή αναζήτησης που σέβεται την ιδιωτικότητα και δεν καταγράφει το ιστορικό αναζητήσεων.",
-                "commercial_equivalent": "Google Search, Bing",
-                "url": "https://duckduckgo.com/"
             },
             {
                 "id": "signal-daily",
@@ -334,18 +334,11 @@
                 "url": "https://signal.org/"
             },
             {
-                "id": "tor-browser-daily",
-                "title": "Tor Browser",
-                "description": "Περιηγητής που συγκαλύπτει την πραγματική τοποθεσία και δρομολογεί την κίνηση μέσω πολλαπλών υπολογιστών για πλήρη ανωνυμία.",
-                "commercial_equivalent": "VPN / Incognito Mode",
-                "url": "https://www.torproject.org/"
-            },
-            {
-                "id": "searx-daily",
-                "title": "Searx",
-                "description": "Μια μηχανή μετα-αναζήτησης που σέβεται την ιδιωτικότητα και συγκεντρώνει αποτελέσματα από πολλές πηγές.",
-                "commercial_equivalent": "Google Search",
-                "url": "https://github.com/asciimoo/searx/wiki/"
+                "id": "libretranslate-daily",
+                "title": "Libre Translate",
+                "description": "Ελεύθερο API μηχανικής μετάφρασης, self-hosted, χωρίς περιορισμούς όγκου δεδομένων.",
+                "commercial_equivalent": "Google Translate",
+                "url": "https://libretranslate.com/"
             },
             {
                 "id": "argos-translate-daily",
@@ -360,13 +353,6 @@
                 "description": "Το μεγαλύτερο αποκεντρωμένο δίκτυο microblogging που βασίζεται στο πρότυπο ActivityPub, προσφέροντας πλήρη έλεγχο της επικοινωνίας χωρίς κεντρικούς αλγόριθμους.",
                 "commercial_equivalent": "X (Twitter)",
                 "url": "https://joinmastodon.org"
-            },
-            {
-                "id": "pumpio-daily",
-                "title": "Pump.io",
-                "description": "Μια πλατφόρμα κοινωνικής δικτύωσης που χρησιμοποιεί το πρότυπο Activity Streams, επιτρέποντας στους χρήστες να τρέχουν τον δικό τους διακομιστή.",
-                "commercial_equivalent": "X (Twitter), Facebook",
-                "url": "http://pump.io"
             },
             {
                 "id": "twister-daily",
@@ -411,13 +397,6 @@
                 "url": "https://github.com/ricochet-im/Ricochet"
             },
             {
-                "id": "libretranslate-daily",
-                "title": "Libre Translate",
-                "description": "Ελεύθερο API μηχανικής μετάφρασης, self-hosted, χωρίς περιορισμούς όγκου δεδομένων.",
-                "commercial_equivalent": "Google Translate",
-                "url": "https://libretranslate.com/"
-            },
-            {
                 "id": "linkstack-daily",
                 "title": "LinkStack",
                 "description": "Μια self-hosted εναλλακτική λύση στο Linktree για τη συγκέντρωση όλων των συνδέσμων σας σε μία σελίδα.",
@@ -430,27 +409,6 @@
                 "description": "Ο απόλυτος διαχειριστής κωδικών για προσωπική χρήση, που σας επιτρέπει να αποθηκεύετε με ασφάλεια τα συνθηματικά σας σε δικό σας διακομιστή.",
                 "commercial_equivalent": "Dashlane, 1Password",
                 "url": "https://vaultwarden.uk/"
-            },
-            {
-                "id": "tube-daily",
-                "title": "Tube",
-                "description": "Εργαλείο για τη διαχείριση συλλογών βίντεο και ροών RSS, εστιάζοντας στην οργάνωση περιεχομένου.",
-                "commercial_equivalent": "Feedly",
-                "url": "https://git.mills.io/prologic/tube"
-            },
-            {
-                "id": "php-dynamic-qr-daily",
-                "title": "PHP Dynamic QR Code",
-                "description": "Εφαρμογή για τη δημιουργία και διαχείριση δυναμικών κωδικών QR που μπορούν να τροποποιηθούν μετά την εκτύπωση.",
-                "commercial_equivalent": "QR Code Generator (Paid)",
-                "url": "https://github.com/giandonatoinverso/PHP-Dynamic-Qr-code"
-            },
-            {
-                "id": "borgmatic-daily",
-                "title": "Borgmatic",
-                "description": "Εργαλείο που απλοποιεί τη χρήση του BorgBackup, προσφέροντας εύκολη παραμετροποίηση για αυτόματα αντίγραφα ασφαλείας.",
-                "commercial_equivalent": "Acronis",
-                "url": "https://torsion.org/borgmatic/"
             }
         ]
     },
@@ -493,13 +451,6 @@
                 "description": "Επαγγελματική επεξεργασία βίντεο με node-based workflow.",
                 "commercial_equivalent": "Blackmagic DaVinci Resolve",
                 "url": "https://natrongithub.github.io/"
-            },
-            {
-                "id": "kghostview-daily",
-                "title": "KGhostview",
-                "description": "Εργαλείο προβολής και διαχείρισης αρχείων PostScript (PS) και PDF, παρέχοντας μια κλασική και σταθερή λύση για την ανάγνωση εγγράφων εκτύπωσης.",
-                "commercial_equivalent": "Adobe PostScript",
-                "url": "http://pages.cs.wisc.edu/~ghost/"
             },
             {
                 "id": "mixxx-daily",
@@ -565,13 +516,6 @@
                 "url": "https://www.k-3d.org/"
             },
             {
-                "id": "art-of-illusion-daily",
-                "title": "Art of Illusion",
-                "description": "Ένα πλήρες studio για 3D modeling, rendering και animation, γραμμένο σε Java, που συνδυάζει την ευκολία στη χρήση με προηγμένες δυνατότητες.",
-                "commercial_equivalent": "Autodesk 3ds Max",
-                "url": "https://www.artofillusion.org/"
-            },
-            {
                 "id": "openshot-daily",
                 "title": "OpenShot",
                 "description": "Video editor με απλό περιβάλλον χρήσης, ιδανικό για εκπαιδευτική χρήση.",
@@ -600,18 +544,18 @@
                 "url": "https://inkscape.org/"
             },
             {
-                "id": "eog-daily",
-                "title": "Eye of GNOME (EOG)",
+                "id": "loupe-daily",
+                "title": "Loupe",
                 "description": "Ο επίσημος αναγνώστης εικόνων του περιβάλλοντος GNOME, σχεδιασμένος για γρήγορη προβολή και βασική διαχείριση φωτογραφιών.",
                 "commercial_equivalent": "ACDSee",
-                "url": "https://gitlab.gnome.org/GNOME/eog"
+                "url": "https://apps.gnome.org/el/Loupe/"
             },
             {
                 "id": "shotwell-daily",
                 "title": "Shotwell",
                 "description": "Μια ολοκληρωμένη εφαρμογή οργάνωσης φωτογραφιών που επιτρέπει την εισαγωγή από κάμερες, την ταξινόμηση και τη βασική επεξεργασία εικόνων.",
                 "commercial_equivalent": "ACDSee",
-                "url": "https://wiki.gnome.org/Apps/Shotwell"
+                "url": "https://shotwell-project.org/"
             },
             {
                 "id": "pixelfed-daily",
@@ -621,11 +565,11 @@
                 "url": "https://pixelfed.org/"
             },
             {
-                "id": "rhythmbox-daily",
-                "title": "Rhythmbox",
+                "id": "music-daily",
+                "title": "Music",
                 "description": "Οργανώστε τη μουσική σας βιβλιοθήκη και ακούστε online ραδιόφωνο.",
                 "commercial_equivalent": "Apple iTunes",
-                "url": "https://projects.gnome.org/rhythmbox/"
+                "url": "https://apps.gnome.org/el/Music/"
             },
             {
                 "id": "amarok-daily",
@@ -646,7 +590,7 @@
                 "title": "Krita",
                 "description": "Επαγγελματικό εργαλείο ψηφιακής ζωγραφικής και σχεδίασης, κατάλληλο για καλλιτέχνες concept art, εικονογράφους και δημιουργούς κόμικς.",
                 "commercial_equivalent": "Adobe Photoshop, Corel Painter",
-                "url": "https://www.krita.org/download"
+                "url": "https://krita.org/"
             },
             {
                 "id": "ardour-daily",
@@ -660,7 +604,7 @@
                 "title": "Kodi (XBMC Media Center)",
                 "description": "Μια βραβευμένη πλατφόρμα ανοικτού κώδικα για τη δημιουργία κέντρου πολυμέσων (Home Theater PC), που οργανώνει και αναπαράγει βίντεο, μουσική και φωτογραφίες.",
                 "commercial_equivalent": "Windows Media Player, RealPlayer",
-                "url": "https://xbmc.org/about/"
+                "url": "https://kodi.tv/"
             },
             {
                 "id": "audacious-daily",
@@ -723,7 +667,7 @@
                 "title": "Kubuntu",
                 "description": "Πλήρες, δωρεάν και ασφαλές λειτουργικό σύστημα βασισμένο στο Ubuntu με γραφικό περιβάλλον KDE.",
                 "commercial_equivalent": "Windows, macOS",
-                "url": "https://kubuntu-gr.org/"
+                "url": "https://kubuntu.org/"
             },
             {
                 "id": "ubuntu-mate-daily",
@@ -814,7 +758,7 @@
                 "title": "Brasero",
                 "description": "Εφαρμογή του περιβάλλοντος GNOME για την εγγραφή δεδομένων και ήχου σε οπτικούς δίσκους, σχεδιασμένη να είναι απλή και λειτουργική.",
                 "commercial_equivalent": "Nero Burning Rom",
-                "url": "https://www.gnome.org/projects/brasero/"
+                "url": "https://wiki.gnome.org/Apps/Brasero"
             },
             {
                 "id": "winscp-daily",
@@ -885,6 +829,20 @@
                 "description": "Ένα γρήγορο και ασφαλές εργαλείο για τη δημιουργία κρυπτογραφημένων αντιγράφων ασφαλείας (snapshots), με δυνατότητα αποθήκευσης σε τοπικά μέσα, δίκτυα ή υπηρεσίες cloud.",
                 "commercial_equivalent": "Acronis True Image, Carbonite",
                 "url": "https://kopia.io/"
+            },
+            {
+                "id": "duplicati-daily",
+                "title": "Duplicati",
+                "description": "Λογισμικό για τη δημιουργία κρυπτογραφημένων αντιγράφων ασφαλείας online, συμβατό με πολλούς παρόχους cloud.",
+                "commercial_equivalent": "Backblaze",
+                "url": "https://duplicati.com/"
+            },
+            {
+                "id": "borgmatic-daily",
+                "title": "Borgmatic",
+                "description": "Εργαλείο που απλοποιεί τη χρήση του BorgBackup, προσφέροντας εύκολη παραμετροποίηση για αυτόματα αντίγραφα ασφαλείας.",
+                "commercial_equivalent": "Acronis",
+                "url": "https://torsion.org/borgmatic/"
             },
             {
                 "id": "kde-connect-daily",
