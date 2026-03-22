@@ -206,6 +206,27 @@
                 "description": "Ευέλικτο λογισμικό κοινωνικού δικτύου για επιχειρήσεις, που διευκολύνει την επικοινωνία και τη συνεργασία ομάδων.",
                 "commercial_equivalent": "Yammer, Slack",
                 "url": "https://www.humhub.com/en/"
+            },            
+            {
+                "id": "zammad-biz",
+                "title": "Zammad",
+                "description": "Μια πανίσχυρη πλατφόρμα helpdesk και διαχείρισης επικοινωνίας πελατών, που συγκεντρώνει όλα τα κανάλια (email, chat, τηλέφωνο) σε ένα σημείο.",
+                "commercial_equivalent": "Zendesk, Salesforce Service Cloud",
+                "url": "https://zammad.com/en"
+            },
+            {
+                "id": "freescout-biz",
+                "title": "FreeScout",
+                "description": "Μια εξαιρετικά ελαφριά και ισχυρή λύση helpdesk και κοινόχρηστων εισερχομένων (shared inbox), ιδανική για ομάδες που θέλουν πλήρη έλεγχο χωρίς κόστος συνδρομής.",
+                "commercial_equivalent": "Help Scout, Zendesk",
+                "url": "https://freescout.net/"
+            },
+            {
+                "id": "uvdesk-biz",
+                "title": "UVDesk",
+                "description": "Σύστημα υποστήριξης πελατών (helpdesk) που προσφέρει λύσεις βασισμένες στο cloud ή self-hosted, βελτιώνοντας τη διαδικασία εξυπηρέτησης.",
+                "commercial_equivalent": "Freshdesk",
+                "url": "https://www.uvdesk.com/en/"
             },
             {
                 "id": "camunda-biz",
@@ -929,27 +950,6 @@
                 "url": "https://www.wireshark.org"
             },
             {
-                "id": "zammad-biz",
-                "title": "Zammad",
-                "description": "Μια πανίσχυρη πλατφόρμα helpdesk και διαχείρισης επικοινωνίας πελατών, που συγκεντρώνει όλα τα κανάλια (email, chat, τηλέφωνο) σε ένα σημείο.",
-                "commercial_equivalent": "Zendesk, Salesforce Service Cloud",
-                "url": "https://zammad.com/en"
-            },
-            {
-                "id": "freescout-biz",
-                "title": "FreeScout",
-                "description": "Μια εξαιρετικά ελαφριά και ισχυρή λύση helpdesk και κοινόχρηστων εισερχομένων (shared inbox), ιδανική για ομάδες που θέλουν πλήρη έλεγχο χωρίς κόστος συνδρομής.",
-                "commercial_equivalent": "Help Scout, Zendesk",
-                "url": "https://freescout.net/"
-            },
-            {
-                "id": "uvdesk-biz",
-                "title": "UVDesk",
-                "description": "Σύστημα υποστήριξης πελατών (helpdesk) που προσφέρει λύσεις βασισμένες στο cloud ή self-hosted, βελτιώνοντας τη διαδικασία εξυπηρέτησης.",
-                "commercial_equivalent": "Freshdesk",
-                "url": "https://www.uvdesk.com/en/"
-            },
-            {
                 "id": "vaultwarden-biz",
                 "title": "Vaultwarden",
                 "description": "Μια ελαφριά υλοποίηση του Bitwarden API, ιδανική για την ασφαλή διαχείριση κωδικών πρόσβασης σε αυτο-φιλοξενούμενες (self-hosted) υποδομές.",
@@ -1026,6 +1026,13 @@
                 "description": "Μια εξαιρετικά ελαφριά και γρήγορη status page που βασίζεται σε στατικές σελίδες (Hugo) για μέγιστη αξιοπιστία.",
                 "commercial_equivalent": "Cachet (Commercial hosting)",
                 "url": "https://cstate.netlify.app/"
+            },
+            {
+                "id": "nagios-biz",
+                "title": "Nagios",
+                "description": "Επαγγελματικό εργαλείο για την παρακολούθηση εφαρμογών και δικτύων.",
+                "commercial_equivalent": "SolarWinds",
+                "url": "https://www.nagios.org/"
             }
         ]
     },

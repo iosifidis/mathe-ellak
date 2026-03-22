@@ -52,13 +52,6 @@
                 "description": "Βιβλιοθήκη ψηφιακού περιεχομένου για χρήση χωρίς σύνδεση στο διαδίκτυο (offline).",
                 "commercial_equivalent": "Kortext",
                 "url": "https://www.kiwix.org"
-            },
-            {
-                "id": "claper-edu",
-                "title": "Claper",
-                "description": "Εργαλείο για τη δημιουργία διαδραστικών παρουσιάσεων μέσα στην τάξη, ενισχύοντας τη συμμετοχή των μαθητών.",
-                "commercial_equivalent": "Kahoot! (Presentation mode)",
-                "url": "https://claper.co/"
             }
         ]
     },
@@ -93,7 +86,7 @@
                 "title": "Celestia",
                 "description": "Εξομοιωτής αστρονομίας για τρισδιάστατη εξερεύνηση του διαστήματος.",
                 "commercial_equivalent": "Starry Night",
-                "url": "https://shatters.net/celestia/"
+                "url": "https://celestiaproject.space/"
             },
             {
                 "id": "sage-edu",
@@ -206,6 +199,13 @@
                 "description": "Πλατφόρμα για τη διαχείριση και δημοσίευση επιστημονικών περιοδικών.",
                 "commercial_equivalent": "Microsoft CMT",
                 "url": "https://pkp.sfu.ca/ojs/"
+            },
+            {
+                "id": "claper-edu",
+                "title": "Claper",
+                "description": "Εργαλείο για τη δημιουργία διαδραστικών παρουσιάσεων μέσα στην τάξη, ενισχύοντας τη συμμετοχή των μαθητών.",
+                "commercial_equivalent": "Kahoot! (Presentation mode)",
+                "url": "https://claper.co/"
             }
         ]
     },
@@ -243,18 +243,39 @@
                 "url": "https://netbeans.apache.org/"
             },
             {
+                "id": "eclipse-edu",
+                "title": "Eclipse",
+                "description": "Ένα από τα πιο δημοφιλή και ισχυρά IDE παγκοσμίως, με τεράστιο οικοσύστημα από plugins για Java και πολλές άλλες γλώσσες προγραμματισμού.",
+                "commercial_equivalent": "Microsoft Visual Studio",
+                "url": "https://www.eclipse.org/"
+            },
+            {            {
+                "id": "geany-edu",
+                "title": "Geany",
+                "description": "Ένας εξαιρετικά γρήγορος και ελαφρύς επεξεργαστής κειμένου με βασικές δυνατότητες IDE, ιδανικός για γρήγορες αλλαγές σε κώδικα.",
+                "commercial_equivalent": "Microsoft Visual Studio, Sublime Text",
+                "url": "https://www.geany.org/"
+            },
+            {
+                "id": "codeblocks-edu",
+                "title": "Code::Blocks",
+                "description": "Ένα εξαιρετικά παραμετροποιήσιμο και επεκτάσιμο περιβάλλον ανάπτυξης (IDE) για C, C++ και Fortran, ιδανικό για απαιτητικά business projects.",
+                "commercial_equivalent": "Microsoft Visual Studio",
+                "url": "https://www.codeblocks.org/"
+            },
+            {
+                "id": "dev-cpp-edu",
+                "title": "Dev-C++",
+                "description": "Ένα ελαφρύ και αποδοτικό IDE για προγραμματισμό σε C/C++, κατάλληλο για γρήγορη ανάπτυξη εφαρμογών σε περιβάλλον Windows.",
+                "commercial_equivalent": "Microsoft Visual Studio",
+                "url": "https://dev-cpp.com/Dev-Cpp-5/"
+            },
+            {
                 "id": "app-inventor",
                 "title": "App Inventor",
                 "description": "Οπτικό περιβάλλον για την ανάπτυξη εφαρμογών για κινητά τηλέφωνα.",
                 "commercial_equivalent": "Thunkable",
                 "url": "https://appinventor.mit.edu/"
-            },
-            {
-                "id": "nagios-edu",
-                "title": "Nagios",
-                "description": "Επαγγελματικό εργαλείο για την παρακολούθηση εφαρμογών και δικτύων.",
-                "commercial_equivalent": "SolarWinds",
-                "url": "https://www.nagios.org/"
             },
             {
                 "id": "penpot-edu",
@@ -331,7 +352,7 @@
                 "title": "TuxGuitar",
                 "description": "Επεξεργαστής και αναπαραγωγέας tablature για έγχορδα όργανα.",
                 "commercial_equivalent": "GuitarPro",
-                "url": "https://www.tuxguitar.com.ar/"
+                "url": "https://www.tuxguitar.app/"
             },
             {
                 "id": "freecad",
