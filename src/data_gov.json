@@ -45,13 +45,6 @@
                 "description": "Πλατφόρμα για τη συλλογή και οργάνωση προτάσεων και ανατροφοδότησης από τους χρήστες/πολίτες.",
                 "commercial_equivalent": "UserVoice",
                 "url": "https://fider.io/"
-            },
-            {
-                "id": "cachet-gov",
-                "title": "Cachet",
-                "description": "Σελίδα κατάστασης (status page) ανοικτού κώδικα για την ενημέρωση των χρηστών σχετικά με τη διαθεσιμότητα των υπηρεσιών.",
-                "commercial_equivalent": "Statuspage.io",
-                "url": "https://cachethq.io/"
             }
         ]
     },
@@ -81,13 +74,7 @@
                 "commercial_equivalent": "Custom Analytics Solutions",
                 "url": "https://plausible.io/"
             },
-            {
-                "id": "questdb-gov",
-                "title": "QuestDB",
-                "description": "Βάση δεδομένων χρονοσειρών υψηλής απόδοσης, κατάλληλη για την επεξεργασία μεγάλου όγκου δεδομένων από δημόσιες υποδομές και δίκτυα αισθητήρων σε πραγματικό χρόνο.",
-                "commercial_equivalent": "Kdb+",
-                "url": "https://questdb.io/"
-            },
+
             {
                 "id": "openfisca-gov",
                 "title": "OpenFisca",
@@ -131,11 +118,11 @@
                 "url": "https://www.openfaas.com/"
             },
             {
-                "id": "postgresql-gov",
-                "title": "PostgreSQL",
-                "description": "Η πιο προηγμένη βάση δεδομένων ανοιχτού κώδικα για κρίσιμες δημόσιες εφαρμογές.",
-                "commercial_equivalent": "Oracle Database",
-                "url": "https://www.postgresql.org/"
+                "id": "windmill-gov",
+                "title": "Windmill",
+                "description": "Πλατφόρμα για την αυτοματοποίηση εσωτερικών ροών εργασίας και εργαλείων με ασφάλεια επιπέδου επιχείρησης.",
+                "commercial_equivalent": "Retool",
+                "url": "https://www.windmill.dev/"
             },
             {
                 "id": "wordpress-gov",
@@ -201,18 +188,18 @@
                 "url": "https://element.io/"
             },
             {
-                "id": "xvid-gov",
-                "title": "Xvid",
-                "description": "Ένας κωδικοποιητής βίντεο υψηλής απόδοσης που ακολουθεί το πρότυπο MPEG-4, εξασφαλίζοντας τη συμβατότητα και τη συμπίεση ψηφιακού περιεχομένου.",
-                "commercial_equivalent": "DivX",
-                "url": "https://labs.xvid.com/"
+                "id": "caddy-gov",
+                "title": "Caddy",
+                "description": "Ασφαλής εξυπηρετητής ιστού για δημόσιες υπηρεσίες, που εγγυάται την κρυπτογραφημένη επικοινωνία (HTTPS) χωρίς πολύπλοκες ρυθμίσεις.",
+                "commercial_equivalent": "Proprietary Web Servers",
+                "url": "https://caddyserver.com/"
             },
             {
-                "id": "theora-gov",
-                "title": "Theora",
-                "description": "Ένα ελεύθερο και ανοικτό format συμπίεσης βίντεο που δεν απαιτεί δικαιώματα χρήσης, ιδανικό για τη διανομή δημόσιου οπτικοακουστικού περιεχομένου.",
-                "commercial_equivalent": "Proprietary Video Codecs",
-                "url": "https://www.theora.org/"
+                "id": "kubernetes-gov",
+                "title": "Kubernetes",
+                "description": "Πλατφόρμα ενορχήστρωσης containers για τη δημιουργία κλιμακούμενων και σταθερών δημόσιων ψηφιακών υπηρεσιών με υψηλή διαθεσιμότητα.",
+                "commercial_equivalent": "Proprietary Orchestration Tools",
+                "url": "https://kubernetes.io/"
             },
             {
                 "id": "drupal-gov",
@@ -264,39 +251,11 @@
                 "url": "https://git.mills.io/prologic/tube"
             },
             {
-                "id": "caddy-gov",
-                "title": "Caddy",
-                "description": "Ασφαλής εξυπηρετητής ιστού για δημόσιες υπηρεσίες, που εγγυάται την κρυπτογραφημένη επικοινωνία (HTTPS) χωρίς πολύπλοκες ρυθμίσεις.",
-                "commercial_equivalent": "Proprietary Web Servers",
-                "url": "https://caddyserver.com/"
-            },
-            {
-                "id": "kubernetes-gov",
-                "title": "Kubernetes",
-                "description": "Πλατφόρμα ενορχήστρωσης containers για τη δημιουργία κλιμακούμενων και σταθερών δημόσιων ψηφιακών υπηρεσιών με υψηλή διαθεσιμότητα.",
-                "commercial_equivalent": "Proprietary Orchestration Tools",
-                "url": "https://kubernetes.io/"
-            },
-            {
-                "id": "shlink-gov",
-                "title": "Shlink",
-                "description": "Εργαλείο διαχείρισης σύντομων συνδέσμων για κυβερνητικούς ιστότοπους, διασφαλίζοντας ότι τα δεδομένα των πολιτών παραμένουν σε εγχώριες υποδομές.",
-                "commercial_equivalent": "Bitly Enterprise",
-                "url": "https://shlink.io/"
-            },
-            {
-                "id": "php-dynamic-qr-daily",
-                "title": "PHP Dynamic QR Code",
-                "description": "Εφαρμογή για τη δημιουργία και διαχείριση δυναμικών κωδικών QR που μπορούν να τροποποιηθούν μετά την εκτύπωση.",
-                "commercial_equivalent": "QR Code Generator (Paid)",
-                "url": "https://github.com/giandonatoinverso/PHP-Dynamic-Qr-code"
-            },
-            {
                 "id": "gnu-health-gov",
                 "title": "GNU Health",
                 "description": "Ένα ολοκληρωμένο οικοσύστημα ψηφιακής υγείας που συνδυάζει την κοινωνική ιατρική με την προηγμένη πληροφορική υγείας για δημόσιες νοσοκομειακές υποδομές. ",
                 "commercial_equivalent": "Proprietary HIS (Hospital Information Systems) ",
-                "url": "https://www.gnu.org/health/ "
+                "url": "https://www.gnuhealth.org/ "
             },
             {
                 "id": "openemr-gov",

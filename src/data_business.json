@@ -696,6 +696,13 @@
                 "description": "Σύνολο scripts σε PHP που σας επιτρέπει να τρέχετε self-hosted URL shortener με αναλυτικά στατιστικά στοιχεία.",
                 "commercial_equivalent": "Rebrandly",
                 "url": "https://yourls.org/"
+            },
+            {
+                "id": "php-dynamic-qr-biz",
+                "title": "PHP Dynamic QR Code",
+                "description": "Εφαρμογή για τη δημιουργία και διαχείριση δυναμικών κωδικών QR που μπορούν να τροποποιηθούν μετά την εκτύπωση.",
+                "commercial_equivalent": "QR Code Generator (Paid)",
+                "url": "https://github.com/giandonatoinverso/PHP-Dynamic-Qr-code"
             }
         ]
     },
@@ -752,6 +759,20 @@
                 "description": "Συλλογή εργαλείων για τη δημιουργία και επεξεργασία αρχείων Adobe Flash (SWF), επιτρέποντας την παραγωγή δυναμικών γραφικών ιστού.",
                 "commercial_equivalent": "Adobe Flash",
                 "url": "https://github.com/swftools/swftools"
+            },
+            {
+                "id": "xvid-biz",
+                "title": "Xvid",
+                "description": "Ένας κωδικοποιητής βίντεο υψηλής απόδοσης που ακολουθεί το πρότυπο MPEG-4, εξασφαλίζοντας τη συμβατότητα και τη συμπίεση ψηφιακού περιεχομένου.",
+                "commercial_equivalent": "DivX",
+                "url": "https://labs.xvid.com/"
+            },
+            {
+                "id": "theora-biz",
+                "title": "Theora",
+                "description": "Ένα ελεύθερο και ανοικτό format συμπίεσης βίντεο που δεν απαιτεί δικαιώματα χρήσης, ιδανικό για τη διανομή δημόσιου οπτικοακουστικού περιεχομένου.",
+                "commercial_equivalent": "Proprietary Video Codecs",
+                "url": "https://www.theora.org/"
             },
             {
                 "id": "mediagoblin-biz",
@@ -815,6 +836,13 @@
                 "description": "Η κορυφαία βάση δεδομένων γράφων (graph database) παγκοσμίως, σχεδιασμένη για τη διαχείριση και ανάλυση σύνθετων σχέσεων μεταξύ των δεδομένων.",
                 "commercial_equivalent": "Amazon Neptune",
                 "url": "https://neo4j.com/"
+            },
+            {
+                "id": "questdb-biz",
+                "title": "QuestDB",
+                "description": "Βάση δεδομένων χρονοσειρών υψηλής απόδοσης, κατάλληλη για την επεξεργασία μεγάλου όγκου δεδομένων από δημόσιες υποδομές και δίκτυα αισθητήρων σε πραγματικό χρόνο.",
+                "commercial_equivalent": "Kdb+",
+                "url": "https://questdb.io/"
             }
         ]
     },
@@ -979,6 +1007,13 @@
                 "url": "https://www.windmill.dev/"
             },
             {
+                "id": "nagios-biz",
+                "title": "Nagios",
+                "description": "Επαγγελματικό εργαλείο για την παρακολούθηση εφαρμογών και δικτύων.",
+                "commercial_equivalent": "SolarWinds",
+                "url": "https://www.nagios.org/"
+            },
+            {
                 "id": "zabbix-biz",
                 "title": "Zabbix",
                 "description": "Εργαλείο παρακολούθησης (monitoring) επιπέδου επιχείρησης για δίκτυα, διακομιστές, εφαρμογές και υπηρεσίες cloud.",
@@ -1028,11 +1063,11 @@
                 "url": "https://cstate.netlify.app/"
             },
             {
-                "id": "nagios-biz",
-                "title": "Nagios",
-                "description": "Επαγγελματικό εργαλείο για την παρακολούθηση εφαρμογών και δικτύων.",
-                "commercial_equivalent": "SolarWinds",
-                "url": "https://www.nagios.org/"
+                "id": "cachet-biz",
+                "title": "Cachet",
+                "description": "Σελίδα κατάστασης (status page) ανοικτού κώδικα για την ενημέρωση των χρηστών σχετικά με τη διαθεσιμότητα των υπηρεσιών.",
+                "commercial_equivalent": "Statuspage.io",
+                "url": "https://cachethq.io/"
             }
         ]
     },
