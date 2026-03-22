@@ -9,7 +9,14 @@
                 "title": "LibreOffice",
                 "description": "Πλήρης σουίτα γραφείου για κείμενα, λογιστικά φύλλα και παρουσιάσεις.",
                 "commercial_equivalent": "Microsoft Office",
-                "url": "https://www.libreoffice.org"
+                "url": "https://el.libreoffice.org/"
+            },
+            {
+                "id": "onlyoffice-biz",
+                "title": "ONLYOFFICE",
+                "description": "Μία εξαιρετικά γρήγορη και ελαφριά σουίτα γραφείου, ιδανική για παλιούς υπολογιστές, με απόλυτη συμβατότητα σε έγγραφα, υπολογιστικά φύλλα και παρουσιάσεις.",
+                "commercial_equivalent": "Microsoft Office",
+                "url": "https://www.onlyoffice.com/"
             },
             {
                 "id": "nextcloud-biz",
@@ -23,7 +30,7 @@
                 "title": "Thunderbird",
                 "description": "Επαγγελματικός επεξεργαστής email και διαχείριση ημερολογίου.",
                 "commercial_equivalent": "Microsoft Outlook",
-                "url": "https://www.thunderbird.net"
+                "url": "https://www.thunderbird.net/el/"
             },
             {
                 "id": "matrix-synapse-biz",
@@ -31,6 +38,13 @@
                 "description": "Λογισμικό διακομιστή για το πρωτόκολλο Matrix, που επιτρέπει στις επιχειρήσεις να στήσουν τη δική τους αποκεντρωμένη υποδομή επικοινωνίας.",
                 "commercial_equivalent": "Slack (Server Infrastructure)",
                 "url": "https://matrix.org/"
+            },
+            {
+                "id": "element-biz",
+                "title": "Element",
+                "description": "Ασφαλής επικοινωνία και συνεργασία με κρυπτογράφηση άκρου-προς-άκρο.",
+                "commercial_equivalent": "Slack, Discord",
+                "url": "https://element.io/"
             },
             {
                 "id": "ekiga-biz",
@@ -72,14 +86,7 @@
                 "title": "Evolution",
                 "description": "Διαχείριση email, ημερολογίου και επαφών για το περιβάλλον GNOME.",
                 "commercial_equivalent": "Microsoft Outlook",
-                "url": "https://projects.gnome.org/evolution/"
-            },
-            {
-                "id": "element-biz",
-                "title": "Element",
-                "description": "Ασφαλής επικοινωνία και συνεργασία με κρυπτογράφηση άκρου-προς-άκρο.",
-                "commercial_equivalent": "Slack, Discord",
-                "url": "https://element.io/"
+                "url": "https://flathub.org/en/apps/org.gnome.Evolution"
             },
             {
                 "id": "zulip-biz",
@@ -94,13 +101,6 @@
                 "description": "Πλατφόρμα επικοινωνίας ομάδας με πλήρη έλεγχο δεδομένων.",
                 "commercial_equivalent": "Slack",
                 "url": "https://rocket.chat/"
-            },
-            {
-                "id": "kooka-biz",
-                "title": "Kooka",
-                "description": "Εργαλείο σάρωσης και οπτικής αναγνώρισης χαρακτήρων (OCR).",
-                "commercial_equivalent": "ABBYY FineReader",
-                "url": "https://kooka.kde.org/"
             },
             {
                 "id": "pdfcreator-biz",
@@ -177,7 +177,7 @@
                 "title": "Giggity",
                 "description": "Εφαρμογή για Android που επιτρέπει τη φόρτωση και προβολή προγραμμάτων συνεδρίων και εκδηλώσεων σε βολικές μορφές, υποστηρίζοντας διάφορα φορμάτ αρχείων (XML, .ics).",
                 "commercial_equivalent": "Conference App Solutions",
-                "url": "https://github.com/Wilmor/giggity"
+                "url": "https://wilmer.gaa.st/main.php/giggity.html"
             },
             {
                 "id": "liferay-biz",
@@ -199,13 +199,6 @@
                 "description": "Ένα Headless CMS ανοικτού κώδικα για τη δημιουργία ιστοτόπων και εφαρμογών που υποστηρίζονται από τεχνητή νοημοσύνη.",
                 "commercial_equivalent": "Contentful",
                 "url": "https://strapi.io/"
-            },
-            {
-                "id": "redmine-biz",
-                "title": "Redmine",
-                "description": "Ευέλικτη διαδικτυακή εφαρμογή διαχείρισης έργων, βασισμένη στο Ruby on Rails, που περιλαμβάνει παρακολούθηση σφαλμάτων και ημερολόγια.",
-                "commercial_equivalent": "Jira",
-                "url": "https://www.redmine.org/"
             },
             {
                 "id": "humhub-biz",
@@ -254,7 +247,7 @@
                 "title": "ProjectLibre",
                 "description": "Η κορυφαία εναλλακτική λύση για τη διαχείριση έργων.",
                 "commercial_equivalent": "Microsoft Project",
-                "url": "https://www.projectlibre.org/"
+                "url": "https://www.projectlibre.com/"
             },
             {
                 "id": "taiga-biz",
@@ -262,6 +255,20 @@
                 "description": "Εξειδικευμένο εργαλείο για Agile/Scrum διαχείριση έργων με έμφαση στην ευχρηστία.",
                 "commercial_equivalent": "Jira",
                 "url": "https://taiga.io/"
+            },
+            {
+                "id": "redmine-biz",
+                "title": "Redmine",
+                "description": "Ευέλικτη διαδικτυακή εφαρμογή διαχείρισης έργων, βασισμένη στο Ruby on Rails, που περιλαμβάνει παρακολούθηση σφαλμάτων και ημερολόγια.",
+                "commercial_equivalent": "Jira",
+                "url": "https://www.redmine.org/"
+            },
+            {
+                "id": "openworkbench-biz",
+                "title": "Open Workbench",
+                "description": "Εφαρμογή διαχείρισης έργων και χρονοπρογραμματισμού.",
+                "commercial_equivalent": "Microsoft Project",
+                "url": "https://www.openworkbench.org/"
             },
             {
                 "id": "vikunja-biz",
@@ -313,13 +320,6 @@
                 "url": "https://suitecrm.com"
             },
             {
-                "id": "mautic-biz",
-                "title": "Mautic",
-                "description": "Αυτοματοποίηση marketing campaigns και διαχείριση leads.",
-                "commercial_equivalent": "Mailchimp",
-                "url": "https://www.mautic.org/"
-            },
-            {
                 "id": "open-hrms-biz",
                 "title": "Open HRMS",
                 "description": "Λογισμικό διαχείρισης ανθρώπινου δυναμικού ανοικτού κώδικα.",
@@ -338,14 +338,14 @@
                 "title": "HomeBank",
                 "description": "Λογισμικό διαχείρισης οικιακών και μικρών επιχειρηματικών οικονομικών.",
                 "commercial_equivalent": "Microsoft Money",
-                "url": "https://homebank.free.fr/"
+                "url": "https://www.gethomebank.org/en/index.php"
             },
             {
                 "id": "turbocash-biz",
                 "title": "turboCash",
                 "description": "Ολοκληρωμένο λογιστικό σύστημα για επιχειρήσεις.",
                 "commercial_equivalent": "Microsoft Money",
-                "url": "https://www.turbocashuk.com/"
+                "url": "https://www.turbocash.net/"
             },
             {
                 "id": "vtiger-biz",
@@ -437,6 +437,41 @@
                 "description": "Εργαλείο απομακρυσμένης διαχείρισης επιφάνειας εργασίας.",
                 "commercial_equivalent": "Microsoft Remote Desktop",
                 "url": "https://www.tightvnc.com/"
+            },
+                        {
+                "id": "docker-biz",
+                "title": "Docker",
+                "description": "Η κορυφαία πλατφόρμα για τη δημιουργία και εκτέλεση εφαρμογών σε containers, που απλοποιεί τη μεταφορσιμότητα και τη διαχείριση του λογισμικού.",
+                "commercial_equivalent": "VMware (Container solutions)",
+                "url": "https://www.docker.com/"
+            },
+            {
+                "id": "kubernetes-biz",
+                "title": "Kubernetes (K8s)",
+                "description": "Ένα πανίσχυρο σύστημα ανοικτού κώδικα για την αυτοματοποίηση της ανάπτυξης, της κλιμάκωσης και της διαχείρισης εφαρμογών σε containers.",
+                "commercial_equivalent": "VMware Tanzu, Red Hat OpenShift (Proprietary features)",
+                "url": "https://kubernetes.io/"
+            },
+            {
+                "id": "podman-biz",
+                "title": "Podman",
+                "description": "Ένα εργαλείο χωρίς κεντρικό διακομιστή (daemonless) για τη διαχείριση containers, pods και εικόνων, συμβατό με το οικοσύστημα του Kubernetes.",
+                "commercial_equivalent": "Docker Desktop (Commercial subscription)",
+                "url": "https://podman.io/"
+            },
+            {
+                "id": "caddy-biz",
+                "title": "Caddy Server",
+                "description": "Ένας σύγχρονος εξυπηρετητής ιστού που παρέχει αυτόματη διαχείριση πιστοποιητικών TLS (HTTPS) από προεπιλογή, εστιάζοντας στην ασφάλεια και την ευκολία χρήσης.",
+                "commercial_equivalent": "Microsoft IIS, F5 NGINX Plus",
+                "url": "https://caddyserver.com/"
+            },
+            {
+                "id": "traefik-biz",
+                "title": "Traefik",
+                "description": "Ένας κορυφαίος reverse proxy και load balancer, ειδικά σχεδιασμένος για σύγχρονες υποδομές (containers και microservices), με αυτόματη παραμετροποίηση.",
+                "commercial_equivalent": "F5 BIG-IP, Citrix ADC",
+                "url": "https://traefik.io/traefik"
             }
         ]
     },
@@ -450,7 +485,7 @@
                 "title": "KompoZer",
                 "description": "Πλήρες σύστημα δημιουργίας ιστοσελίδων (Web Authoring).",
                 "commercial_equivalent": "Adobe Dreamweaver",
-                "url": "https://kompozer.net/"
+                "url": "https://sourceforge.net/projects/kompozer/"
             },
             {
                 "id": "bluefish-biz",
@@ -502,13 +537,6 @@
                 "url": "https://gcc.gnu.org/"
             },
             {
-                "id": "gforge-biz",
-                "title": "GForge",
-                "description": "Συνεργατική πλατφόρμα για τη διαχείριση κύκλου ζωής ανάπτυξης λογισμικού, που προσφέρει εργαλεία φιλοξενίας κώδικα, παρακολούθησης σφαλμάτων και συνεργασίας ομάδων.",
-                "commercial_equivalent": "SourceForge (Enterprise), GitHub",
-                "url": "https://gforge.org/"
-            },
-            {
                 "id": "tortoisesvn-biz",
                 "title": "TortoiseSVN",
                 "description": "Ένας εύχρηστος πελάτης ελέγχου εκδόσεων για το Subversion (SVN), πλήρως ενσωματωμένος στο περιβάλλον εργασίας των Windows.",
@@ -541,7 +569,7 @@
                 "title": "Dev-C++",
                 "description": "Ένα ελαφρύ και αποδοτικό IDE για προγραμματισμό σε C/C++, κατάλληλο για γρήγορη ανάπτυξη εφαρμογών σε περιβάλλον Windows.",
                 "commercial_equivalent": "Microsoft Visual Studio",
-                "url": "https://www.bloodshed.net/devcpp.html"
+                "url": "https://dev-cpp.com/Dev-Cpp-5/"
             },
             {
                 "id": "mono-biz",
@@ -558,20 +586,6 @@
                 "url": "https://www.ultimatepp.org/"
             },
             {
-                "id": "openworkbench-biz",
-                "title": "Open Workbench",
-                "description": "Εφαρμογή διαχείρισης έργων και χρονοπρογραμματισμού.",
-                "commercial_equivalent": "Microsoft Project",
-                "url": "https://www.openworkbench.org/"
-            },
-            {
-                "id": "camunda-biz",
-                "title": "Camunda",
-                "description": "Μια πανίσχυρη πλατφόρμα αυτοματοποίησης ροών εργασίας και διαδικασιών (BPMN), που επιτρέπει την ενοποίηση ανθρώπινων εργασιών και συστημάτων πληροφορικής.",
-                "commercial_equivalent": "IBM Business Automation Workflow, Pega",
-                "url": "https://camunda.com/"
-            },
-            {
                 "id": "gitea-biz",
                 "title": "Gitea",
                 "description": "Μια ελαφριά και εύκολη στην εγκατάσταση υπηρεσία φιλοξενίας κώδικα Git, που περιλαμβάνει εργαλεία για code review και συνεργασία ομάδων.",
@@ -584,20 +598,6 @@
                 "description": "Μια ανεξάρτητη και αποκεντρωμένη πλατφόρμα διαχείρισης κώδικα (software forge), εστιασμένη στην ελευθερία του λογισμικού και τη χαμηλή κατανάλωση πόρων.",
                 "commercial_equivalent": "GitHub, GitLab",
                 "url": "https://forgejo.org/"
-            },
-            {
-                "id": "caddy-biz",
-                "title": "Caddy Server",
-                "description": "Ένας σύγχρονος εξυπηρετητής ιστού που παρέχει αυτόματη διαχείριση πιστοποιητικών TLS (HTTPS) από προεπιλογή, εστιάζοντας στην ασφάλεια και την ευκολία χρήσης.",
-                "commercial_equivalent": "Microsoft IIS, F5 NGINX Plus",
-                "url": "https://caddyserver.com/"
-            },
-            {
-                "id": "traefik-biz",
-                "title": "Traefik",
-                "description": "Ένας κορυφαίος reverse proxy και load balancer, ειδικά σχεδιασμένος για σύγχρονες υποδομές (containers και microservices), με αυτόματη παραμετροποίηση.",
-                "commercial_equivalent": "F5 BIG-IP, Citrix ADC",
-                "url": "https://traefik.io/traefik"
             }
         ]
     },
@@ -656,16 +656,23 @@
                 "url": "https://www.phplist.com/"
             },
             {
+                "id": "mautic-biz",
+                "title": "Mautic",
+                "description": "Αυτοματοποίηση marketing campaigns και διαχείριση leads.",
+                "commercial_equivalent": "Mailchimp",
+                "url": "https://www.mautic.org/"
+            },
+            {
                 "id": "shlink-biz",
                 "title": "Shlink",
-                "description": "Ένας σύγχρονος, αυτο-φιλοξενούμενος (self-hosted) μειωτής συνδέσμων (URL shortener) που επιτρέπει στις επιχειρήσεις να διατηρούν τον πλήρη έλεγχο των δεδομένων τους.",
+                "description": "Ένας σύγχρονος, self-hosted URL shortener που επιτρέπει στις επιχειρήσεις να διατηρούν τον πλήρη έλεγχο των δεδομένων τους.",
                 "commercial_equivalent": "Bitly",
                 "url": "https://shlink.io/"
             },
             {
                 "id": "yourls-biz",
                 "title": "YOURLS",
-                "description": "Σύνολο scripts σε PHP που σας επιτρέπει να τρέχετε τη δική σας υπηρεσία μείωσης συνδέσμων στον διακομιστή σας, με αναλυτικά στατιστικά στοιχεία.",
+                "description": "Σύνολο scripts σε PHP που σας επιτρέπει να τρέχετε self-hosted URL shortener με αναλυτικά στατιστικά στοιχεία.",
                 "commercial_equivalent": "Rebrandly",
                 "url": "https://yourls.org/"
             }
@@ -695,7 +702,7 @@
                 "title": "Dia",
                 "description": "Εργαλείο για τη σχεδίαση διαγραμμάτων και ροών εργασίας.",
                 "commercial_equivalent": "Microsoft Visio",
-                "url": "https://wiki.gnome.org/Apps/Dia"
+                "url": "https://gitlab.gnome.org/GNOME/dia"
             },
             {
                 "id": "camstudio-biz",
@@ -723,7 +730,7 @@
                 "title": "F4L / Swftools",
                 "description": "Συλλογή εργαλείων για τη δημιουργία και επεξεργασία αρχείων Adobe Flash (SWF), επιτρέποντας την παραγωγή δυναμικών γραφικών ιστού.",
                 "commercial_equivalent": "Adobe Flash",
-                "url": "https://swftools.org/"
+                "url": "https://github.com/swftools/swftools"
             },
             {
                 "id": "mediagoblin-biz",
@@ -745,6 +752,13 @@
                 "description": "Η πιο διαδεδομένη open-source βάση δεδομένων παγκοσμίως.",
                 "commercial_equivalent": "Microsoft SQL Server",
                 "url": "https://www.mysql.com/"
+            },
+            {
+                "id": "mariadb-biz",
+                "title": "MariaDB",
+                "description": "Η δεύτερη πιο διαδεδομένη open-source βάση δεδομένων παγκοσμίως (συνέχεια της mysql).",
+                "commercial_equivalent": "Microsoft SQL Server",
+                "url": "https://mariadb.org/"
             },
             {
                 "id": "postgresql-biz",
@@ -807,7 +821,7 @@
                 "title": "Dokku",
                 "description": "Μικρή πλατφόρμα PaaS για εύκολη φιλοξενία εφαρμογών.",
                 "commercial_equivalent": "Heroku",
-                "url": "http://dokku.viewdocs.io/"
+                "url": "https://dokku.com/"
             },
             {
                 "id": "huginn-biz",
@@ -949,47 +963,13 @@
                 "commercial_equivalent": "Pastebin (Pro features)",
                 "url": "https://privatebin.info/"
             },
-            {
-                "id": "docker-biz",
-                "title": "Docker",
-                "description": "Η κορυφαία πλατφόρμα για τη δημιουργία και εκτέλεση εφαρμογών σε containers, που απλοποιεί τη μεταφορσιμότητα και τη διαχείριση του λογισμικού.",
-                "commercial_equivalent": "VMware (Container solutions)",
-                "url": "https://www.docker.com/"
-            },
-            {
-                "id": "kubernetes-biz",
-                "title": "Kubernetes (K8s)",
-                "description": "Ένα πανίσχυρο σύστημα ανοικτού κώδικα για την αυτοματοποίηση της ανάπτυξης, της κλιμάκωσης και της διαχείρισης εφαρμογών σε containers.",
-                "commercial_equivalent": "VMware Tanzu, Red Hat OpenShift (Proprietary features)",
-                "url": "https://kubernetes.io/"
-            },
-            {
-                "id": "podman-biz",
-                "title": "Podman",
-                "description": "Ένα εργαλείο χωρίς κεντρικό διακομιστή (daemonless) για τη διαχείριση containers, pods και εικόνων, συμβατό με το οικοσύστημα του Kubernetes.",
-                "commercial_equivalent": "Docker Desktop (Commercial subscription)",
-                "url": "https://podman.io/"
-            },
+
             {
                 "id": "meshcentral-biz",
                 "title": "MeshCentral",
                 "description": "Μια πλήρης, web-based πλατφόρμα ανοικτού κώδικα για την απομακρυσμένη διαχείριση και υποστήριξη υπολογιστών μέσω διαδικτύου. ",
                 "commercial_equivalent": "TeamViewer, LogMeIn ",
                 "url": "https://wikisuite.org/MeshCentral "
-            },
-            {
-                "id": "zabbix-biz",
-                "title": "Zabbix",
-                "description": "Εργαλείο παρακολούθησης (monitoring) επιπέδου επιχείρησης για δίκτυα, διακομιστές, εφαρμογές και υπηρεσίες cloud.",
-                "commercial_equivalent": "SolarWinds, Datadog",
-                "url": "https://www.zabbix.com/"
-            },
-            {
-                "id": "checkmk-biz",
-                "title": "Checkmk",
-                "description": "Ολοκληρωμένο σύστημα παρακολούθησης υποδομών πληροφορικής και περιβαλλόντων cloud.",
-                "commercial_equivalent": "Nagios XI (Commercial)",
-                "url": "https://checkmk.com/"
             },
             {
                 "id": "windmill-biz",
@@ -999,11 +979,25 @@
                 "url": "https://www.windmill.dev/"
             },
             {
+                "id": "zabbix-biz",
+                "title": "Zabbix",
+                "description": "Εργαλείο παρακολούθησης (monitoring) επιπέδου επιχείρησης για δίκτυα, διακομιστές, εφαρμογές και υπηρεσίες cloud.",
+                "commercial_equivalent": "SolarWinds, Datadog",
+                "url": "https://www.zabbix.com/"
+            },
+            {
                 "id": "uptime-kuma-biz",
                 "title": "Uptime Kuma",
                 "description": "Ένα εύχρηστο εργαλείο παρακολούθησης χρόνου λειτουργίας (uptime) που υποστηρίζει διάφορα πρωτόκολλα και στέλνει ειδοποιήσεις σε περίπτωση δυσλειτουργίας.",
                 "commercial_equivalent": "UptimeRobot",
                 "url": "https://uptimekuma.org/"
+            },
+            {
+                "id": "checkmk-biz",
+                "title": "Checkmk",
+                "description": "Ολοκληρωμένο σύστημα παρακολούθησης υποδομών πληροφορικής και περιβαλλόντων cloud.",
+                "commercial_equivalent": "Nagios XI (Commercial)",
+                "url": "https://checkmk.com/"
             },
             {
                 "id": "openitcockpit-biz",

@@ -131,6 +131,13 @@
                 "url": "https://nextcloud.com/"
             },
             {
+                "id": "opencloud-daily",
+                "title": "OpenCloud",
+                "description": "Λύση διαμοιρασμού αρχείων και συνεργασίας που προσφέρει έξυπνη διαχείριση αρχείων βασισμένη σε τεχνολογίες ανοικτού κώδικα.",
+                "commercial_equivalent": "Google Workspace, Dropbox Business",
+                "url": "https://opencloud.eu/en"
+            },
+            {
                 "id": "linkding-daily",
                 "title": "Linkding",
                 "description": "Ένας μινιμαλιστικός διαχειριστής σελιδοδεικτών που δίνει έμφαση στην απλότητα και την ταχύτητα.",
