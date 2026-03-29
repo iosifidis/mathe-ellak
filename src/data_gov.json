@@ -45,6 +45,13 @@
                 "description": "Πλατφόρμα για τη συλλογή και οργάνωση προτάσεων και ανατροφοδότησης από τους χρήστες/πολίτες.",
                 "commercial_equivalent": "UserVoice",
                 "url": "https://fider.io/"
+            },
+            {
+                "id": "typebot-gov",
+                "title": "Typebot",
+                "description": "Διαδραστικά ψηφιακά έντυπα σε μορφή συνομιλίας (chat), που διευκολύνουν τους πολίτες στην υποβολή αιτημάτων και την πλοήγηση στις δημόσιες ψηφιακές υπηρεσίες.",
+                "commercial_equivalent": "Custom Interactive Voice/Chat Response Systems",
+                "url": "https://typebot.io/"
             }
         ]
     },
@@ -74,7 +81,6 @@
                 "commercial_equivalent": "Custom Analytics Solutions",
                 "url": "https://plausible.io/"
             },
-
             {
                 "id": "openfisca-gov",
                 "title": "OpenFisca",
@@ -326,6 +332,13 @@
                 "description": "Γρήγορο και ασφαλές πρόγραμμα αντιγράφων ασφαλείας που υποστηρίζει πολλούς παρόχους αποθήκευσης και κρυπτογράφηση.",
                 "commercial_equivalent": "Acronis",
                 "url": "https://restic.net/"
+            },
+            {
+                "id": "apache-guacamole-gov",
+                "title": "Apache Guacamole",
+                "description": "Κεντρική πύλη πρόσβασης για την απομακρυσμένη διαχείριση κυβερνητικών υπολογιστών μέσω web, εξαλείφοντας την ανάγκη για εξειδικευμένο λογισμικό στους σταθμούς εργασίας των υπαλλήλων.",
+                "commercial_equivalent": "Secure Remote Access Solutions",
+                "url": "https://guacamole.apache.org/"
             }
         ]
     },

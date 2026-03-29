@@ -703,7 +703,21 @@
                 "description": "Εφαρμογή για τη δημιουργία και διαχείριση δυναμικών κωδικών QR που μπορούν να τροποποιηθούν μετά την εκτύπωση.",
                 "commercial_equivalent": "QR Code Generator (Paid)",
                 "url": "https://github.com/giandonatoinverso/PHP-Dynamic-Qr-code"
-            }
+            },
+            {
+    "id": "formbricks-biz",
+    "title": "Formbricks",
+    "description": "Μια ισχυρή open-source πλατφόρμα για τη δημιουργία ερευνών εντός της εφαρμογής (in-app surveys), επιτρέποντας στις επιχειρήσεις να συλλέγουν ανατροφοδότηση από τους χρήστες τους την κατάλληλη στιγμή.",
+    "commercial_equivalent": "Qualtrics, Typeform (Enterprise features)",
+    "url": "https://formbricks.com/"
+},
+{
+    "id": "typebot-biz",
+    "title": "Typebot",
+    "description": "Ένα εργαλείο δημιουργίας οπτικών chatbots που επιτρέπει την κατασκευή σύνθετων ροών συνομιλίας με drag-and-drop, ιδανικό για τη συλλογή leads και την εξυπηρέτηση πελατών.",
+    "commercial_equivalent": "Landbot, Typeform",
+    "url": "https://typebot.io/"
+}
         ]
     },
     {
@@ -999,6 +1013,20 @@
                 "commercial_equivalent": "TeamViewer, LogMeIn ",
                 "url": "https://wikisuite.org/MeshCentral "
             },
+            {
+    "id": "apache-guacamole-biz",
+    "title": "Apache Guacamole",
+    "description": "Μια πύλη απομακρυσμένης επιφάνειας εργασίας (remote desktop gateway) χωρίς την ανάγκη εγκατάστασης πελάτη (clientless), που υποστηρίζει πρότυπα όπως VNC, RDP και SSH μέσω ενός απλού προγράμματος περιήγησης.",
+    "commercial_equivalent": "Microsoft Remote Desktop Gateway, Citrix Gateway",
+    "url": "https://guacamole.apache.org/"
+},
+{
+    "id": "freerdp-biz",
+    "title": "FreeRDP",
+    "description": "Μια ελεύθερη υλοποίηση του πρωτοκόλλου Remote Desktop Protocol (RDP), που επιτρέπει την απρόσκοπτη απομακρυσμένη σύνδεση σε περιβάλλοντα Windows από διάφορα λειτουργικά συστήματα.",
+    "commercial_equivalent": "Microsoft Remote Desktop Client",
+    "url": "https://www.freerdp.com/"
+},
             {
                 "id": "windmill-biz",
                 "title": "Windmill",

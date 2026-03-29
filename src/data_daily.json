@@ -171,6 +171,13 @@
                 "description": "Μια πλατφόρμα εργασίας που συνδυάζει σημειώσεις, έγγραφα και λευκοπίνακες σε ένα ενιαίο περιβάλλον δημιουργικότητας.",
                 "commercial_equivalent": "Notion, Miro",
                 "url": "https://affine.pro/"
+            },
+            {
+                "id": "mysigmail-daily",
+                "title": "MySigMail",
+                "description": "Ένας δωρεάν και open-source επεξεργαστής για τη δημιουργία επαγγελματικών υπογραφών email (signatures), με δυνατότητα προεπισκόπησης και εύκολης εξαγωγής.",
+                "commercial_equivalent": "HubSpot Signature Generator, WiseStamp",
+                "url": "https://github.com/antonreshetov/mysigmail"
             }
         ]
     },
