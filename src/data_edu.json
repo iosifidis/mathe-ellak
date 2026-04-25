@@ -1,22 +1,36 @@
 [
     {
-        "id": "school-basics",
-        "title": "Σχολική Εκπαίδευση",
-        "description": "Βασικά εργαλεία για μαθητές και δασκάλους πρωτοβάθμιας και δευτεροβάθμιας εκπαίδευσης.",
+        "id": "edu-primary-games",
+        "title": "Παιχνίδια & Δημιουργικότητα για Παιδιά",
+        "description": "Εκπαιδευτικά παιχνίδια και εργαλεία ζωγραφικής για μαθητές δημοτικού.",
         "subcategories": [
             {
-                "id": "gcompris",
+                "id": "gcompris-edu",
                 "title": "GCompris",
                 "description": "Εκπαιδευτικά παιχνίδια για παιδιά 2-10 ετών.",
                 "commercial_equivalent": "ABCmouse, Khan Academy Kids",
                 "url": "https://gcompris.net"
             },
             {
-                "id": "tuxpaint",
+                "id": "tuxpaint-edu",
                 "title": "Tux Paint",
                 "description": "Πρόγραμμα ζωγραφικής και επεξεργασίας εικόνας για παιδιά δημοτικού.",
                 "commercial_equivalent": "Kid Pix",
                 "url": "http://www.tuxpaint.org/"
+            }
+        ]
+    },
+    {
+        "id": "edu-programming-blocks",
+        "title": "Εκμάθηση Προγραμματισμού (Block-based)",
+        "description": "Οπτικές γλώσσες προγραμματισμού για αρχάριους.",
+        "subcategories": [
+            {
+                "id": "scratch-edu",
+                "title": "Scratch",
+                "description": "Εκμάθηση προγραμματισμού μέσω οπτικών μπλοκ (block-based).",
+                "commercial_equivalent": "Code.org",
+                "url": "https://scratch.mit.edu"
             },
             {
                 "id": "edublocks-edu",
@@ -26,14 +40,21 @@
                 "url": "https://edublocks.org/"
             },
             {
-                "id": "scratch",
-                "title": "Scratch",
-                "description": "Εκμάθηση προγραμματισμού μέσω οπτικών μπλοκ (block-based).",
-                "commercial_equivalent": "Code.org",
-                "url": "https://scratch.mit.edu"
-            },
+                "id": "app-inventor-edu",
+                "title": "App Inventor",
+                "description": "Οπτικό περιβάλλον για την ανάπτυξη εφαρμογών για κινητά τηλέφωνα.",
+                "commercial_equivalent": "Thunkable",
+                "url": "https://appinventor.mit.edu/"
+            }
+        ]
+    },
+    {
+        "id": "edu-interactive-whiteboard",
+        "title": "Διαδραστικοί Πίνακες & Δημιουργία Υλικού",
+        "description": "Εργαλεία για δασκάλους και δημιουργία διαδραστικών ασκήσεων.",
+        "subcategories": [
             {
-                "id": "openboard",
+                "id": "openboard-edu",
                 "title": "OpenBoard",
                 "description": "Διαδραστικός πίνακας για μαθήματα και παρουσιάσεις.",
                 "commercial_equivalent": "SMART Notebook",
@@ -47,6 +68,27 @@
                 "url": "https://h5p.org"
             },
             {
+                "id": "hotpotatoes-edu",
+                "title": "Hot Potatoes",
+                "description": "Δημιουργία διαδραστικών ασκήσεων και εκπαιδευτικών δραστηριοτήτων.",
+                "commercial_equivalent": "Quizlet (Premium)",
+                "url": "https://hotpot.uvic.ca/"
+            },
+            {
+                "id": "claper-edu",
+                "title": "Claper",
+                "description": "Εργαλείο για τη δημιουργία διαδραστικών παρουσιάσεων μέσα στην τάξη, ενισχύοντας τη συμμετοχή των μαθητών.",
+                "commercial_equivalent": "Kahoot! (Presentation mode)",
+                "url": "https://claper.co/"
+            }
+        ]
+    },
+    {
+        "id": "edu-offline-content",
+        "title": "Περιεχόμενο Χωρίς Σύνδεση (Offline)",
+        "description": "Βιβλιοθήκες και εγκυκλοπαίδειες για χρήση χωρίς internet.",
+        "subcategories": [
+            {
                 "id": "kiwix-edu",
                 "title": "Kiwix",
                 "description": "Βιβλιοθήκη ψηφιακού περιεχομένου για χρήση χωρίς σύνδεση στο διαδίκτυο (offline).",
@@ -56,26 +98,26 @@
         ]
     },
     {
-        "id": "stem-science",
-        "title": "STEM & Επιστήμες",
-        "description": "Λογισμικό για θετικές επιστήμες, μαθηματικά και διαδραστικές προσομοιώσεις.",
+        "id": "edu-math-science",
+        "title": "Μαθηματικά & Θετικές Επιστήμες",
+        "description": "Εργαλεία γεωμετρίας, προσομοιώσεις φυσικής/χημείας και αστρονομίας.",
         "subcategories": [
             {
-                "id": "geogebra",
+                "id": "geogebra-edu",
                 "title": "GeoGebra",
                 "description": "Εργαλείο μαθηματικών, γεωμετρίας και άλγεβρας.",
                 "commercial_equivalent": "Geometer's Sketchpad",
                 "url": "https://www.geogebra.org"
             },
             {
-                "id": "phet",
+                "id": "phet-edu",
                 "title": "PhET Simulations",
                 "description": "Διαδραστικές προσομοιώσεις φυσικής, χημείας και θετικών επιστημών.",
                 "commercial_equivalent": "Labster",
                 "url": "https://phet.colorado.edu"
             },
             {
-                "id": "stellarium",
+                "id": "stellarium-edu",
                 "title": "Stellarium",
                 "description": "Προσομοίωση αστρονομίας για τη μελέτη και οπτικοποίηση ουράνιων σωμάτων.",
                 "commercial_equivalent": "Starry Night",
@@ -87,7 +129,14 @@
                 "description": "Εξομοιωτής αστρονομίας για τρισδιάστατη εξερεύνηση του διαστήματος.",
                 "commercial_equivalent": "Starry Night",
                 "url": "https://celestiaproject.space/"
-            },
+            }
+        ]
+    },
+    {
+        "id": "edu-higher-math",
+        "title": "Ανώτερα Μαθηματικά & Υπολογιστικά Συστήματα",
+        "description": "Εργαλεία για αριθμητικούς υπολογισμούς, άλγεβρα και προσομοιώσεις.",
+        "subcategories": [
             {
                 "id": "sage-edu",
                 "title": "SageMath",
@@ -103,21 +152,56 @@
                 "url": "https://www.scilab.org/"
             },
             {
-                "id": "hot-potatoes",
-                "title": "Hot Potatoes",
-                "description": "Δημιουργία διαδραστικών ασκήσεων και εκπαιδευτικών δραστηριοτήτων.",
-                "commercial_equivalent": "Quizlet (Premium)",
-                "url": "https://hotpot.uvic.ca/"
+                "id": "octave-edu",
+                "title": "GNU Octave",
+                "description": "Μαθηματικές εφαρμογές, ανάλυση και οπτικοποίηση δεδομένων.",
+                "commercial_equivalent": "MATLAB",
+                "url": "https://www.gnu.org/software/octave/"
             }
         ]
     },
     {
-        "id": "higher-edu-research",
-        "title": "Ανώτατη Εκπαίδευση & Έρευνα",
-        "description": "Εξειδικευμένα λογισμικά για πανεπιστημιακά τμήματα, στατιστική ανάλυση και διαχείριση μάθησης.",
+        "id": "edu-statistics-research",
+        "title": "Στατιστική & Ανάλυση Δεδομένων",
+        "description": "Εργαλεία στατιστικής ανάλυσης για έρευνα και πανεπιστήμια.",
         "subcategories": [
             {
-                "id": "moodle",
+                "id": "r-project-edu",
+                "title": "R Project",
+                "description": "Η κοινή γλώσσα των επιστημόνων για εφαρμοσμένη στατιστική και ανάλυση δεδομένων.",
+                "commercial_equivalent": "SPSS, SAS, MPlus",
+                "url": "https://www.r-project.org"
+            },
+            {
+                "id": "jamovi-edu",
+                "title": "Jamovi",
+                "description": "Σύγχρονο περιβάλλον χρήστη για στατιστική ανάλυση βασισμένο στην R.",
+                "commercial_equivalent": "SPSS",
+                "url": "https://www.jamovi.org"
+            },
+            {
+                "id": "jasp-edu",
+                "title": "JASP",
+                "description": "Σύγχρονο περιβάλλον χρήστη για στατιστική ανάλυση βασισμένο στην R.",
+                "commercial_equivalent": "SPSS",
+                "url": "https://jasp-stats.org/"
+            },
+            {
+                "id": "pspp-edu",
+                "title": "GNU PSPP",
+                "description": "Εφαρμογή για τη στατιστική ανάλυση δειγματοληπτικών δεδομένων.",
+                "commercial_equivalent": "SPSS",
+                "url": "https://www.gnu.org/software/pspp/"
+            }
+        ]
+    },
+    {
+        "id": "edu-lms",
+        "title": "Πλατφόρμες Διαχείρισης Μάθησης (LMS)",
+        "description": "Συστήματα για ηλεκτρονική μάθηση και διαχείριση μαθήματος.",
+        "subcategories": [
+            {
+                "id": "moodle-edu",
                 "title": "Moodle",
                 "description": "Πλατφόρμα διαχείρισης μαθησιακών διαδικασιών (LMS) και εκπαιδευτικού περιεχομένου.",
                 "commercial_equivalent": "Blackboard, Canvas",
@@ -131,20 +215,6 @@
                 "url": "https://chamilo.org/en/"
             },
             {
-                "id": "dhis2-edu",
-                "title": "DHIS2",
-                "description": "Η μεγαλύτερη πλατφόρμα πληροφοριών υγείας στον κόσμο, που χρησιμοποιείται από υπουργεία υγείας και διεθνείς οργανισμούς σε πολλές χώρες.",
-                "commercial_equivalent": "Proprietary Health Data Platforms",
-                "url": "https://dhis2.org/"
-            },
-            {
-                "id": "mermaid-edu",
-                "title": "Mermaid",
-                "description": "Εργαλείο δημιουργίας διαγραμμάτων και οπτικοποίησης μέσω κώδικα (Markdown), ιδανικό για ακαδημαϊκή τεκμηρίωση.",
-                "commercial_equivalent": "Microsoft Visio",
-                "url": "https://github.com/mermaid-js"
-            },
-            {
                 "id": "eclass-edu",
                 "title": "Open eClass",
                 "description": "Ελληνικό σύστημα διαχείρισης εκπαιδευτικού περιεχομένου.",
@@ -152,144 +222,18 @@
                 "url": "https://www.openeclass.org/"
             },
             {
-                "id": "r-project",
-                "title": "R Project",
-                "description": "Η κοινή γλώσσα των επιστημόνων για εφαρμοσμένη στατιστική και ανάλυση δεδομένων.",
-                "commercial_equivalent": "SPSS, SAS, MPlus",
-                "url": "https://www.r-project.org"
-            },
-            {
-                "id": "jamovi-jasp",
-                "title": "Jamovi / JASP",
-                "description": "Σύγχρονα περιβάλλοντα χρήστη για στατιστική ανάλυση βασισμένα στην R.",
-                "commercial_equivalent": "SPSS",
-                "url": "https://www.jamovi.org"
-            },
-            {
-                "id": "pspp-edu",
-                "title": "GNU PSPP",
-                "description": "Εφαρμογή για τη στατιστική ανάλυση δειγματοληπτικών δεδομένων.",
-                "commercial_equivalent": "SPSS",
-                "url": "https://www.gnu.org/software/pspp/"
-            },
-            {
                 "id": "efront-edu",
                 "title": "eFront",
                 "description": "Μια σύγχρονη πλατφόρμα διαχείρισης μάθησης (LMS) που εστιάζει στην ευχρηστία και την αποτελεσματική οργάνωση εκπαιδευτικού περιεχομένου.",
                 "commercial_equivalent": "Blackboard",
                 "url": "https://www.efrontlearning.com/"
-            },
-            {
-                "id": "archimedes-edu",
-                "title": "Archimedes",
-                "description": "Ένα ανοικτού κώδικα σύστημα CAD (Computer-Aided Design) ειδικά σχεδιασμένο για αρχιτεκτονική σχεδίαση.",
-                "commercial_equivalent": "AutoCAD",
-                "url": "https://www.codeplex.com/archimedes"
-            },
-            {
-                "id": "octave",
-                "title": "GNU Octave",
-                "description": "Μαθηματικές εφαρμογές, ανάλυση και οπτικοποίηση δεδομένων.",
-                "commercial_equivalent": "MATLAB",
-                "url": "https://www.gnu.org/software/octave/"
-            },
-            {
-                "id": "ojs-edu",
-                "title": "OJS (Open Journal Systems)",
-                "description": "Πλατφόρμα για τη διαχείριση και δημοσίευση επιστημονικών περιοδικών.",
-                "commercial_equivalent": "Microsoft CMT",
-                "url": "https://pkp.sfu.ca/ojs/"
-            },
-            {
-                "id": "claper-edu",
-                "title": "Claper",
-                "description": "Εργαλείο για τη δημιουργία διαδραστικών παρουσιάσεων μέσα στην τάξη, ενισχύοντας τη συμμετοχή των μαθητών.",
-                "commercial_equivalent": "Kahoot! (Presentation mode)",
-                "url": "https://claper.co/"
             }
         ]
     },
     {
-        "id": "gis-mapping",
-        "title": "Γεωχωρικά Δεδομένα (GIS)",
-        "description": "Εργαλεία για τη διαχείριση, ανάλυση και χαρτογράφηση γεωχωρικών πληροφοριών.",
-        "subcategories": [
-            {
-                "id": "qgis",
-                "title": "QGIS",
-                "description": "Το πιο διαδεδομένο σύστημα γεωγραφικών πληροφοριών ανοικτού κώδικα.",
-                "commercial_equivalent": "ArcGIS",
-                "url": "https://www.qgis.org"
-            },
-            {
-                "id": "grass-gis",
-                "title": "GRASS GIS",
-                "description": "Λογισμικό για διαχείριση και ανάλυση γεωχωρικών δεδομένων.",
-                "commercial_equivalent": "ArcInfo",
-                "url": "https://grass.osgeo.org/"
-            }
-        ]
-    },
-    {
-        "id": "dev-apps-edu",
-        "title": "Ανάπτυξη Εφαρμογών & IT",
-        "description": "Περιβάλλοντα ανάπτυξης κώδικα και εργαλεία παρακολούθησης συστημάτων.",
-        "subcategories": [
-            {
-                "id": "netbeans-edu",
-                "title": "NetBeans",
-                "description": "Περιβάλλον ανάπτυξης εφαρμογών, κυρίως για τη γλώσσα Java.",
-                "commercial_equivalent": "IntelliJ IDEA (Commercial)",
-                "url": "https://netbeans.apache.org/"
-            },
-            {
-                "id": "eclipse-edu",
-                "title": "Eclipse",
-                "description": "Ένα από τα πιο δημοφιλή και ισχυρά IDE παγκοσμίως, με τεράστιο οικοσύστημα από plugins για Java και πολλές άλλες γλώσσες προγραμματισμού.",
-                "commercial_equivalent": "Microsoft Visual Studio",
-                "url": "https://www.eclipse.org/"
-            },
-            {
-                "id": "geany-edu",
-                "title": "Geany",
-                "description": "Ένας εξαιρετικά γρήγορος και ελαφρύς επεξεργαστής κειμένου με βασικές δυνατότητες IDE, ιδανικός για γρήγορες αλλαγές σε κώδικα.",
-                "commercial_equivalent": "Microsoft Visual Studio, Sublime Text",
-                "url": "https://www.geany.org/"
-            },
-            {
-                "id": "codeblocks-edu",
-                "title": "Code::Blocks",
-                "description": "Ένα εξαιρετικά παραμετροποιήσιμο και επεκτάσιμο περιβάλλον ανάπτυξης (IDE) για C, C++ και Fortran, ιδανικό για απαιτητικά business projects.",
-                "commercial_equivalent": "Microsoft Visual Studio",
-                "url": "https://www.codeblocks.org/"
-            },
-            {
-                "id": "dev-cpp-edu",
-                "title": "Dev-C++",
-                "description": "Ένα ελαφρύ και αποδοτικό IDE για προγραμματισμό σε C/C++, κατάλληλο για γρήγορη ανάπτυξη εφαρμογών σε περιβάλλον Windows.",
-                "commercial_equivalent": "Microsoft Visual Studio",
-                "url": "https://dev-cpp.com/Dev-Cpp-5/"
-            },
-            {
-                "id": "app-inventor",
-                "title": "App Inventor",
-                "description": "Οπτικό περιβάλλον για την ανάπτυξη εφαρμογών για κινητά τηλέφωνα.",
-                "commercial_equivalent": "Thunkable",
-                "url": "https://appinventor.mit.edu/"
-            },
-            {
-                "id": "penpot-edu",
-                "title": "Penpot",
-                "description": "Πλατφόρμα σχεδιασμού και πρωτοτυποποίησης (design & prototyping) που επιτρέπει την άψογη συνεργασία μεταξύ σχεδιαστών και προγραμματιστών.",
-                "commercial_equivalent": "Figma",
-                "url": "https://penpot.app/"
-            }
-        ]
-    },
-    {
-        "id": "documentation-wiki",
-        "title": "Βιβλιογραφία & Τεκμηρίωση",
-        "description": "Εργαλεία για τη δόμηση της οργανωσιακής γνώσης και τη διαχείριση παραπομπών.",
+        "id": "edu-research-publishing",
+        "title": "Ακαδημαϊκές Δημοσιεύσεις & Βιβλιογραφία",
+        "description": "Εργαλεία διαχείρισης βιβλιογραφίας, δημοσίευσης περιοδικών και τεκμηρίωσης.",
         "subcategories": [
             {
                 "id": "zotero-edu",
@@ -299,25 +243,39 @@
                 "url": "https://www.zotero.org"
             },
             {
-                "id": "mediawiki",
+                "id": "jabref-edu",
+                "title": "JabRef",
+                "description": "Εξειδικευμένος διαχειριστής βιβλιογραφίας που χρησιμοποιεί το format BibTeX.",
+                "commercial_equivalent": "EndNote",
+                "url": "https://www.jabref.org/"
+            },
+            {
+                "id": "ojs-edu",
+                "title": "OJS (Open Journal Systems)",
+                "description": "Πλατφόρμα για τη διαχείριση και δημοσίευση επιστημονικών περιοδικών.",
+                "commercial_equivalent": "ScholarOne, Editorial Manager",
+                "url": "https://pkp.sfu.ca/ojs/"
+            },
+            {
+                "id": "mediawiki-edu",
                 "title": "MediaWiki",
                 "description": "Η πλατφόρμα που τρέχει τη Wikipedia, ιδανική για τη δημιουργία γνωσιακών βάσεων.",
                 "commercial_equivalent": "Confluence",
                 "url": "https://www.mediawiki.org"
             },
             {
-                "id": "docusaurus-sphinx",
-                "title": "Docusaurus / Sphinx",
-                "description": "Εργαλεία για τη δόμηση και πλοήγηση σε σύνθετες δομές περιεχομένων και τεκμηρίωση.",
+                "id": "docusaurus-edu",
+                "title": "Docusaurus",
+                "description": "Εργαλείο για τη δόμηση και πλοήγηση σε σύνθετες δομές περιεχομένων και τεκμηρίωση.",
                 "commercial_equivalent": "GitBook",
                 "url": "https://docusaurus.io/"
             },
             {
-                "id": "jabref-edu",
-                "title": "JabRef",
-                "description": "Εξειδικευμένος διαχειριστής βιβλιογραφίας που χρησιμοποιεί το format BibTeX.",
-                "commercial_equivalent": "EndNote",
-                "url": "https://www.jabref.org/"
+                "id": "sphinx-edu",
+                "title": "Sphinx",
+                "description": "Εργαλείο για τη δόμηση και πλοήγηση σε σύνθετες δομές περιεχομένων και τεκμηρίωση.",
+                "commercial_equivalent": "GitBook",
+                "url": "https://www.sphinx-doc.org/"
             },
             {
                 "id": "wiki-go-edu",
@@ -329,12 +287,110 @@
         ]
     },
     {
-        "id": "advanced-engineering-arts",
-        "title": "Τέχνες & Μηχανική",
-        "description": "Επαγγελματικά εργαλεία για σχεδιασμό, μουσική και 3D μοντελοποίηση.",
+        "id": "edu-gis",
+        "title": "Γεωχωρικά Δεδομένα (GIS)",
+        "description": "Εργαλεία για τη διαχείριση, ανάλυση και χαρτογράφηση γεωχωρικών πληροφοριών.",
         "subcategories": [
             {
-                "id": "musescore",
+                "id": "qgis-edu",
+                "title": "QGIS",
+                "description": "Το πιο διαδεδομένο σύστημα γεωγραφικών πληροφοριών ανοικτού κώδικα.",
+                "commercial_equivalent": "ArcGIS",
+                "url": "https://www.qgis.org"
+            },
+            {
+                "id": "grass-gis-edu",
+                "title": "GRASS GIS",
+                "description": "Λογισμικό για διαχείριση και ανάλυση γεωχωρικών δεδομένων.",
+                "commercial_equivalent": "ArcInfo",
+                "url": "https://grass.osgeo.org/"
+            }
+        ]
+    },
+    {
+        "id": "edu-ide-dev",
+        "title": "Περιβάλλοντα Ανάπτυξης (IDE) & IT",
+        "description": "Εργαλεία προγραμματισμού για σχολές πληροφορικής και ανάπτυξη εφαρμογών.",
+        "subcategories": [
+            {
+                "id": "eclipse-edu",
+                "title": "Eclipse",
+                "description": "Ένα από τα πιο δημοφιλή και ισχυρά IDE παγκοσμίως, με τεράστιο οικοσύστημα από plugins για Java και πολλές άλλες γλώσσες προγραμματισμού.",
+                "commercial_equivalent": "Microsoft Visual Studio",
+                "url": "https://www.eclipse.org/"
+            },
+            {
+                "id": "netbeans-edu",
+                "title": "NetBeans",
+                "description": "Περιβάλλον ανάπτυξης εφαρμογών, κυρίως για τη γλώσσα Java.",
+                "commercial_equivalent": "IntelliJ IDEA (Commercial)",
+                "url": "https://netbeans.apache.org/"
+            },
+            {
+                "id": "geany-edu",
+                "title": "Geany",
+                "description": "Ένας εξαιρετικά γρήγορος και ελαφρύς επεξεργαστής κειμένου με βασικές δυνατότητες IDE, ιδανικός για γρήγορες αλλαγές σε κώδικα.",
+                "commercial_equivalent": "Sublime Text",
+                "url": "https://www.geany.org/"
+            },
+            {
+                "id": "codeblocks-edu",
+                "title": "Code::Blocks",
+                "description": "Ένα εξαιρετικά παραμετροποιήσιμο και επεκτάσιμο περιβάλλον ανάπτυξης (IDE) για C, C++ και Fortran.",
+                "commercial_equivalent": "Microsoft Visual Studio",
+                "url": "https://www.codeblocks.org/"
+            },
+            {
+                "id": "dev-cpp-edu",
+                "title": "Dev-C++",
+                "description": "Ένα ελαφρύ και αποδοτικό IDE για προγραμματισμό σε C/C++.",
+                "commercial_equivalent": "Microsoft Visual Studio",
+                "url": "https://dev-cpp.com/Dev-Cpp-5/"
+            },
+            {
+                "id": "penpot-edu",
+                "title": "Penpot",
+                "description": "Πλατφόρμα σχεδιασμού και πρωτοτυποποίησης (design & prototyping) που επιτρέπει την άψογη συνεργασία μεταξύ σχεδιαστών και προγραμματιστών.",
+                "commercial_equivalent": "Figma",
+                "url": "https://penpot.app/"
+            },
+            {
+                "id": "mermaid-edu",
+                "title": "Mermaid",
+                "description": "Εργαλείο δημιουργίας διαγραμμάτων και οπτικοποίησης μέσω κώδικα (Markdown), ιδανικό για ακαδημαϊκή τεκμηρίωση.",
+                "commercial_equivalent": "Microsoft Visio",
+                "url": "https://github.com/mermaid-js"
+            }
+        ]
+    },
+    {
+        "id": "edu-engineering-arts",
+        "title": "Τέχνες, Μηχανική & 3D",
+        "description": "Επαγγελματικά εργαλεία για σχεδιασμό, μουσική, 3D μοντελοποίηση και CAD.",
+        "subcategories": [
+            {
+                "id": "blender-edu",
+                "title": "Blender",
+                "description": "3D μοντελοποίηση, animation, rendering και compositing.",
+                "commercial_equivalent": "3ds Max, Maya",
+                "url": "https://www.blender.org"
+            },
+            {
+                "id": "freecad-edu",
+                "title": "FreeCAD",
+                "description": "3D CAD εργαλείο για αρχιτεκτονική και μηχανολογικό σχεδιασμό.",
+                "commercial_equivalent": "AutoCAD, SolidWorks",
+                "url": "https://www.freecad.org"
+            },
+            {
+                "id": "archimedes-edu",
+                "title": "Archimedes",
+                "description": "Ένα ανοικτού κώδικα σύστημα CAD (Computer-Aided Design) ειδικά σχεδιασμένο για αρχιτεκτονική σχεδίαση.",
+                "commercial_equivalent": "AutoCAD",
+                "url": "https://www.codeplex.com/archimedes"
+            },
+            {
+                "id": "musescore-edu",
                 "title": "MuseScore",
                 "description": "Λογισμικό για μουσική σύνθεση και σημειογραφία.",
                 "commercial_equivalent": "Sibelius, Finale",
@@ -355,21 +411,7 @@
                 "url": "https://www.tuxguitar.app/"
             },
             {
-                "id": "freecad",
-                "title": "FreeCAD",
-                "description": "3D CAD εργαλείο για αρχιτεκτονική και μηχανολογικό σχεδιασμό.",
-                "commercial_equivalent": "AutoCAD, SolidWorks",
-                "url": "https://www.freecad.org"
-            },
-            {
-                "id": "blender",
-                "title": "Blender",
-                "description": "3D μοντελοποίηση, animation, rendering και compositing.",
-                "commercial_equivalent": "3ds Max, Maya",
-                "url": "https://www.blender.org"
-            },
-            {
-                "id": "audacity",
+                "id": "audacity-edu",
                 "title": "Audacity",
                 "description": "Επαγγελματική εγγραφή και επεξεργασία ήχου.",
                 "commercial_equivalent": "Adobe Audition",

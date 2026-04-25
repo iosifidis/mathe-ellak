@@ -1,498 +1,421 @@
 [
     {
-        "id": "egov-participation",
-        "title": "Συμμετοχική Διακυβέρνηση",
-        "description": "Λογισμικό που προάγει τη διαφάνεια και επιτρέπει στους πολίτες να συμμετέχουν ενεργά στη λήψη αποφάσεων.",
+        "id": "edu-primary-games",
+        "title": "Παιχνίδια & Δημιουργικότητα για Παιδιά",
+        "description": "Εκπαιδευτικά παιχνίδια και εργαλεία ζωγραφικής για μαθητές δημοτικού.",
         "subcategories": [
             {
-                "id": "decidim-gov",
-                "title": "Decidim",
-                "description": "Πλατφόρμα συμμετοχικής δημοκρατίας για ψηφοφορίες, τοποθετήσεις πολιτών και κατάρτιση συμμετοχικού προϋπολογισμού.",
-                "commercial_equivalent": "Κλειστά συστήματα διαβούλευσης",
-                "url": "https://decidim.org/"
+                "id": "gcompris-edu",
+                "title": "GCompris",
+                "description": "Εκπαιδευτικά παιχνίδια για παιδιά 2-10 ετών.",
+                "commercial_equivalent": "ABCmouse, Khan Academy Kids",
+                "url": "https://gcompris.net"
             },
             {
-                "id": "consul-gov",
-                "title": "Consul Democracy",
-                "description": "Πρωτοποριακή λύση ανοιχτού λογισμικού για τη συμμετοχή των πολιτών στη λήψη αποφάσεων, σε χρήση από μεγάλες πόλεις παγκοσμίως.",
-                "commercial_equivalent": "CitizenLab (Proprietary)",
-                "url": "https://consuldemocracy.org/"
-            },
-            {
-                "id": "globaleaks-gov",
-                "title": "GlobaLeaks",
-                "description": "Πλατφόρμα για την ασφαλή και ανώνυμη υποβολή καταγγελιών, διασφαλίζοντας την προστασία των πληροφοριοδοτών.",
-                "commercial_equivalent": "Gotcha (Proprietary)",
-                "url": "https://www.globaleaks.org/"
-            },
-            {
-                "id": "mastodon-gov",
-                "title": "Mastodon",
-                "description": "Αποκεντρωμένη πλατφόρμα ενημέρωσης και επικοινωνίας που επιτρέπει σε δημόσιους φορείς να διατηρούν τη δική τους παρουσία στα μέσα κοινωνικής δικτύωσης με απόλυτη κυριότητα των δεδομένων.",
-                "commercial_equivalent": "X (Twitter)",
-                "url": "https://joinmastodon.org"
-            },
-            {
-                "id": "securedrop-gov",
-                "title": "SecureDrop",
-                "description": "Σύστημα υποβολής ανώνυμων πληροφοριών με υψηλά επίπεδα ασφάλειας για ευαίσθητα δεδομένα.",
-                "commercial_equivalent": "Ιδιωτικά συστήματα καταγγελιών",
-                "url": "https://securedrop.org/"
-            },
-            {
-                "id": "fider-gov",
-                "title": "Fider",
-                "description": "Πλατφόρμα για τη συλλογή και οργάνωση προτάσεων και ανατροφοδότησης από τους χρήστες/πολίτες.",
-                "commercial_equivalent": "UserVoice",
-                "url": "https://fider.io/"
-            },
-            {
-                "id": "typebot-gov",
-                "title": "Typebot",
-                "description": "Διαδραστικά ψηφιακά έντυπα σε μορφή συνομιλίας (chat), που διευκολύνουν τους πολίτες στην υποβολή αιτημάτων και την πλοήγηση στις δημόσιες ψηφιακές υπηρεσίες.",
-                "commercial_equivalent": "Custom Interactive Voice/Chat Response Systems",
-                "url": "https://typebot.io/"
+                "id": "tuxpaint-edu",
+                "title": "Tux Paint",
+                "description": "Πρόγραμμα ζωγραφικής και επεξεργασίας εικόνας για παιδιά δημοτικού.",
+                "commercial_equivalent": "Kid Pix",
+                "url": "http://www.tuxpaint.org/"
             }
         ]
     },
     {
-        "id": "open-data-portals",
-        "title": "Ανοιχτά Δεδομένα",
-        "description": "Εργαλεία για τη δημιουργία πυλών πρόσβασης και διαχείρισης διοικητικών δεδομένων.",
+        "id": "edu-programming-blocks",
+        "title": "Εκμάθηση Προγραμματισμού (Block-based)",
+        "description": "Οπτικές γλώσσες προγραμματισμού για αρχάριους.",
         "subcategories": [
             {
-                "id": "ckan-gov",
-                "title": "CKAN",
-                "description": "Το κορυφαίο σύστημα παγκοσμίως για την αποθήκευση, διανομή και διαχείριση ανοιχτών δεδομένων.",
-                "commercial_equivalent": "Socrata",
-                "url": "https://ckan.org/"
+                "id": "scratch-edu",
+                "title": "Scratch",
+                "description": "Εκμάθηση προγραμματισμού μέσω οπτικών μπλοκ (block-based).",
+                "commercial_equivalent": "Code.org",
+                "url": "https://scratch.mit.edu"
             },
             {
-                "id": "dcan-gov",
-                "title": "DCAN",
-                "description": "Εργαλείο ανοιχτού κώδικα για τη δημιουργία πυλών πρόσβασης σε διοικητικά δεδομένα.",
-                "commercial_equivalent": "Custom Data Portals",
-                "url": "https://getdkan.org/"
+                "id": "edublocks-edu",
+                "title": "EDUBlocks",
+                "description": "Μια γλώσσα προγραμματισμού που βοηθά τους μαθητές να μεταβούν από τα blocks στον κώδικα Python.",
+                "commercial_equivalent": "MakeCode",
+                "url": "https://edublocks.org/"
             },
             {
-                "id": "plausible-gov",
-                "title": "Plausible Analytics",
-                "description": "Εργαλείο ανάλυσης επισκεψιμότητας δημόσιων ιστοτόπων που σέβεται απόλυτα την ιδιωτικότητα των πολιτών χωρίς τη χρήση cookies παρακολούθησης.",
-                "commercial_equivalent": "Custom Analytics Solutions",
-                "url": "https://plausible.io/"
-            },
-            {
-                "id": "openfisca-gov",
-                "title": "OpenFisca",
-                "description": "Πλατφόρμα προσομοίωσης φορολογικής και κοινωνικής πολιτικής για την ανάλυση επιπτώσεων νομοθετικών αλλαγών.",
-                "commercial_equivalent": "Custom Proprietary Simulation Software",
-                "url": "https://openfisca.org/"
+                "id": "app-inventor-edu",
+                "title": "App Inventor",
+                "description": "Οπτικό περιβάλλον για την ανάπτυξη εφαρμογών για κινητά τηλέφωνα.",
+                "commercial_equivalent": "Thunkable",
+                "url": "https://appinventor.mit.edu/"
             }
         ]
     },
     {
-        "id": "gov-infrastructure",
-        "title": "Υποδομές & Διαλειτουργικότητα",
-        "description": "Λύσεις για τη συνεργασία, τη διαχείριση εγγράφων και τις κρίσιμες βάσεις δεδομένων του δημόσιου τομέα.",
+        "id": "edu-interactive-whiteboard",
+        "title": "Διαδραστικοί Πίνακες & Δημιουργία Υλικού",
+        "description": "Εργαλεία για δασκάλους και δημιουργία διαδραστικών ασκήσεων.",
         "subcategories": [
             {
-                "id": "nextcloud-gov",
-                "title": "Nextcloud",
-                "description": "Ολοκληρωμένη πλατφόρμα για φιλοξενία, διαμοιρασμό αρχείων και συνεργατική επεξεργασία εγγράφων.",
-                "commercial_equivalent": "MS Teams, Google Docs",
-                "url": "https://nextcloud.com/"
+                "id": "openboard-edu",
+                "title": "OpenBoard",
+                "description": "Διαδραστικός πίνακας για μαθήματα και παρουσιάσεις.",
+                "commercial_equivalent": "SMART Notebook",
+                "url": "https://openboard.ch"
             },
             {
-                "id": "argos-translate-gov",
-                "title": "Argos Translate",
-                "description": "Ανοικτό σύστημα αυτόματης μετάφρασης βασισμένο σε νευρωνικά δίκτυα για την ενίσχυση της πολυγλωσσίας και της προσβασιμότητας στις δημόσιες ψηφιακές υπηρεσίες.",
-                "commercial_equivalent": "Custom Translation Services",
-                "url": "https://www.argosopentech.com/"
+                "id": "h5p-edu",
+                "title": "H5P",
+                "description": "Δημιουργία διαδραστικού εκπαιδευτικού υλικού για το διαδίκτυο.",
+                "commercial_equivalent": "Articulate Storyline",
+                "url": "https://h5p.org"
             },
             {
-                "id": "libreoffice-gov",
-                "title": "LibreOffice",
-                "description": "Σουίτα εφαρμογών γραφείου που προσφέρει δημοσιονομική υπευθυνότητα με υποπολλαπλάσιο κόστος.",
-                "commercial_equivalent": "Microsoft Office",
-                "url": "https://el.libreoffice.org/"
+                "id": "hotpotatoes-edu",
+                "title": "Hot Potatoes",
+                "description": "Δημιουργία διαδραστικών ασκήσεων και εκπαιδευτικών δραστηριοτήτων.",
+                "commercial_equivalent": "Quizlet (Premium)",
+                "url": "https://hotpot.uvic.ca/"
             },
             {
-                "id": "openfaas-gov",
-                "title": "OpenFaaS",
-                "description": "Πλαίσιο για την εκτέλεση συναρτήσεων ως υπηρεσιών (Serverless), επιτρέποντας στους δημόσιους φορείς να αναπτύσσουν κλιμακούμενες μικροϋπηρεσίες με αποδοτικό τρόπο.",
-                "commercial_equivalent": "AWS Lambda, Heroku",
-                "url": "https://www.openfaas.com/"
-            },
-            {
-                "id": "windmill-gov",
-                "title": "Windmill",
-                "description": "Πλατφόρμα για την αυτοματοποίηση εσωτερικών ροών εργασίας και εργαλείων με ασφάλεια επιπέδου επιχείρησης.",
-                "commercial_equivalent": "Retool",
-                "url": "https://www.windmill.dev/"
-            },
-            {
-                "id": "wordpress-gov",
-                "title": "WordPress",
-                "description": "Σύστημα Διαχείρισης Περιεχομένου (CMS) για την παρουσίαση και ενημέρωση των δημόσιων ιστότοπων.",
-                "commercial_equivalent": "SAP Enterprise Portal",
-                "url": "https://wordpress.org/"
-            },
-            {
-                "id": "winscp-gov",
-                "title": "WinSCP",
-                "description": "Εργαλείο ασφαλούς μεταφοράς δεδομένων (SFTP/SCP) για τη διαχείριση κυβερνητικών διακομιστών και την προστασία των πληροφοριών κατά τη μεταφορά.",
-                "commercial_equivalent": "Secure File Transfer Clients",
-                "url": "https://winscp.net/eng/index.php"
-            },
-            {
-                "id": "keycloak-gov",
-                "title": "Keycloak",
-                "description": "Διαχείριση ταυτότητας και πρόσβασης (SSO) για την ασφαλή ταυτοποίηση στις δημόσιες υπηρεσίες.",
-                "commercial_equivalent": "Okta, Auth0",
-                "url": "https://www.keycloak.org/"
-            },
-            {
-                "id": "gnucomm-gov",
-                "title": "Gnucomm",
-                "description": "Το κεντρικό πρόγραμμα τηλεπικοινωνιών του εγχειρήματος GNU, σχεδιασμένο για την παροχή ελεύθερων τηλεπικοινωνιακών υποδομών.",
-                "commercial_equivalent": "Proprietary Telecom Stacks",
-                "url": "https://www.gnu.org/software/gnucomm/"
-            },
-            {
-                "id": "jami-gov",
-                "title": "Jami",
-                "description": "Κατανεμημένο σύστημα επικοινωνίας χωρίς κεντρικό διακομιστή, ιδανικό για ασφαλείς ενδοκυβερνητικές συνομιλίες με πλήρη κυριαρχία δεδομένων.",
-                "commercial_equivalent": "Secure IP Telephony",
-                "url": "https://www.gnu.org/software/jami/"
-            },
-            {
-                "id": "rocket-chat-gov",
-                "title": "Rocket.Chat",
-                "description": "Μια πλήρως παραμετροποιήσιμη πλατφόρμα επικοινωνίας που επιτρέπει σε δημόσιους φορείς να αντικαταστήσουν κλειστά εμπορικά συστήματα, διατηρώντας τον πλήρη έλεγχο των συνομιλιών και των αρχείων τους.",
-                "commercial_equivalent": "Slack",
-                "url": "https://rocket.chat/"
-            },
-            {
-                "id": "mattermost-gov",
-                "title": "Mattermost",
-                "description": "Λύση ομαδικής επικοινωνίας και διαχείρισης ροών εργασίας (workflow), σχεδιασμένη για περιβάλλοντα με υψηλές απαιτήσεις ασφαλείας και ιδιωτικότητας στον δημόσιο τομέα.",
-                "commercial_equivalent": "Slack, Microsoft Teams",
-                "url": "https://mattermost.com"
-            },
-            {
-                "id": "zulip-gov",
-                "title": "Zulip",
-                "description": "Πλατφόρμα ομαδικής συνομιλίας που οργανώνει τις συζητήσεις σε θέματα (threading), διευκολύνοντας την παρακολούθηση σύνθετων υπηρεσιακών θεμάτων και τη λήψη αποφάσεων.",
-                "commercial_equivalent": "Slack",
-                "url": "https://zulip.com/"
-            },
-            {
-                "id": "element-gov",
-                "title": "Element",
-                "description": "Ασφαλής εφαρμογή επικοινωνίας βασισμένη στο ανοικτό πρωτόκολλο Matrix, που επιτρέπει τη διαλειτουργικότητα μεταξύ διαφορετικών κυβερνητικών τμημάτων με κρυπτογράφηση άκρου-προς-άκρο.",
-                "commercial_equivalent": "Slack, Discord",
-                "url": "https://element.io/"
-            },
-            {
-                "id": "caddy-gov",
-                "title": "Caddy",
-                "description": "Ασφαλής εξυπηρετητής ιστού για δημόσιες υπηρεσίες, που εγγυάται την κρυπτογραφημένη επικοινωνία (HTTPS) χωρίς πολύπλοκες ρυθμίσεις.",
-                "commercial_equivalent": "Proprietary Web Servers",
-                "url": "https://caddyserver.com/"
-            },
-            {
-                "id": "kubernetes-gov",
-                "title": "Kubernetes",
-                "description": "Πλατφόρμα ενορχήστρωσης containers για τη δημιουργία κλιμακούμενων και σταθερών δημόσιων ψηφιακών υπηρεσιών με υψηλή διαθεσιμότητα.",
-                "commercial_equivalent": "Proprietary Orchestration Tools",
-                "url": "https://kubernetes.io/"
-            },
-            {
-                "id": "drupal-gov",
-                "title": "Drupal",
-                "description": "Ένα από τα κορυφαία συστήματα διαχείρισης περιεχομένου (CMS) στον κόσμο, με δυνατότητες ενσωμάτωσης τεχνητής νοημοσύνης και απόλυτο έλεγχο χωρίς εξάρτηση από προμηθευτές.",
-                "commercial_equivalent": "Adobe Experience Manager, Sitecore",
-                "url": "https://new.drupal.org/home"
-            },
-            {
-                "id": "alfresco-gov",
-                "title": "Alfresco",
-                "description": "Εταιρικού επιπέδου πλατφόρμα για την αυτοματοποίηση ροών εργασίας και τη διαχείριση εγγράφων σε δημόσιους οργανισμούς με υψηλές απαιτήσεις διακυβέρνησης.",
-                "commercial_equivalent": "OpenText",
-                "url": "https://www.hyland.com/en/solutions/products/alfresco-platform"
-            },
-            {
-                "id": "stalwart-gov",
-                "title": "Stalwart Mail Server",
-                "description": "Ασφαλής και κλιμακούμενη υποδομή ηλεκτρονικού ταχυδρομείου για δημόσιους φορείς, που εξασφαλίζει την κυριαρχία των δεδομένων αλληλογραφίας.",
-                "commercial_equivalent": "Enterprise Grade Mail Servers",
-                "url": "https://stalw.art/"
-            },
-            {
-                "id": "dokuwiki-gov",
-                "title": "DokuWiki",
-                "description": "Ένα εξαιρετικά ευέλικτο και εύχρηστο λογισμικό Wiki που δεν απαιτεί βάση δεδομένων, ιδανικό για την τεκμηρίωση υπηρεσιακών διαδικασιών και εγχειριδίων.",
-                "commercial_equivalent": "Confluence, Microsoft SharePoint",
-                "url": "https://www.dokuwiki.org/dokuwiki"
-            },
-            {
-                "id": "zammad-gov",
-                "title": "Zammad",
-                "description": "Σύστημα διαχείρισης αιτημάτων πολιτών και εσωτερικής υποστήριξης για δημόσιους φορείς, προσφέροντας διαφάνεια και οργάνωση στην επικοινωνία.",
-                "commercial_equivalent": "Proprietary Helpdesk Systems",
-                "url": "https://zammad.com/en"
-            },
-            {
-                "id": "mediacms-gov",
-                "title": "MediaCMS",
-                "description": "Μια πλήρης πλατφόρμα διαχείρισης περιεχομένου βίντεο που επιτρέπει σε οργανισμούς να δημιουργήσουν τη δική τους εσωτερική υπηρεσία τύπου YouTube.",
-                "commercial_equivalent": "Vimeo OTT, Microsoft Stream",
-                "url": "https://mediacms.io/"
-            },
-            {
-                "id": "tube-gov",
-                "title": "Tube",
-                "description": "Εργαλείο για τη διαχείριση συλλογών βίντεο και ροών RSS, εστιάζοντας στην οργάνωση περιεχομένου.",
-                "commercial_equivalent": "Feedly",
-                "url": "https://git.mills.io/prologic/tube"
-            },
-            {
-                "id": "gnu-health-gov",
-                "title": "GNU Health",
-                "description": "Ένα ολοκληρωμένο οικοσύστημα ψηφιακής υγείας που συνδυάζει την κοινωνική ιατρική με την προηγμένη πληροφορική υγείας για δημόσιες νοσοκομειακές υποδομές. ",
-                "commercial_equivalent": "Proprietary HIS (Hospital Information Systems) ",
-                "url": "https://www.gnuhealth.org/ "
-            },
-            {
-                "id": "openemr-gov",
-                "title": "OpenEMR",
-                "description": "Το κορυφαίο λογισμικό ανοικτού κώδικα παγκοσμίως για τη διαχείριση ηλεκτρονικών ιατρικών φακέλων (EMR) και ιατρικών πρακτικών. ",
-                "commercial_equivalent": "Proprietary EMR Solutions ",
-                "url": "https://www.open-emr.org/ "
-            },
-            {
-                "id": "openmrs-edu",
-                "title": "OpenMRS",
-                "description": "Μια πλατφόρμα ηλεκτρονικών ιατρικών αρχείων που αναπτύσσεται από μια παγκόσμια κοινότητα, θέτοντας τα πρότυπα για την ψηφιακή υγεία σε ερευνητικό και ακαδημαϊκό επίπεδο. ",
-                "commercial_equivalent": "Proprietary Medical Record Systems ",
-                "url": "https://openmrs.org/ "
-            },
-            {
-                "id": "orthanc-gov",
-                "title": "Orthanc",
-                "description": "Ένας ελαφρύς και ελεύθερος διακομιστής DICOM για τη διαχείριση και αρχειοθέτηση ιατρικών εικόνων (ακτινογραφίες, αξονικές κ.α.). ",
-                "commercial_equivalent": "Proprietary PACS Systems ",
-                "url": "https://www.orthanc-server.com/ "
-            },
-            {
-                "id": "sheltermanager-biz",
-                "title": "Animal Shelter Manager",
-                "description": "Ολοκληρωμένη λύση για καταφύγια ζώων και ομάδες διάσωσης, με εργαλεία για την παρακολούθηση της ιατρικής φροντίδας, της υιοθεσίας, των οικονομικών και των εργασιών του προσωπικού.",
-                "commercial_equivalent": "Shelterluv, PetPoint",
-                "url": "https://sheltermanager.com/site/en_home.html"
-            },
-            {
-                "id": "plone-gov",
-                "title": "Plone",
-                "description": "Σύστημα διαχείρισης περιεχομένου υψηλής ασφάλειας, που χρησιμοποιείται συχνά για ενδοδίκτυα μεγάλων δημόσιων οργανισμών.",
-                "commercial_equivalent": "Microsoft SharePoint",
-                "url": "https://plone.org/"
-            },
-            {
-                "id": "paperless-gov",
-                "title": "Paperless-ngx",
-                "description": "Σύστημα διαχείρισης εγγράφων που σαρώνει, αρχειοθετεί και ευρετηριάζει φυσικά έγγραφα, προωθώντας τη μείωση της χρήσης χαρτιού.",
-                "commercial_equivalent": "Proprietary DMS",
-                "url": "https://github.com/paperless-ngx/paperless-ngx"
-            },
-            {
-                "id": "bacula-gov",
-                "title": "Bacula",
-                "description": "Σύστημα αντιγράφων ασφαλείας επιπέδου οργανισμού, με υποστήριξη για μαγνητοταινίες και μεγάλους παρόχους cloud.",
-                "commercial_equivalent": "Veritas NetBackup",
-                "url": "https://www.bacula.org/"
-            },
-            {
-                "id": "projectsend-gov",
-                "title": "ProjectSend",
-                "description": "Εφαρμογή για την ασφαλή αποστολή αρχείων σε πελάτες ή συνεργάτες, με δυνατότητα διαχείρισης χρηστών και πλήρη καταγραφή ενεργειών.",
-                "commercial_equivalent": "ShareFile",
-                "url": "https://www.projectsend.org/"
-            },
-            {
-                "id": "bareos-gov",
-                "title": "Bareos",
-                "description": "Ισχυρό λογισμικό αντιγράφων ασφαλείας και ανάκτησης δεδομένων για ετερογενή δίκτυα και σύνθετες υποδομές.",
-                "commercial_equivalent": "Veritas Backup Exec",
-                "url": "https://www.bareos.com/"
-            },
-            {
-                "id": "restic-gov",
-                "title": "Restic",
-                "description": "Γρήγορο και ασφαλές πρόγραμμα αντιγράφων ασφαλείας που υποστηρίζει πολλούς παρόχους αποθήκευσης και κρυπτογράφηση.",
-                "commercial_equivalent": "Acronis",
-                "url": "https://restic.net/"
-            },
-            {
-                "id": "apache-guacamole-gov",
-                "title": "Apache Guacamole",
-                "description": "Κεντρική πύλη πρόσβασης για την απομακρυσμένη διαχείριση κυβερνητικών υπολογιστών μέσω web, εξαλείφοντας την ανάγκη για εξειδικευμένο λογισμικό στους σταθμούς εργασίας των υπαλλήλων.",
-                "commercial_equivalent": "Secure Remote Access Solutions",
-                "url": "https://guacamole.apache.org/"
+                "id": "claper-edu",
+                "title": "Claper",
+                "description": "Εργαλείο για τη δημιουργία διαδραστικών παρουσιάσεων μέσα στην τάξη, ενισχύοντας τη συμμετοχή των μαθητών.",
+                "commercial_equivalent": "Kahoot! (Presentation mode)",
+                "url": "https://claper.co/"
             }
         ]
     },
     {
-        "id": "gov-gis-security",
-        "title": "GIS & Ασφάλεια",
-        "description": "Γεωγραφικά συστήματα και εργαλεία προστασίας των ψηφιακών υποδομών του κράτους.",
+        "id": "edu-offline-content",
+        "title": "Περιεχόμενο Χωρίς Σύνδεση (Offline)",
+        "description": "Βιβλιοθήκες και εγκυκλοπαίδειες για χρήση χωρίς internet.",
         "subcategories": [
             {
-                "id": "qgis-gov",
-                "title": "QGIS",
-                "description": "Ανάλυση και οπτικοποίηση γεωγραφικών δεδομένων για δήμους και δημόσιους φορείς.",
-                "commercial_equivalent": "ESRI ArcGIS",
-                "url": "https://www.qgis.org/"
+                "id": "kiwix-edu",
+                "title": "Kiwix",
+                "description": "Βιβλιοθήκη ψηφιακού περιεχομένου για χρήση χωρίς σύνδεση στο διαδίκτυο (offline).",
+                "commercial_equivalent": "Kortext",
+                "url": "https://www.kiwix.org"
+            }
+        ]
+    },
+    {
+        "id": "edu-math-science",
+        "title": "Μαθηματικά & Θετικές Επιστήμες",
+        "description": "Εργαλεία γεωμετρίας, προσομοιώσεις φυσικής/χημείας και αστρονομίας.",
+        "subcategories": [
+            {
+                "id": "geogebra-edu",
+                "title": "GeoGebra",
+                "description": "Εργαλείο μαθηματικών, γεωμετρίας και άλγεβρας.",
+                "commercial_equivalent": "Geometer's Sketchpad",
+                "url": "https://www.geogebra.org"
             },
             {
-                "id": "pfsense-gov",
-                "title": "pfSense",
-                "description": "Λογισμικό τείχους ασφαλείας (Firewall) και δρομολόγησης επιπέδου οργανισμού.",
-                "commercial_equivalent": "Cisco ASA, Juniper",
-                "url": "https://www.pfsense.org/"
+                "id": "phet-edu",
+                "title": "PhET Simulations",
+                "description": "Διαδραστικές προσομοιώσεις φυσικής, χημείας και θετικών επιστημών.",
+                "commercial_equivalent": "Labster",
+                "url": "https://phet.colorado.edu"
             },
             {
-                "id": "shorewall-gov",
-                "title": "Shorewall",
-                "description": "Εργαλείο υψηλού επιπέδου για τη διαμόρφωση τείχους προστασίας (Netfilter).",
-                "commercial_equivalent": "Norton Internet Security",
-                "url": "https://shorewall.org/"
+                "id": "stellarium-edu",
+                "title": "Stellarium",
+                "description": "Προσομοίωση αστρονομίας για τη μελέτη και οπτικοποίηση ουράνιων σωμάτων.",
+                "commercial_equivalent": "Starry Night",
+                "url": "https://stellarium.org"
             },
             {
-                "id": "ufw-gov",
-                "title": "UFW",
-                "description": "Εύχρηστο εργαλείο διαχείρισης τείχους ασφαλείας, προεπιλεγμένο στο Ubuntu.",
-                "commercial_equivalent": "Norton Internet Security",
-                "url": "https://help.ubuntu.com/community/UFW"
+                "id": "celestia-edu",
+                "title": "Celestia",
+                "description": "Εξομοιωτής αστρονομίας για τρισδιάστατη εξερεύνηση του διαστήματος.",
+                "commercial_equivalent": "Starry Night",
+                "url": "https://celestiaproject.space/"
+            }
+        ]
+    },
+    {
+        "id": "edu-higher-math",
+        "title": "Ανώτερα Μαθηματικά & Υπολογιστικά Συστήματα",
+        "description": "Εργαλεία για αριθμητικούς υπολογισμούς, άλγεβρα και προσομοιώσεις.",
+        "subcategories": [
+            {
+                "id": "sage-edu",
+                "title": "SageMath",
+                "description": "Ένα ολοκληρωμένο μαθηματικό σύστημα ανοικτού κώδικα που ενοποιεί πολλά υπάρχοντα πακέτα (NumPy, SciPy, κ.α.) σε μια κοινή διεπαφή βασισμένη στην Python.",
+                "commercial_equivalent": "Mathematica, Magma",
+                "url": "https://www.sagemath.org/"
             },
             {
-                "id": "scilab-gov",
+                "id": "scilab-edu",
                 "title": "SciLab",
-                "description": "Εργαλείο μαθηματικών υπολογισμών και ανάλυσης δεδομένων για δημόσιους ερευνητικούς φορείς και οργανισμούς που απαιτούν σύνθετες προσομοιώσεις.",
+                "description": "Λογισμικό υψηλού επιπέδου για αριθμητικούς υπολογισμούς και προσομοιώσεις, αποτελώντας μια εξαιρετική ελεύθερη εναλλακτική για επιστημονικές εφαρμογές.",
                 "commercial_equivalent": "MATLAB",
                 "url": "https://www.scilab.org/"
             },
             {
-                "id": "libgcrypt-gov",
-                "title": "Libgcrypt",
-                "description": "Μια γενική βιβλιοθήκη κρυπτογραφίας βασισμένη στον κώδικα του GnuPG, η οποία παρέχει θεμελιώδη δομικά στοιχεία για την ασφάλεια των δημόσιων ψηφιακών υποδομών.",
-                "commercial_equivalent": "Proprietary Crypto Libraries",
-                "url": "https://gnupg.org/software/libgcrypt/"
+                "id": "octave-edu",
+                "title": "GNU Octave",
+                "description": "Μαθηματικές εφαρμογές, ανάλυση και οπτικοποίηση δεδομένων.",
+                "commercial_equivalent": "MATLAB",
+                "url": "https://www.gnu.org/software/octave/"
+            }
+        ]
+    },
+    {
+        "id": "edu-statistics-research",
+        "title": "Στατιστική & Ανάλυση Δεδομένων",
+        "description": "Εργαλεία στατιστικής ανάλυσης για έρευνα και πανεπιστήμια.",
+        "subcategories": [
+            {
+                "id": "r-project-edu",
+                "title": "R Project",
+                "description": "Η κοινή γλώσσα των επιστημόνων για εφαρμοσμένη στατιστική και ανάλυση δεδομένων.",
+                "commercial_equivalent": "SPSS, SAS, MPlus",
+                "url": "https://www.r-project.org"
             },
             {
-                "id": "enigmail-gov",
-                "title": "Enigmail",
-                "description": "Επέκταση ασφαλείας για το Thunderbird που ενσωματώνει την κρυπτογράφηση PGP, απαραίτητη για την εμπιστευτική υπηρεσιακή αλληλογραφία.",
-                "commercial_equivalent": "Secure Email Gateways",
-                "url": "http://www.enigmail.net/home/index.php"
+                "id": "jamovi-edu",
+                "title": "Jamovi",
+                "description": "Σύγχρονο περιβάλλον χρήστη για στατιστική ανάλυση βασισμένο στην R.",
+                "commercial_equivalent": "SPSS",
+                "url": "https://www.jamovi.org"
             },
             {
-                "id": "leon-gov",
-                "title": "Leon",
-                "description": "Ένας ανοικτός προσωπικός βοηθός (AI) που μπορεί να φιλοξενηθεί σε τοπικούς διακομιστή (self-hosted), επιτρέποντας στους δημόσιους φορείς να αυτοματοποιούν εργασίες χωρίς να εκθέτουν δεδομένα σε εξωτερικά clouds.",
-                "commercial_equivalent": "Siri, Google Assistant",
-                "url": "https://getleon.ai/"
+                "id": "jasp-edu",
+                "title": "JASP",
+                "description": "Σύγχρονο περιβάλλον χρήστη για στατιστική ανάλυση βασισμένο στην R.",
+                "commercial_equivalent": "SPSS",
+                "url": "https://jasp-stats.org/"
             },
             {
-                "id": "torbirdy-gov",
-                "title": "TorBirdy",
-                "description": "Εξειδικευμένο εργαλείο που ρυθμίζει το Mozilla Thunderbird ώστε να δρομολογεί την αλληλογραφία μέσω του δικτύου Tor, εξασφαλίζοντας την ανωνυμία των κυβερνητικών επικοινωνιών.",
-                "commercial_equivalent": "Secure Email Routing",
-                "url": "https://trac.torproject.org/projects/tor/wiki/torbirdy"
+                "id": "pspp-edu",
+                "title": "GNU PSPP",
+                "description": "Εφαρμογή για τη στατιστική ανάλυση δειγματοληπτικών δεδομένων.",
+                "commercial_equivalent": "SPSS",
+                "url": "https://www.gnu.org/software/pspp/"
+            }
+        ]
+    },
+    {
+        "id": "edu-lms",
+        "title": "Πλατφόρμες Διαχείρισης Μάθησης (LMS)",
+        "description": "Συστήματα για ηλεκτρονική μάθηση και διαχείριση μαθήματος.",
+        "subcategories": [
+            {
+                "id": "moodle-edu",
+                "title": "Moodle",
+                "description": "Πλατφόρμα διαχείρισης μαθησιακών διαδικασιών (LMS) και εκπαιδευτικού περιεχομένου.",
+                "commercial_equivalent": "Blackboard, Canvas",
+                "url": "https://moodle.org"
             },
             {
-                "id": "privoxy-gov",
-                "title": "Privoxy",
-                "description": "Εργαλείο φιλτραρίσματος περιεχομένου και προστασίας ιδιωτικότητας σε επίπεδο δικτύου, απαραίτητο για τη θωράκιση των σταθμών εργασίας δημόσιων υπαλλήλων.",
-                "commercial_equivalent": "Enterprise Web Filtering",
-                "url": "https://www.privoxy.org/"
+                "id": "chamilo-edu",
+                "title": "Chamilo",
+                "description": "Σύστημα διαχείρισης μάθησης (LMS) και περιεχομένου, με στόχο τη βελτίωση της πρόσβασης στην εκπαίδευση και τη γνώση παγκοσμίως.",
+                "commercial_equivalent": "Blackboard, Canvas",
+                "url": "https://chamilo.org/en/"
             },
             {
-                "id": "gnutls-gov",
-                "title": "GnuTLS",
-                "description": "Μια ασφαλής βιβλιοθήκη που υλοποιεί τα πρωτόκολλα TLS και SSL, παρέχοντας το απαραίτητο επίπεδο ασφαλείας για την κρυπτογράφηση των δημόσιων ψηφιακών επικοινωνιών.",
-                "commercial_equivalent": "Proprietary SSL Libraries",
-                "url": "https://www.gnu.org/software/gnutls/"
+                "id": "eclass-edu",
+                "title": "Open eClass",
+                "description": "Ελληνικό σύστημα διαχείρισης εκπαιδευτικού περιεχομένου.",
+                "commercial_equivalent": "Blackboard",
+                "url": "https://www.openeclass.org/"
             },
             {
-                "id": "foremost-gov",
-                "title": "Foremost",
-                "description": "Εξειδικευμένο εργαλείο εγκληματολογικής ανάλυσης (forensics) για την ανάκτηση χαμένων αρχείων με βάση τις κεφαλίδες και τις δομές των δεδομένων τους.",
-                "commercial_equivalent": "Specialized Data Recovery Tools",
-                "url": "https://foremost.sourceforge.net/"
+                "id": "efront-edu",
+                "title": "eFront",
+                "description": "Μια σύγχρονη πλατφόρμα διαχείρισης μάθησης (LMS) που εστιάζει στην ευχρηστία και την αποτελεσματική οργάνωση εκπαιδευτικού περιεχομένου.",
+                "commercial_equivalent": "Blackboard",
+                "url": "https://www.efrontlearning.com/"
+            }
+        ]
+    },
+    {
+        "id": "edu-research-publishing",
+        "title": "Ακαδημαϊκές Δημοσιεύσεις & Βιβλιογραφία",
+        "description": "Εργαλεία διαχείρισης βιβλιογραφίας, δημοσίευσης περιοδικών και τεκμηρίωσης.",
+        "subcategories": [
+            {
+                "id": "zotero-edu",
+                "title": "Zotero",
+                "description": "Διαχείριση βιβλιογραφικών παραπομπών και οργάνωση έρευνας.",
+                "commercial_equivalent": "EndNote, Mendeley",
+                "url": "https://www.zotero.org"
             },
             {
-                "id": "qtparted-gov",
-                "title": "qtparted",
-                "description": "Γραφική εφαρμογή για τη διαχείριση κατατμήσεων σκληρού δίσκου, απαραίτητη για τη συντήρηση και την οργάνωση σταθμών εργασίας δημόσιων φορέων.",
-                "commercial_equivalent": "Partition Magic",
-                "url": "https://qtparted.sourceforge.net/"
+                "id": "jabref-edu",
+                "title": "JabRef",
+                "description": "Εξειδικευμένος διαχειριστής βιβλιογραφίας που χρησιμοποιεί το format BibTeX.",
+                "commercial_equivalent": "EndNote",
+                "url": "https://www.jabref.org/"
             },
             {
-                "id": "osip-gov",
-                "title": "Osip",
-                "description": "Βιβλιοθήκη ανοικτού κώδικα που υλοποιεί το πρωτόκολλο SIP, επιτρέποντας την ανάπτυξη αυτόνομων και ασφαλών κυβερνητικών υποδομών τηλεφωνίας IP.",
-                "commercial_equivalent": "Proprietary SIP Stacks",
-                "url": "https://www.gnu.org/software/osip/"
+                "id": "ojs-edu",
+                "title": "OJS (Open Journal Systems)",
+                "description": "Πλατφόρμα για τη διαχείριση και δημοσίευση επιστημονικών περιοδικών.",
+                "commercial_equivalent": "ScholarOne, Editorial Manager",
+                "url": "https://pkp.sfu.ca/ojs/"
             },
             {
-                "id": "i2p-gov",
-                "title": "I2P",
-                "description": "Ένα πλήρως αποκεντρωμένο δίκτυο ανωνυμίας που επιτρέπει την ασφαλή και ανώνυμη επικοινωνία, ανθεκτικό σε λογοκρισία και παρακολούθηση.",
-                "commercial_equivalent": "Closed Darknets / VPNs",
-                "url": "https://geti2p.net/"
+                "id": "mediawiki-edu",
+                "title": "MediaWiki",
+                "description": "Η πλατφόρμα που τρέχει τη Wikipedia, ιδανική για τη δημιουργία γνωσιακών βάσεων.",
+                "commercial_equivalent": "Confluence",
+                "url": "https://www.mediawiki.org"
             },
             {
-                "id": "firewalld-gov",
-                "title": "FirewallD",
-                "description": "Σύγχρονη λύση διαχείρισης τείχους προστασίας για τη θωράκιση των δημόσιων ψηφιακών υποδομών, προσφέροντας ευελιξία και υψηλή διαθεσιμότητα.",
-                "commercial_equivalent": "Enterprise Firewall Systems",
-                "url": "https://firewalld.org/"
+                "id": "docusaurus-edu",
+                "title": "Docusaurus",
+                "description": "Εργαλείο για τη δόμηση και πλοήγηση σε σύνθετες δομές περιεχομένων και τεκμηρίωση.",
+                "commercial_equivalent": "GitBook",
+                "url": "https://docusaurus.io/"
             },
             {
-                "id": "dante-gov",
-                "title": "Dante",
-                "description": "Μια ισχυρή και ελεύθερη υλοποίηση του πρωτοκόλλου SOCKS, που χρησιμοποιείται για την ασφαλή δρομολόγηση και τον έλεγχο της κυκλοφορίας σε κυβερνητικά δίκτυα.",
-                "commercial_equivalent": "Microsoft Proxy Server",
-                "url": "http://www.inet.no/dante/"
+                "id": "sphinx-edu",
+                "title": "Sphinx",
+                "description": "Εργαλείο για τη δόμηση και πλοήγηση σε σύνθετες δομές περιεχομένων και τεκμηρίωση.",
+                "commercial_equivalent": "GitBook",
+                "url": "https://www.sphinx-doc.org/"
             },
             {
-                "id": "ccrtp-gov",
-                "title": "Ccrtp",
-                "description": "Υλοποίηση της στοίβας πρωτοκόλλων RTP από το έργο GNU, κρίσιμη για τη δημιουργία ασφαλών και σταθερών υποδομών μεταφοράς ήχου και βίντεο σε πραγματικό χρόνο.",
-                "commercial_equivalent": "Proprietary RTP Stacks",
-                "url": "https://www.gnu.org/software/ccrtp/"
+                "id": "wiki-go-edu",
+                "title": "Wiki-Go",
+                "description": "Ένα απλό και γρήγορο σύστημα διαχείρισης γνώσης για τη δημιουργία εκπαιδευτικών wikis και οργάνωση σημειώσεων.",
+                "commercial_equivalent": "Notion (Wiki features)",
+                "url": "https://github.com/leomoon-studios/wiki-go"
+            }
+        ]
+    },
+    {
+        "id": "edu-gis",
+        "title": "Γεωχωρικά Δεδομένα (GIS)",
+        "description": "Εργαλεία για τη διαχείριση, ανάλυση και χαρτογράφηση γεωχωρικών πληροφοριών.",
+        "subcategories": [
+            {
+                "id": "qgis-edu",
+                "title": "QGIS",
+                "description": "Το πιο διαδεδομένο σύστημα γεωγραφικών πληροφοριών ανοικτού κώδικα.",
+                "commercial_equivalent": "ArcGIS",
+                "url": "https://www.qgis.org"
             },
             {
-                "id": "ns3-gov",
-                "title": "Ns-3",
-                "description": "Προσομοιωτής κίνησης δικτύου για τη μελέτη και το σχεδιασμό υποδομών.",
-                "commercial_equivalent": "OPNET",
-                "url": "https://www.nsnam.org/"
+                "id": "grass-gis-edu",
+                "title": "GRASS GIS",
+                "description": "Λογισμικό για διαχείριση και ανάλυση γεωχωρικών δεδομένων.",
+                "commercial_equivalent": "ArcInfo",
+                "url": "https://grass.osgeo.org/"
+            }
+        ]
+    },
+    {
+        "id": "edu-ide-dev",
+        "title": "Περιβάλλοντα Ανάπτυξης (IDE) & IT",
+        "description": "Εργαλεία προγραμματισμού για σχολές πληροφορικής και ανάπτυξη εφαρμογών.",
+        "subcategories": [
+            {
+                "id": "eclipse-edu",
+                "title": "Eclipse",
+                "description": "Ένα από τα πιο δημοφιλή και ισχυρά IDE παγκοσμίως, με τεράστιο οικοσύστημα από plugins για Java και πολλές άλλες γλώσσες προγραμματισμού.",
+                "commercial_equivalent": "Microsoft Visual Studio",
+                "url": "https://www.eclipse.org/"
             },
             {
-                "id": "gparted-gov",
-                "title": "gparted",
-                "description": "Εφαρμογή για τη διαμόρφωση και διαχείριση κατατμήσεων σκληρού δίσκου.",
-                "commercial_equivalent": "Partition Magic",
-                "url": "https://gparted.org/"
+                "id": "netbeans-edu",
+                "title": "NetBeans",
+                "description": "Περιβάλλον ανάπτυξης εφαρμογών, κυρίως για τη γλώσσα Java.",
+                "commercial_equivalent": "IntelliJ IDEA (Commercial)",
+                "url": "https://netbeans.apache.org/"
             },
             {
-                "id": "testdisk-gov",
-                "title": "TestDisk / PhotoRec",
-                "description": "Εργαλεία για την ανάκτηση χαμένων δεδομένων και την επιδιόρθωση πινάκων κατατμήσεων.",
-                "commercial_equivalent": "Εξειδικευμένο λογισμικό ανάκτησης",
-                "url": "https://www.cgsecurity.org/"
+                "id": "geany-edu",
+                "title": "Geany",
+                "description": "Ένας εξαιρετικά γρήγορος και ελαφρύς επεξεργαστής κειμένου με βασικές δυνατότητες IDE, ιδανικός για γρήγορες αλλαγές σε κώδικα.",
+                "commercial_equivalent": "Sublime Text",
+                "url": "https://www.geany.org/"
+            },
+            {
+                "id": "codeblocks-edu",
+                "title": "Code::Blocks",
+                "description": "Ένα εξαιρετικά παραμετροποιήσιμο και επεκτάσιμο περιβάλλον ανάπτυξης (IDE) για C, C++ και Fortran.",
+                "commercial_equivalent": "Microsoft Visual Studio",
+                "url": "https://www.codeblocks.org/"
+            },
+            {
+                "id": "dev-cpp-edu",
+                "title": "Dev-C++",
+                "description": "Ένα ελαφρύ και αποδοτικό IDE για προγραμματισμό σε C/C++.",
+                "commercial_equivalent": "Microsoft Visual Studio",
+                "url": "https://dev-cpp.com/Dev-Cpp-5/"
+            },
+            {
+                "id": "penpot-edu",
+                "title": "Penpot",
+                "description": "Πλατφόρμα σχεδιασμού και πρωτοτυποποίησης (design & prototyping) που επιτρέπει την άψογη συνεργασία μεταξύ σχεδιαστών και προγραμματιστών.",
+                "commercial_equivalent": "Figma",
+                "url": "https://penpot.app/"
+            },
+            {
+                "id": "mermaid-edu",
+                "title": "Mermaid",
+                "description": "Εργαλείο δημιουργίας διαγραμμάτων και οπτικοποίησης μέσω κώδικα (Markdown), ιδανικό για ακαδημαϊκή τεκμηρίωση.",
+                "commercial_equivalent": "Microsoft Visio",
+                "url": "https://github.com/mermaid-js"
+            }
+        ]
+    },
+    {
+        "id": "edu-engineering-arts",
+        "title": "Τέχνες, Μηχανική & 3D",
+        "description": "Επαγγελματικά εργαλεία για σχεδιασμό, μουσική, 3D μοντελοποίηση και CAD.",
+        "subcategories": [
+            {
+                "id": "blender-edu",
+                "title": "Blender",
+                "description": "3D μοντελοποίηση, animation, rendering και compositing.",
+                "commercial_equivalent": "3ds Max, Maya",
+                "url": "https://www.blender.org"
+            },
+            {
+                "id": "freecad-edu",
+                "title": "FreeCAD",
+                "description": "3D CAD εργαλείο για αρχιτεκτονική και μηχανολογικό σχεδιασμό.",
+                "commercial_equivalent": "AutoCAD, SolidWorks",
+                "url": "https://www.freecad.org"
+            },
+            {
+                "id": "archimedes-edu",
+                "title": "Archimedes",
+                "description": "Ένα ανοικτού κώδικα σύστημα CAD (Computer-Aided Design) ειδικά σχεδιασμένο για αρχιτεκτονική σχεδίαση.",
+                "commercial_equivalent": "AutoCAD",
+                "url": "https://www.codeplex.com/archimedes"
+            },
+            {
+                "id": "musescore-edu",
+                "title": "MuseScore",
+                "description": "Λογισμικό για μουσική σύνθεση και σημειογραφία.",
+                "commercial_equivalent": "Sibelius, Finale",
+                "url": "https://musescore.org/"
+            },
+            {
+                "id": "hydrogen-edu",
+                "title": "Hydrogen",
+                "description": "Προηγμένη drum machine για μουσική παραγωγή.",
+                "commercial_equivalent": "DrumCore",
+                "url": "https://www.hydrogen-music.org/"
+            },
+            {
+                "id": "tuxguitar-edu",
+                "title": "TuxGuitar",
+                "description": "Επεξεργαστής και αναπαραγωγέας tablature για έγχορδα όργανα.",
+                "commercial_equivalent": "GuitarPro",
+                "url": "https://www.tuxguitar.app/"
+            },
+            {
+                "id": "audacity-edu",
+                "title": "Audacity",
+                "description": "Επαγγελματική εγγραφή και επεξεργασία ήχου.",
+                "commercial_equivalent": "Adobe Audition",
+                "url": "https://www.audacityteam.org"
             }
         ]
     }
